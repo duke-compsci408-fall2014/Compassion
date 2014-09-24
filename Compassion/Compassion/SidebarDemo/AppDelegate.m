@@ -7,12 +7,17 @@
 //
 
 #import "AppDelegate.h"
+#import <Parse/Parse.h>
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+ 
+    
+    [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
     
     UIImage *navBackgroundImage = [UIImage imageNamed:@"nav_bg"];
     [[UINavigationBar appearance] setBackgroundImage:navBackgroundImage forBarMetrics:UIBarMetricsDefault];

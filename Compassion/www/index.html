@@ -3,11 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
-    <title>Embodying Compassion</title>
+    <title></title>
 
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 
-    <!-- compiled css output -->
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
     <link href="css/ionic.app.css" rel="stylesheet">
+    -->
 
     <!-- ionic/angularjs js -->
     <script src="lib/ionic/js/ionic.bundle.js"></script>
@@ -20,23 +23,7 @@
     <script src="js/controllers.js"></script>
   </head>
 
-  <body ng-app="Embodying Compassion">
-      <ion-side-menus>
-          
-        <!-- Center content -->  
-        <ion-side-menu-content>
-            <ion-header-bar class="bar-dark">
-                <h1 class="title">Embodying Compassion</h1>
-            </ion-header-bar>
-            <ion-content>
-            </ion-content>
-        </ion-side-menu-content>
-          <ion-side-menu side="right">
-              <ion-header-bar class="bar-dark">
-                <h1 class="title">Explore</h1>
-              </ion-header-bar>
-          </ion-side-menu>
-          
-    </ion-side-menus>      
-    </body>
+  <body ng-app="starter">
+    <ion-nav-view></ion-nav-view>
+  </body>
 </html>

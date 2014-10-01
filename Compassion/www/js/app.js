@@ -30,11 +30,11 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       controller: 'AppCtrl'
     })
 
-    .state('app.search', {
-      url: "/search",
+    .state('app.about', {
+      url: "/about",
       views: {
         'menuContent' :{
-          templateUrl: "templates/search.html"
+          templateUrl: "templates/about.html"
         }
       }
     })
@@ -57,7 +57,7 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       }
     })
 
-    .state('app.single', {
+    .state('app.singlePlaylist', {
       url: "/playlists/:playlistId",
       views: {
         'menuContent' :{
@@ -65,7 +65,17 @@ angular.module('starter', ['ionic', 'starter.controllers'])
           controller: 'PlaylistCtrl'
         }
       }
-    });
+    })
+    .state('app.singleArtifact', {
+      url: "/artifact/:artifactId",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/artifact.html",
+          controller: 'ArtifactCtrl'
+        }
+      }
+    })
+    ;
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/app/playlists');
 });

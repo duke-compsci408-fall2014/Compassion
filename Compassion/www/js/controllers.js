@@ -43,4 +43,14 @@ angular.module('starter.controllers', [])
 })
 
 .controller('PlaylistCtrl', function($scope, $stateParams) {
+  $scope.currentPlaylist = $stateParams.playlistId;
+  $scope.artifacts = [
+    { name: 'Artifact 1', id: 1 },
+    { name: 'Artifact 2', id: 2 },
+    { name: 'Artifact 3', id: 3 },
+  ];
+})
+
+.controller('ArtifactCtrl', function($scope, $stateParams) {
+  
 });

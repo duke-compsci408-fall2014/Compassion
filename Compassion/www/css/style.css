@@ -44,3 +44,12 @@
 	display: inline-block;
 	width: 44%;
 }
+
+.row.banner-image {
+	height: 100px;
+	background-image: url('../img/explore_background.jpg');
+}
+
+.about-text {
+	padding: 20px;
+}

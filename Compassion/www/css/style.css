@@ -19,13 +19,11 @@
 	text-align: center;
 }
 
-.explore-content .item-content, .explore-content .item-complex {
-	background-color: transparent;
-}
-
-.explore-content .item-complex {
+.explore-content ion-item {
+	background-color: transparent !important;
 	border:none;
 }
+
 .explore-content .item-content {
 	margin: 0 auto;
 	width: 90%;

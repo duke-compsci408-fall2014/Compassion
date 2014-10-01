@@ -1,1 +1,33 @@
 /* Empty. Add your own CSS if you like */
+.explore-content {
+	background-image: url('../img/explore_background.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.exhibit-header {
+	margin-top:43px;
+	height: 80px;
+	color: white;
+	text-align: center;
+	font-size: 3em;
+}
+
+.explore-section-header {
+	line-height: 60px;
+	font-size: 1.5em !important;
+	text-align: center;
+}
+
+.explore-content .item-content, .explore-content .item-complex {
+	background-color: transparent;
+}
+
+.explore-content .item-complex {
+	border:none;
+}
+.explore-content .item-content {
+	margin: 0 auto;
+	width: 90%;
+	margin-left: 30px;
+}

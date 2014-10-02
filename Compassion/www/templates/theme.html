@@ -1,4 +1,4 @@
-<ion-view title="Theme {{currentPlaylist}}">
+<ion-view title="Theme {{currentTheme}}">
   <ion-nav-buttons side="right">
     <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
@@ -14,7 +14,7 @@ begrenzing interesten. </p>
   </div>
 
   <div class="card" ng-repeat="artifact in artifacts">
-	<a href="#/app/artifact/{{artifact.id}}">
+	<a href="#/app/artifacts/{{artifact.id}}">
 	  <div class="item">
 	    <h3>Artifact Name</h3>
 	  </div>

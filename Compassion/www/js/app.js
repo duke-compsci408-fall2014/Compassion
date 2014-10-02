@@ -66,11 +66,29 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
       }
     })
-    .state('app.singleArtifact', {
-      url: "/artifact/:artifactId",
+    .state('app.artifactFullScreen', {
+      url: "/artifacts/:artifactId",
       views: {
         'menuContent' :{
           templateUrl: "templates/artifact/full_screen.html",
+          controller: 'ArtifactCtrl'
+        }
+      }
+    })
+    .state('app.singleArtifactIntermediate', {
+      url: "/artifacts/caption/:artifactId",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/artifact/intermediate.html",
+          controller: 'ArtifactCtrl'
+        }
+      }
+    })
+    .state('app.singleArtifactDetails', {
+      url: "/artifacts/details/:artifactId",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/artifact/details.html",
           controller: 'ArtifactCtrl'
         }
       }

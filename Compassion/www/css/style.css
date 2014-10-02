@@ -1,7 +1,7 @@
 /* Empty. Add your own CSS if you like */
 .explore-content {
 	background-image: url('../img/explore_background.jpg');
-    background-size: contain;
+    background-size: 100% auto;
     background-repeat: no-repeat;
 }
 
@@ -49,13 +49,43 @@
 	height: 100px;
 	background: url('../img/about_background.jpg') no-repeat;
 	background-size: cover;
+	width: 100%;
 }
 
 .about-text {
 	padding: 20px;
 }
 
-.
+.artifact-close {
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	font-size: 32px;
+	color: white;
+	text-shadow: 1px 1px 3px;
+	z-index: 1000;
+}
 
+.artifact-share {
+	position: fixed;
+	top: 15px;
+	right: 20px;
+	font-size: 40px;
+	text-shadow: 1px 1px 3px;
+	color: white;
+	z-index: 1000;
+}
 
+.artifact-info {
+	padding-left: 10px;
+	line-height: 35px;
+	font-size: 28px;
+}
+
+.zoom-pic {
+}
+
+.artifact-page {
+	background-color: black;
+}
 

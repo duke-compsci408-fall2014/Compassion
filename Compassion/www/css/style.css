@@ -1,6 +1,6 @@
 /* Empty. Add your own CSS if you like */
 .explore-content {
-	background-image: url('img/explore_background.jpg');
+	background-image: url('/img/explore_background.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
@@ -47,7 +47,7 @@
 
 .row.banner-image {
 	height: 100px;
-	background: url('../img/about_background.jpg') no-repeat;
+	background: url('/img/about_background.jpg') no-repeat;
 	background-size: cover;
 	width: 100%;
 }

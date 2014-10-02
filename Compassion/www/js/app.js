@@ -39,7 +39,6 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
       }
     })
-
     .state('app.browse', {
       url: "/browse",
       views: {
@@ -48,22 +47,22 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
       }
     })
-    .state('app.playlists', {
-      url: "/playlists",
+    .state('app.explore', {
+      url: "/explore",
       views: {
         'menuContent' :{
-          templateUrl: "templates/playlists.html",
-          controller: 'PlaylistsCtrl'
+          templateUrl: "templates/explore.html",
+          controller: 'ExploreCtrl'
         }
       }
     })
 
-    .state('app.singlePlaylist', {
-      url: "/playlists/:playlistId",
+    .state('app.singleTheme', {
+      url: "/themes/:themeId",
       views: {
         'menuContent' :{
-          templateUrl: "templates/playlist.html",
-          controller: 'PlaylistCtrl'
+          templateUrl: "templates/theme.html",
+          controller: 'ThemeCtrl'
         }
       }
     })
@@ -71,13 +70,13 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       url: "/artifact/:artifactId",
       views: {
         'menuContent' :{
-          templateUrl: "templates/artifact.html",
+          templateUrl: "templates/artifact/full_screen.html",
           controller: 'ArtifactCtrl'
         }
       }
     })
     ;
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/playlists');
+  $urlRouterProvider.otherwise('/app/explore');
 });
 

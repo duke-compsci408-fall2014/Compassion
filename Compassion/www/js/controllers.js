@@ -34,8 +34,8 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
+.controller('ExploreCtrl', function($scope) {
+  $scope.themes = [
     { title: 'Theme 1', id: 1 },
     { title: 'Theme 2', id: 2 },
     { title: 'Theme 3', id: 3 },
@@ -43,7 +43,7 @@ angular.module('starter.controllers', [])
   ];
 })
 
-.controller('PlaylistCtrl', function($scope, $stateParams) {
+.controller('ThemeCtrl', function($scope, $stateParams) {
   $scope.currentPlaylist = $stateParams.playlistId;
   $scope.artifacts = [
     { name: 'Artifact 1', id: 1 },

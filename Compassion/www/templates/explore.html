@@ -5,10 +5,10 @@
   <ion-content class="has-header explore-content">
     <div class="exhibit-header">Exhibit Name</div>
     <ion-list>
-      <ion-item ng-repeat="playlist in playlists" >
-        <a class="item item-thumbnail-left" href="#/app/playlists/{{playlist.id}}">
+      <ion-item ng-repeat="theme in themes" >
+        <a class="item item-thumbnail-left" href="#/app/themes/{{theme.id}}">
           <img src="../img/explore_background.jpg">
-          <h2 class="explore-section-header">{{playlist.title}}</h2>
+          <h2 class="explore-section-header">{{theme.title}}</h2>
         </a>
       </ion-item>
     </ion-list>

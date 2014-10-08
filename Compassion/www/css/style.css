@@ -114,3 +114,57 @@
 .intermediate .tabs {
 	position: relative;
 }
+
+.active {
+	background-color: orange;
+}
+
+.details h4 {
+	text-align: center;
+}
+
+.details .img {
+	width: 175px;
+	height: 175px;
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.details .icon-row {
+	margin-top:55px;
+	text-align: center;
+}
+
+.details .icon {
+	font-size: 40px;
+}
+
+.details .music-player {
+	width: 100%;
+	height: 150px;
+	background-color: gray;
+}
+
+
+.details .compare-section {
+	width: 100%;
+	height: 400px;
+	background-color: gray;
+	padding: 10px;
+}
+
+.details .compare-section .header{
+	
+}
+
+.details .compare-section .compare-image{
+	width: 30%;
+	height: 30%;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+

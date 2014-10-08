@@ -54,7 +54,10 @@ angular.module('starter.controllers', [])
 
 .controller('ArtifactCtrl', function($scope, $stateParams) {
   $scope.curArtId = $stateParams.artifactId;
+  $scope.tab = 1;
 })
+
+
 
 .controller('SlideshowCtrl', function($scope, $ionicSlideBoxDelegate){
    $scope.nextSlide = function (){ 

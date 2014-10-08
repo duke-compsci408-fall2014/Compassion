@@ -54,7 +54,8 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       url: "/slideshow",
       views: {
         'menuContent' :{
-          templateUrl: "templates/slideshow.html"
+          templateUrl: "templates/slideshow.html", 
+          controller: 'SlideshowCtrl'
         }
       }
     })

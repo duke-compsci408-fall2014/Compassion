@@ -36,9 +36,9 @@ angular.module('starter.controllers', [])
 
 .controller('ExploreCtrl', function($scope) {
   $scope.themes = [
-    { title: 'Theme 1', id: 1 },
-    { title: 'Theme 2', id: 2 },
-    { title: 'Theme 3', id: 3 },
+    { title: 'theme 1', id: 1 },
+    { title: 'theme 2', id: 2 },
+    { title: 'theme 3', id: 3 },
 
   ];
 })
@@ -46,12 +46,20 @@ angular.module('starter.controllers', [])
 .controller('ThemeCtrl', function($scope, $stateParams) {
   $scope.currentTheme = $stateParams.themeId;
   $scope.artifacts = [
-    { name: 'Artifact 1', id: 1 },
-    { name: 'Artifact 2', id: 2 },
-    { name: 'Artifact 3', id: 3 },
+    { name: 'artifact 1', id: 1 },
+    { name: 'artifact 2', id: 2 },
+    { name: 'artifact 3', id: 3 },
   ];
 })
 
 .controller('ArtifactCtrl', function($scope, $stateParams) {
   $scope.curArtId = $stateParams.artifactId;
+})
+
+.controller('SlideshowCtrl', function($scope, $ionicSlideBoxDelegate){
+   $scope.nextSlide = function (){ 
+        $ionicSlideBoxDelegate.next();    
+   }
+   
+   
 });

@@ -39,20 +39,22 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
       }
     })
-    .state('app.browse', {
-      url: "/browse",
-      views: {
-        'menuContent' :{
-          templateUrl: "templates/browse.html"
-        }
-      }
-    })
+  
     .state('app.explore', {
       url: "/explore",
       views: {
         'menuContent' :{
           templateUrl: "templates/explore.html",
           controller: 'ExploreCtrl'
+        }
+      }
+    })
+  
+     .state('app.slideshow', {
+      url: "/slideshow",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/slideshow.html"
         }
       }
     })
@@ -90,6 +92,24 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         'menuContent' :{
           templateUrl: "templates/artifact/details.html",
           controller: 'ArtifactCtrl'
+        }
+      }
+    })
+  
+    .state('app.searchTerms', {
+      url: "/searchTerms",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/searchTerms.html"
+        }
+      }
+    })
+  
+  .state('app.searchArtifacts', {
+      url: "/searchArtifacts",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/searchArtifacts.html"
         }
       }
     })

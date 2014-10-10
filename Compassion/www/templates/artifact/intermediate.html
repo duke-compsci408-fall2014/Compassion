@@ -4,7 +4,7 @@
   </ion-nav-buttons>
 
   <ion-content class="intermediate">
-	<div class="padding">
+	<div>
 	<div class="card">
 		  <div class="item item-image">
 		  	<div class="img"></div>
@@ -12,23 +12,24 @@
 	</div>
 </div>
 
- <div class="tabs">
+ <div class="caption-tabs">
   <a class="tab-item" ng-class="{active:tab===1}" ng-click="tab = 1">
     Text Caption
   </a>
   <a class="tab-item" ng-class="{active:tab===2}" ng-click="tab = 2">
     Audio Caption
   </a>
+
 </div>
-
-<p ng-show="tab === 1"> I eat chocolates, alive! </p>
-<p ng-show="tab === 2"> I drink pulpy orange juice, mango milk shake... </p>
-
+  <div class="caption">
+  <p ng-show="tab === 1"> I eat chocolates, alive! </p>
+  <p ng-show="tab === 2"> I drink pulpy orange juice, mango milk shake... </p>
+</div>
 	</ion-content>
 
 
 </ion-view>
 
-<ion-footer-bar align-title="left" class="bar-assertive">
+<ion-footer-bar align-title="left">
 <a  href="#/app/artifacts/details/{{curArtId}}"><button class="button">More details</button></a>
 </ion-footer-bar>

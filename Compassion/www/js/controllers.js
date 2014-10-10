@@ -58,15 +58,27 @@ angular.module('starter.controllers', [])
   $scope.overlay = true;
   $scope.toggleOverlay = function() {
     $scope.overlay = !$scope.overlay;
-  }
+  };
 })
 
+.controller('TermsCtrl', function($scope, $stateParams) {
+  $scope.terms = [
+    {
+      term: 'term A', definition: 'Some definition'
+    },
+    {
+      term: 'term B', definition: 'Some definition'
+    }
 
+  ];
+
+  
+})
 
 .controller('SlideshowCtrl', function($scope, $ionicSlideBoxDelegate){
-   $scope.nextSlide = function (){ 
-        $ionicSlideBoxDelegate.next();    
-   }
+   $scope.nextSlide = function () {
+        $ionicSlideBoxDelegate.next();
+   };
    
    
 });

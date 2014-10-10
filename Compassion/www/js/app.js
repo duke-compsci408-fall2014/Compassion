@@ -101,7 +101,8 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       url: "/searchTerms",
       views: {
         'menuContent' :{
-          templateUrl: "templates/searchTerms.html"
+          templateUrl: "templates/searchTerms.html",
+          controller: 'TermsCtrl'
         }
       }
     })

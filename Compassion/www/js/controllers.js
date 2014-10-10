@@ -55,6 +55,10 @@ angular.module('starter.controllers', [])
 .controller('ArtifactCtrl', function($scope, $stateParams) {
   $scope.curArtId = $stateParams.artifactId;
   $scope.tab = 1;
+  $scope.overlay = true;
+  $scope.toggleOverlay = function() {
+    $scope.overlay = !$scope.overlay;
+  }
 })
 
 

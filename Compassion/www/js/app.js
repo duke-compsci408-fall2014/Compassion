@@ -31,6 +31,11 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       controller: 'AppCtrl'
     })
 
+    .state('index', {
+      url: "/",
+      templateUrl: 'templates/title.html'
+    })
+
     .state('app.about', {
       url: "/about",
       views: {
@@ -54,7 +59,7 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       url: "/slideshow",
       views: {
         'menuContent' :{
-          templateUrl: "templates/slideshow.html", 
+          templateUrl: "templates/slideshow.html",
           controller: 'SlideshowCtrl'
         }
       }
@@ -117,6 +122,6 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     })
     ;
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/explore');
+  $urlRouterProvider.otherwise('/');
 });
 

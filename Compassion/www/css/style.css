@@ -1,4 +1,42 @@
 /* Empty. Add your own CSS if you like */
+.title .title-header {
+	text-align: center;
+	padding: 0 35px;
+}
+
+.title .text {
+	position: absolute;
+	top: 200px;
+}
+
+.title .about-text {
+	padding: 0 30px;
+	text-align: center;
+}
+
+.title .more {
+	text-decoration: none;
+	font-weight: bold;
+	color: blue;
+}
+
+.title .buttons {
+	position: absolute;
+	top: 500px;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 1.3em;
+	padding: 0 40px;
+
+}
+
+.title .explore, .search {
+	height: 50px;
+	width: 100px;
+	text-decoration: none;
+	color: black;
+}
+
 .explore-content {
 	background-image: url('/img/explore_background.jpg');
     background-size: 100% auto;

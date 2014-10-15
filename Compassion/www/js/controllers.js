@@ -34,6 +34,17 @@ angular.module('starter.controllers', [])
   };
 })
 
+.controller('StartCtrl', function($scope, $timeout, $state) {
+  $timeout(function() {
+    $state.go('enter');
+  }, 1000);
+})
+.controller('EnterCtrl', function($scope,$state) {
+  $scope.enter = function() {
+    $state.go('concierge');
+  };
+})
+
 .controller('ExploreCtrl', function($scope) {
   $scope.themes = [
     { title: 'theme 1', id: 1 },

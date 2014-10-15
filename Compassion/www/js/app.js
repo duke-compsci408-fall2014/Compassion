@@ -30,12 +30,22 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       templateUrl: "templates/menu.html",
       controller: 'AppCtrl'
     })
-
-    .state('index', {
-      url: "/",
-      templateUrl: 'templates/title.html'
+    // loading states
+    .state('start', {
+      url: "",
+      templateUrl: 'templates/start/load.html',
+      controller: 'StartCtrl'
     })
-
+    .state('enter', {
+      url: "/",
+      templateUrl: 'templates/start/enter.html',
+      controller: 'EnterCtrl'
+    })
+    .state('concierge', {
+      url: "/concierge",
+      templateUrl: 'templates/start/concierge.html'
+    })
+    // core app states
     .state('app.about', {
       url: "/about",
       views: {

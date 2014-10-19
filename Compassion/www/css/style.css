@@ -1,15 +1,47 @@
+/* overall */
+
+ion-nav-bar .title {
+	color: orange !important;
+	text-transform: capitalize;
+	font-family: "Iowan Old Style", Times, serif !important;
+}
+
+ion-content * {
+	color: white;
+}
+
+.back-button * {
+	color: white !important;
+}
+
+.bar-stable.button.button-clear {
+	color: white;
+}
+
+.buttons.right-buttons {
+	color: white !important;
+}
+
+.bar-header {
+	border-color: gray !important;
+	background-color: black !important;
+}
+
+/* menu */
+
+ion-side-menu ion-content {
+	background-color: black;
+}
+
 /* initial loading page */
 
 .load {
 	background-color: black;
-	background-image: url('../img/loading-back.png');
-	background-size: contain;
-	background-repeat: no-repeat;
 }
 
 .load .wrapper {
 	position: absolute;
-	top: 300px;
+	top: 250px;
 	width: 100%;
 }
 .load .title-header {
@@ -19,7 +51,28 @@
 	font-family: "Iowan Old Style", Times, serif;
 }
 
-.load .enter-button {
+/* enter page */
+
+.enter {
+	background-color: black;
+	background-image: url('../img/loading_back.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.enter .wrapper {
+	position: absolute;
+	top: 300px;
+	width: 100%;
+}
+.enter .title-header {
+	text-align: center;
+	font-size: 2.5em;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
+.enter .enter-button {
 	margin-top: 20px;
 	height: 70px;
 	background: no-repeat center;
@@ -27,74 +80,142 @@
 	background-size: contain;
 }
 
-/* title page */
-.title .title-header {
+/* concierge page */
+
+.concierge {
+	background-color: black;
+	background-image: url('../img/loading_back.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.concierge .title-header {
 	text-align: center;
 	padding: 0 35px;
 }
 
-.title .text {
-}
-
-.title .about-text {
-	padding: 0 30px;
+.concierge .about-text {
+	padding: 0 40px;
 	text-align: center;
 }
 
-.title .more {
+.concierge .more {
 	text-decoration: none;
 	font-weight: bold;
 	color: blue;
 }
 
-.title .buttons {
-	margin-top: 50px;
+.concierge .buttons {
+	margin-top: 20px;
 	position: relative;
 	text-align: center;
 	font-weight: bolder;
 	font-size: 1.3em;
 	padding: 0 40px;
-
 }
 
-.title .explore, .search {
+.concierge .explore,
+.concierge .search {
 	height: 50px;
 	width: 100px;
 	text-decoration: none;
-	color: black;
 }
 
-.title .wrapper {
+.concierge img {
+	-webkit-filter: invert(100%);  
+}
+
+.concierge .explore div, 
+.concierge .search div {
+	color: white;
+}
+
+.concierge .wrapper {
 	position: absolute;
-	top: 150px;
+	top: 200px;
 }
 
-.title .more {
+.concierge .more {
 	text-align: center;
 }
 
-.title .search-image, .explore-image {
+.concierge .search-image, 
+.concierge .explore-image {
 	margin-top: 10px;
 	width: 40px;
 }
+
+/* about page */
+
+.about-page {
+	background-color: black;	
+}
+
+
+.about-page .about-text {
+	padding: 20px;
+}
+
+/* terms page */ 
+
+.terms-page {
+	background-color: black;
+}
+
+.terms-page p {
+	color: white;
+}
+
+.terms-page .pronounce {
+	margin-left: 10px;
+}
+
+.terms-page .item {
+	background-color: black;
+	border: none;
+}
+
+/* artifact search page */ 
+
+.artifact-search-page {
+	background-color: black;
+}
+
+.artifact-search-page p {
+	color: white;
+}
+
+.artifact-search-page .pronounce {
+	margin-left: 10px;
+}
+
+.artifact-search-page .item {
+	background-color: black;
+	border: none;
+}
+
+
 
 /* explore page */
 .explore-content {
 	background-image: url('../img/explore_background.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
+    background-color: black;
 }
 
 .exhibit-header {
 	margin-top:43px;
 	height: 80px;
-	color: white;
+	color: #a87e01;
 	text-align: center;
+	font-family: "Iowan Old Style", Times, serif;
 	font-size: 3em;
 }
 
 .explore-section-header {
 	line-height: 60px;
+	color: black;
 	font-size: 1.5em !important;
 	text-align: center;
 }
@@ -110,6 +231,15 @@
 	margin-left: 30px;
 }
 
+/* theme page */
+
+.theme-page {
+	background-color: black;
+}
+
+.theme-page h3 {
+	color: black;
+}
 
 .theme-description p {
 	padding: 20px;
@@ -119,6 +249,8 @@
 .theme-description {
 	border-bottom: 1px solid black;
 }
+
+/* */
 
 .explore-content .card {
 	display: inline-block;
@@ -132,9 +264,6 @@
 	width: 100%;
 }
 
-.about-text {
-	padding: 20px;
-}
 
 .artifact-close {
 	position: fixed;
@@ -212,10 +341,6 @@
 	clear: both
 }
 
-.active {
-	background-color: orange;
-}
-
 .details h4 {
 	text-align: center;
 }
@@ -263,5 +388,4 @@
 	margin-right: 10px;
 	margin-bottom: 10px;
 }
-
 

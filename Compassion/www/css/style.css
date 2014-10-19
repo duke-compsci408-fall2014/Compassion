@@ -22,7 +22,7 @@ ion-content * {
 	color: white !important;
 }
 
-.bar-header {
+.bar-header, .bar-footer {
 	border-color: gray !important;
 	background-color: black !important;
 }
@@ -298,6 +298,16 @@ ion-side-menu ion-content {
 	background-color: black;
 }
 
+/* intermediate */
+
+.intermediate {
+	background-color: black;
+}
+
+.intermediate .active {
+	background-color: #a87e01;
+}
+
 .intermediate .item-image {
 	width: 100%;
 	height: 0;
@@ -337,8 +347,19 @@ ion-side-menu ion-content {
 .intermediate .caption {
 	position: relative;
 	margin-top: 10px;
-	padding: 10px;
+	padding: 20px;
 	clear: both
+}
+
+.intermediate .more-arrow {
+	margin-left: 10px;
+	line-height: 35px;
+}
+
+/* details */
+
+.details {
+	background-color: black;
 }
 
 .details h4 {
@@ -348,8 +369,10 @@ ion-side-menu ion-content {
 .details .img {
 	width: 175px;
 	height: 175px;
-    background-color: black;
+    background-color: white;
     background-size: contain;
+    background-image: url("../img/explore_background.jpg");
+    background-position: center;
     background-repeat: no-repeat;
 }
 
@@ -389,3 +412,37 @@ ion-side-menu ion-content {
 	margin-bottom: 10px;
 }
 
+/* compare page */
+
+.compare-page {
+	background-color: black;
+}
+
+.compare-page .image-comp {
+	margin-top: 50px;
+	height: 250px;
+}
+
+.compare-page .overlay-caption {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	background-color: black;
+	opacity: 0.6;
+}
+
+.compare-page .image-one,
+.compare-page .image-two {
+	position: relative;
+	background-image: url("../img/explore_background.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.compare-page .text-caption {
+	padding: 20px;
+}

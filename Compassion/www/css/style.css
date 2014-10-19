@@ -1,13 +1,30 @@
 /* initial loading page */
 
+.load {
+	background-color: black;
+	background-image: url('../img/loading-back.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
 .load .wrapper {
 	position: absolute;
-	top: 200px;
+	top: 300px;
 	width: 100%;
 }
 .load .title-header {
 	text-align: center;
-	font-size: 3em;
+	font-size: 2.5em;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
+.load .enter-button {
+	margin-top: 20px;
+	height: 70px;
+	background: no-repeat center;
+	background-image: url('../img/arrowhead.png');
+	background-size: contain;
 }
 
 /* title page */
@@ -49,11 +66,16 @@
 
 .title .wrapper {
 	position: absolute;
-	top: 200px;
+	top: 150px;
 }
 
 .title .more {
 	text-align: center;
+}
+
+.title .search-image, .explore-image {
+	margin-top: 10px;
+	width: 40px;
 }
 
 /* explore page */

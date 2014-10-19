@@ -2,7 +2,7 @@ angular.module('starter')
 .config(function($stateProvider) {
   $stateProvider
   .state('app.compare', {
-        url: "/artifacts/details/compare/:compId",
+        url: "/artifacts/details/:artifactId/compare/:compId",
         views: {
           'menuContent' :{
             templateUrl: "templates/artifact/compare.html",

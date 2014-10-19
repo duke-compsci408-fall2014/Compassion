@@ -376,9 +376,10 @@ ion-side-menu ion-content {
     background-repeat: no-repeat;
 }
 
-.details .icon-row {
-	margin-top:55px;
+.details .icon-row * {
+	margin-top: 10px;
 	text-align: center;
+	text-decoration: none;
 }
 
 .details .icon {

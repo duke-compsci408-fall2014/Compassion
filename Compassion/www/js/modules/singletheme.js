@@ -15,9 +15,9 @@ angular.module('starter')
 .controller('ThemeCtrl', function($scope, $stateParams) {
   $scope.currentTheme = $stateParams.themeId;
   $scope.artifacts = [
-  { name: 'artifact 1', id: 1 },
-  { name: 'artifact 2', id: 2 },
-  { name: 'artifact 3', id: 3 },
+  { name: 'artifact 1', imageURL:'/Users/anthonyotienoolawo/git/Compassion/Compassion/www/img/about_background.jpg', id: 1 },
+  { name: 'artifact 2', imageURL:'../img/explore_background.jpg', id: 2 },
+  { name: 'artifact 3', imageURL:'../img/explore_background.jpg', id: 3 },
   ];
 })
 ;

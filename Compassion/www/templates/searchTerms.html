@@ -2,22 +2,22 @@
   <ion-nav-buttons side="right">
     <button menu-toggle="right"class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
-  <ion-content class="has-header">
-      <div class="item item-input-inset">
-        <label class="item-input-wrapper">
-            <input type="text" ng-model="search" placeholder="Search for a term">
-        </label>
-        <button class="button button-small">
-            search
-        </button>
-  </div>
-  <ul class="list">
-    <li class="item" ng-repeat="term in terms | filter:search">
-      {{term.term}}
-      <p>
-        {{term.definition}}
-      </p>
-    </li>
-  </ul>
+  <ion-content class="has-header terms-page">
+    <div class="item item-input-inset item-dark">
+      <label class="item-input-wrapper">
+          <input type="text" ng-model="search" placeholder="Search for a term">
+      </label>
+      <button class="button button-small">
+          search
+      </button>
+    </div>
+    <ul class="list">
+      <li class="item item-dark" ng-repeat="term in terms | filter:search">
+        {{term.term}}<a href="" ng-click="playSound()" class="pronounce ion-volume-low"></a>
+        <p>
+          {{term.definition}}
+        </p>
+      </li>
+    </ul>
   </ion-content>
 </ion-view>

@@ -10,14 +10,14 @@
 		</div>
 		<div class="col">
 			<div class="row icon-row">
-				<div class="col col-center col-offset-10">
+				<a class="col col-center" ng-href="#/app/artifacts/details/1/where">
 					<i class="icon ion-android-location"></i>
-					Where
-				</div>
-				<div class="col col-center">
+					<div>Where</div>
+				</a>
+				<a class="col col-center" ng-href="#/app/searchTerms">
 					<i class="icon ion-android-book"></i>
-					Terms
-				</div>
+					<div>Terms</div>
+				</a>
 			</div>
 		</div>
 	</div>
@@ -25,12 +25,12 @@
 	</div>
 	<div class="playlist">
 		<ul class="list">
-		    <li class="item">
+		    <li class="item item-dark">
 		      	<strong>Song one</strong>
 		      	<br>
 		      	Artist name one
 		    </li>
-		    <li class="item">
+		    <li class="item item-dark">
 		    	<strong>Song two</strong>
 		    	<br>
 		    	Artist name two
@@ -39,8 +39,9 @@
 	</div>
 	<div class="compare-section">
 		<h5 class="header">Compare with</h5>
-		<div class="compare-image">
-		</div>
+		<a ng-href="#/app/artifacts/details/1/compare/1">
+			<div class="compare-image"></div>
+		</a>
 		<div class="compare-image">
 		</div>
 		<div class="compare-image">

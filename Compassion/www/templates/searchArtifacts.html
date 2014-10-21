@@ -5,22 +5,26 @@
   <ion-content class="has-header artifact-search-page">
       <div class="item item-input-inset">
         <label class="item-input-wrapper">
-            <input type="text" placeholder="artifact title">
+            <input type="text" ng-model="search" placeholder="artifact title">
           </label>
         <button class="button button-small">
             search
         </button>
-  </div>    
-    <div class="card" ng-repeat="artifact in artifacts | filter:search">
-        <a href="#/app/artifacts/{{artifact.id}}">
-          <div class="item">
-            <h3>{{artifact.name}}</h3>
+  </div>
+    <ul>
+        <li ng-repeat="artifact in artifacts | filter:search">
+          <div class="card">
+            <a href="#/app/artifacts/{{artifact.id}}">
+                <div class="item">
+                    <h3>{{artifact.name}}</h3>
+                </div>
+                <div class="item item-image">
+                    <img src="{{artifact.imageURL}}">
+                </div>
+            </a>
           </div>
-          <div class="item item-image">
-            <img src="{{artifact.imageURL}}">
-          </div>
-        </a>
-    </div>
+        </li>
+    </ul>
   </ion-content>
   </ion-content>
 </ion-view>

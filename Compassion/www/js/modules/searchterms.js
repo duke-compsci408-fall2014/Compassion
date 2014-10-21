@@ -13,6 +13,7 @@ angular.module('starter')
     });
   })
   .controller('TermsCtrl', function($scope, $stateParams) {
+      
   $scope.terms = [
     {
       term: 'term A', definition: 'Some definition'

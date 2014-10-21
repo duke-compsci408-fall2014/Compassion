@@ -2,6 +2,7 @@ angular.module('starter.controllers', [])
 
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
   // Form data for the login modal
+
   $scope.loginData = {};
 
   // Create the login modal that we will use later
@@ -33,24 +34,51 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'Theme 1', id: 1 },
-    { title: 'Theme 2', id: 2 },
-    { title: 'Theme 3', id: 3 },
+.controller('ExploreCtrl', function($scope) {
+  $scope.themes = [
+    { title: 'theme 1', id: 1 },
+    { title: 'theme 2', id: 2 },
+    { title: 'theme 3', id: 3 },
 
   ];
 })
 
-.controller('PlaylistCtrl', function($scope, $stateParams) {
-  $scope.currentPlaylist = $stateParams.playlistId;
+.controller('ThemeCtrl', function($scope, $stateParams) {
+  $scope.currentTheme = $stateParams.themeId;
   $scope.artifacts = [
-    { name: 'Artifact 1', id: 1 },
-    { name: 'Artifact 2', id: 2 },
-    { name: 'Artifact 3', id: 3 },
+    { name: 'artifact 1', id: 1 },
+    { name: 'artifact 2', id: 2 },
+    { name: 'artifact 3', id: 3 },
   ];
 })
 
 .controller('ArtifactCtrl', function($scope, $stateParams) {
+  $scope.curArtId = $stateParams.artifactId;
+  $scope.tab = 1;
+  $scope.overlay = true;
+  $scope.toggleOverlay = function() {
+    $scope.overlay = !$scope.overlay;
+  };
+})
+
+.controller('TermsCtrl', function($scope, $stateParams) {
+  $scope.terms = [
+    {
+      term: 'term A', definition: 'Some definition'
+    },
+    {
+      term: 'term B', definition: 'Some definition'
+    }
+
+  ];
+
   
+})
+
+.controller('SlideshowCtrl', function($scope, $ionicSlideBoxDelegate){
+   $scope.nextSlide = function () {
+        $ionicSlideBoxDelegate.next();
+   };
+   
+   
 });

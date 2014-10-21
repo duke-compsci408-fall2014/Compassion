@@ -20,6 +20,7 @@ angular.module('starter', ['ionic', 'starter.controllers'])
   });
 })
 
+
 .config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
 
@@ -30,6 +31,27 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       controller: 'AppCtrl'
     })
 
+    .state('index', {
+      url: "/",
+      templateUrl: 'templates/enterexhibit.html'
+    })
+
+    .state('app.title', {
+      url: "/title",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/title.html"
+        }
+      }
+    })
+    .state('app.enterexhibit', {
+      url: "/enterexhibit",
+      views: {
+      'menuContent' :{
+      templateUrl: "templates/enterexhibit.html"
+       }
+      }
+    })
     .state('app.about', {
       url: "/about",
       views: {
@@ -38,45 +60,84 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
       }
     })
+  
+    .state('app.explore', {
+      url: "/explore",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/explore.html",
+          controller: 'ExploreCtrl'
+        }
+      }
+    })
+  
+     .state('app.slideshow', {
+      url: "/slideshow",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/slideshow.html",
+          controller: 'SlideshowCtrl'
+        }
+      }
+    })
 
-    .state('app.browse', {
-      url: "/browse",
+    .state('app.singleTheme', {
+      url: "/themes/:themeId",
       views: {
         'menuContent' :{
-          templateUrl: "templates/browse.html"
+          templateUrl: "templates/theme.html",
+          controller: 'ThemeCtrl'
         }
       }
     })
-    .state('app.playlists', {
-      url: "/playlists",
+    .state('app.artifactFullScreen', {
+      url: "/artifacts/:artifactId",
       views: {
         'menuContent' :{
-          templateUrl: "templates/playlists.html",
-          controller: 'PlaylistsCtrl'
-        }
-      }
-    })
-
-    .state('app.singlePlaylist', {
-      url: "/playlists/:playlistId",
-      views: {
-        'menuContent' :{
-          templateUrl: "templates/playlist.html",
-          controller: 'PlaylistCtrl'
-        }
-      }
-    })
-    .state('app.singleArtifact', {
-      url: "/artifact/:artifactId",
-      views: {
-        'menuContent' :{
-          templateUrl: "templates/artifact.html",
+          templateUrl: "templates/artifact/full_screen.html",
           controller: 'ArtifactCtrl'
+        }
+      }
+    })
+    .state('app.singleArtifactIntermediate', {
+      url: "/artifacts/caption/:artifactId",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/artifact/intermediate.html",
+          controller: 'ArtifactCtrl'
+        }
+      }
+    })
+    .state('app.singleArtifactDetails', {
+      url: "/artifacts/details/:artifactId",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/artifact/details.html",
+          controller: 'ArtifactCtrl'
+        }
+      }
+    })
+  
+    .state('app.searchTerms', {
+      url: "/searchTerms",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/searchTerms.html",
+          controller: 'TermsCtrl'
+        }
+      }
+    })
+  
+  .state('app.searchArtifacts', {
+      url: "/searchArtifacts",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/searchArtifacts.html"
         }
       }
     })
     ;
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/playlists');
+  $urlRouterProvider.otherwise('/');
 });
 

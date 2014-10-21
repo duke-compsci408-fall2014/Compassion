@@ -1,0 +1,15 @@
+<ion-view hide-nav-bar="true" class="artifact-page">
+<div ng-show="overlay === true">
+  <a href="#/app/themes/1"><div class="artifact-close ion-android-close"></div></a>
+  <div class="artifact-share ion-share"></div>
+</div>
+  <ion-scroll zooming="true" style="width: 100%; height: 100%">
+  <img ng-click="toggleOverlay()" class="zoom-pic" src="img/explore_background.jpg" style="width: 100%; height: 100%;">
+</ion-scroll>
+
+<div class="bar bar-footer bar-stable" ng-show="overlay === true">
+	<a class="button icon button-clear ion-ios7-information-outline artifact-info" href="#/app/artifacts/caption/{{curArtId}}"></a>
+  <div class="title">Artifact Name</div>
+</div>
+</ion-view>
+

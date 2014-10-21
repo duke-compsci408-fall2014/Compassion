@@ -1,24 +1,12 @@
-<ion-view title="slideshow">
+<ion-view title="slideshow" class="slideshow">
   <ion-nav-buttons side="right">
     <button menu-toggle="right"class="button button-icon icon ion-navicon">  </button>
   </ion-nav-buttons>
   <ion-content class="has-header">
       <ion-slide-box  auto-play="true" does-continue="true">
-        <ion-slide>
-            <h1>artifact 1</h1>
-            <img src="cover.jpg">
-        </ion-slide>
-        <ion-slide>
-            <h1>artifact 2</h1>
-            <img src="cover.jpg">
-        </ion-slide>
-        <ion-slide>
-            <h1>artifact 3</h1>
-            <img src="cover.jpg">
-        </ion-slide>
-        <ion-slide>
-            <h1>artifact 4</h1>
-            <img src="cover.jpg">
+          <ion-slide class="slide" ng-repeat="photo in slideshow">
+            <a ng-href="#/app/artifacts/1"><img class="slide-image" ng-src="{{photo.path}}"></a>
+            <div class="caption">{{photo.caption}}</div>
         </ion-slide>
       </ion-slide-box>
   </ion-content>

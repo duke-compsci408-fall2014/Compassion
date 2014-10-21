@@ -10,6 +10,17 @@
         <button class="button button-small">
             search
         </button>
-  </div>
+  </div>    
+    <div class="card" ng-repeat="artifact in artifacts | filter:search">
+        <a href="#/app/artifacts/{{artifact.id}}">
+          <div class="item">
+            <h3>{{artifact.name}}</h3>
+          </div>
+          <div class="item item-image">
+            <img src="{{artifact.imageURL}}">
+          </div>
+        </a>
+    </div>
+  </ion-content>
   </ion-content>
 </ion-view>

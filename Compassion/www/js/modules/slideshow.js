@@ -17,5 +17,17 @@ angular.module('starter')
   $ionicSlideBoxDelegate.next();
 };
 
+$scope.slideshow = [{
+    path: "/img/explore_background.jpg",
+    id: 1,
+    caption: "Caption A"
+  }, {path: "/img/explore_background.jpg",
+    id: 2,
+    caption: "CaptionCaptionCaptionCaptionCaptionCaptionCaptionCaptionCaption"
+  }, {path: "/img/explore_background.jpg",
+    id: 3,
+    caption: "Another caption"
+  }];
+
 });
 

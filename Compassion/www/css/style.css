@@ -447,3 +447,32 @@ ion-side-menu ion-content {
 .compare-page .text-caption {
 	padding: 20px;
 }
+
+/* slideshow */
+
+.slideshow {
+	background-color: black;
+}
+
+.slideshow .slide {
+	position: relative;
+}
+
+.slideshow .caption {
+	position: absolute;
+	color: white;
+	bottom: 50px;
+	padding: 20px;
+	background-color: black;
+	width: 100%;
+	opacity: 0.6;
+}
+
+.slide-image {
+	width: 100%;
+	background-size: contain;
+}
+
+.slider {
+  height: 100%;
+}

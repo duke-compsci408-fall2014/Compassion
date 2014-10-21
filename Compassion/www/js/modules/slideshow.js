@@ -12,22 +12,11 @@ angular.module('starter')
     }
   });
 })
-.controller('SlideshowCtrl', function($scope, $ionicSlideBoxDelegate){
- $scope.nextSlide = function () {
-  $ionicSlideBoxDelegate.next();
-};
-
-$scope.slideshow = [{
-    path: "/img/explore_background.jpg",
-    id: 1,
-    caption: "Caption A"
-  }, {path: "/img/explore_background.jpg",
-    id: 2,
-    caption: "CaptionCaptionCaptionCaptionCaptionCaptionCaptionCaptionCaption"
-  }, {path: "/img/explore_background.jpg",
-    id: 3,
-    caption: "Another caption"
-  }];
-
-});
+.controller('SlideshowCtrl', function($scope, $stateParams) {
+  $scope.artifacts = [
+  { name: 'artifact 1', imageURL:'../img/explore_background.jpg', id: 1 },
+  { name: 'artifact 2', imageURL:'../img/loading_back.png', id: 2 },
+  ];
+})
+;
 

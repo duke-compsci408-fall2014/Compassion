@@ -2,7 +2,9 @@
   <ion-nav-buttons side="right">
     <button menu-toggle="right"class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
+  <script src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
+  
   <ion-content>
-	
+	<ui-gmap-google-map center="map.center" zoom="map.zoom"></ui-gmap-google-map>
   </ion-content>
 </ion-view>

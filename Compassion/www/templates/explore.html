@@ -1,4 +1,4 @@
-<ion-view title="Explore">
+<ion-view title="">
   <ion-nav-buttons side="right">
     <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
@@ -7,7 +7,7 @@
     <ion-list>
       <ion-item ng-repeat="theme in themes" >
         <a class="item item-thumbnail-left" href="#/app/themes/{{theme.id}}">
-          <img src="../img/explore_background.jpg">
+          <img ng-src="../img/explore_background.jpg">
           <h2 class="explore-section-header">{{theme.title}}</h2>
         </a>
       </ion-item>

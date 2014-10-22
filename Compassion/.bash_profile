@@ -1,0 +1,1 @@
+export PATH=${PATH}:/Applications/adt-bundle/sdk/platform-tools

@@ -1,34 +1,119 @@
-/* Empty. Add your own CSS if you like */
-.title .title-header {
+/* overall */
+
+ion-nav-bar .title {
+	color: orange !important;
+	text-transform: capitalize;
+	font-family: "Iowan Old Style", Times, serif !important;
+}
+
+ion-content * {
+	color: white;
+}
+
+.back-button * {
+	color: white !important;
+}
+
+.bar-stable.button.button-clear {
+	color: white;
+}
+
+.buttons.right-buttons {
+	color: white !important;
+}
+
+.bar-header, .bar-footer {
+	border-color: gray !important;
+	background-color: black !important;
+}
+
+/* menu */
+
+ion-side-menu ion-content {
+	background-color: black;
+}
+
+/* initial loading page */
+
+.load {
+	background-color: black;
+}
+
+.load .wrapper {
+	position: absolute;
+	top: 250px;
+	width: 100%;
+}
+.load .title-header {
+	text-align: center;
+	font-size: 2.5em;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
+/* enter page */
+
+.enter {
+	background-color: black;
+	background-image: url('../img/loading_back.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.enter .wrapper {
+	position: absolute;
+	top: 300px;
+	width: 100%;
+}
+.enter .title-header {
+	text-align: center;
+	font-size: 2.5em;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
+.enter .enter-button {
+	margin-top: 20px;
+	height: 70px;
+	background: no-repeat center;
+	background-image: url('../img/arrowhead.png');
+	background-size: contain;
+}
+
+/* concierge page */
+
+.concierge {
+	background-color: black;
+	background-image: url('../img/loading_back.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.concierge .title-header {
 	text-align: center;
 	padding: 0 35px;
 }
 
-.title .text {
-	position: absolute;
-	top: 200px;
-}
-
-.title .about-text {
-	padding: 0 30px;
+.concierge .about-text {
+	padding: 0 40px;
 	text-align: center;
 }
 
-.title .more {
+.concierge .more {
 	text-decoration: none;
 	font-weight: bold;
 	color: blue;
 }
 
-.title .buttons {
-	position: absolute;
-	top: 500px;
+.concierge .buttons {
+	margin-top: 20px;
+	position: relative;
 	text-align: center;
 	font-weight: bolder;
 	font-size: 1.3em;
 	padding: 0 40px;
-
 }
+
 .enterexhibitb {
     position:absolute;
 	transition: .5s ease;
@@ -36,31 +121,113 @@
     top: 198px;
 } 
 .enterexhibit{
-background-image: url('/img/explore_background.jpg');
+background-image: url('../img/explore_background.jpg');
 }
-.title .explore, .search {
+
+
+.concierge .explore,
+.concierge .search {
+
 	height: 50px;
 	width: 100px;
 	text-decoration: none;
-	color: black;
 }
 
+.concierge img {
+	-webkit-filter: invert(100%);  
+}
+
+.concierge .explore div, 
+.concierge .search div {
+	color: white;
+}
+
+.concierge .wrapper {
+	position: absolute;
+	top: 200px;
+}
+
+.concierge .more {
+	text-align: center;
+}
+
+.concierge .search-image, 
+.concierge .explore-image {
+	margin-top: 10px;
+	width: 40px;
+}
+
+/* about page */
+
+.about-page {
+	background-color: black;	
+}
+
+
+.about-page .about-text {
+	padding: 20px;
+}
+
+/* terms page */ 
+
+.terms-page {
+	background-color: black;
+}
+
+.terms-page p {
+	color: white;
+}
+
+.terms-page .pronounce {
+	margin-left: 10px;
+}
+
+.terms-page .item {
+	background-color: black;
+	border: none;
+}
+
+/* artifact search page */ 
+
+.artifact-search-page {
+	background-color: black;
+}
+
+.artifact-search-page p {
+	color: white;
+}
+
+.artifact-search-page .pronounce {
+	margin-left: 10px;
+}
+
+.artifact-search-page .item {
+	background-color: black;
+	border: none;
+}
+
+
+
+/* explore page */
 .explore-content {
-	background-image: url('/img/explore_background.jpg');
+	background-image: url('../img/explore_background.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
+    background-color: black;
 }
 
 .exhibit-header {
 	margin-top:43px;
 	height: 80px;
-	color: white;
+	color: #a87e01;
 	text-align: center;
+	font-family: "Iowan Old Style", Times, serif;
 	font-size: 3em;
 }
 
 .explore-section-header {
 	line-height: 60px;
+	color: black;
 	font-size: 1.5em !important;
 	text-align: center;
 }
@@ -76,6 +243,15 @@ background-image: url('/img/explore_background.jpg');
 	margin-left: 30px;
 }
 
+/* theme page */
+
+.theme-page {
+	background-color: black;
+}
+
+.theme-page h3 {
+	color: black;
+}
 
 .theme-description p {
 	padding: 20px;
@@ -86,6 +262,8 @@ background-image: url('/img/explore_background.jpg');
 	border-bottom: 1px solid black;
 }
 
+/* */
+
 .explore-content .card {
 	display: inline-block;
 	width: 44%;
@@ -93,14 +271,11 @@ background-image: url('/img/explore_background.jpg');
 
 .row.banner-image {
 	height: 100px;
-	background: url('/img/about_background.jpg') no-repeat;
+	background: url('../img/about_background.jpg') no-repeat;
 	background-size: cover;
 	width: 100%;
 }
 
-.about-text {
-	padding: 20px;
-}
 
 .artifact-close {
 	position: fixed;
@@ -135,6 +310,16 @@ background-image: url('/img/explore_background.jpg');
 	background-color: black;
 }
 
+/* intermediate */
+
+.intermediate {
+	background-color: black;
+}
+
+.intermediate .active {
+	background-color: #a87e01;
+}
+
 .intermediate .item-image {
 	width: 100%;
 	height: 0;
@@ -147,7 +332,7 @@ background-image: url('/img/explore_background.jpg');
 	margin: 0 auto;
 	max-width: 1000px;
 	height: 1000px;
-    background-image: url("/img/explore_background.jpg");
+    background-image: url("../img/explore_background.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -174,12 +359,19 @@ background-image: url('/img/explore_background.jpg');
 .intermediate .caption {
 	position: relative;
 	margin-top: 10px;
-	padding: 10px;
+	padding: 20px;
 	clear: both
 }
 
-.active {
-	background-color: orange;
+.intermediate .more-arrow {
+	margin-left: 10px;
+	line-height: 35px;
+}
+
+/* details */
+
+.details {
+	background-color: black;
 }
 
 .details h4 {
@@ -189,14 +381,17 @@ background-image: url('/img/explore_background.jpg');
 .details .img {
 	width: 175px;
 	height: 175px;
-    background-color: black;
+    background-color: white;
     background-size: contain;
+    background-image: url("../img/explore_background.jpg");
+    background-position: center;
     background-repeat: no-repeat;
 }
 
-.details .icon-row {
-	margin-top:55px;
+.details .icon-row * {
+	margin-top: 10px;
 	text-align: center;
+	text-decoration: none;
 }
 
 .details .icon {
@@ -230,4 +425,66 @@ background-image: url('/img/explore_background.jpg');
 	margin-bottom: 10px;
 }
 
+/* compare page */
 
+.compare-page {
+	background-color: black;
+}
+
+.compare-page .image-comp {
+	margin-top: 50px;
+	height: 250px;
+}
+
+.compare-page .overlay-caption {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	background-color: black;
+	opacity: 0.6;
+}
+
+.compare-page .image-one,
+.compare-page .image-two {
+	position: relative;
+	background-image: url("../img/explore_background.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.compare-page .text-caption {
+	padding: 20px;
+}
+
+/* slideshow */
+
+.slideshow {
+	background-color: black;
+}
+
+.slideshow .slide {
+	position: relative;
+}
+
+.slideshow .caption {
+	position: absolute;
+	color: white;
+	bottom: 50px;
+	padding: 20px;
+	background-color: black;
+	width: 100%;
+	opacity: 0.6;
+}
+
+.slide-image {
+	width: 100%;
+	background-size: contain;
+}
+
+.slider {
+  height: 100%;
+}

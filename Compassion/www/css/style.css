@@ -23,7 +23,14 @@ ion-content * {
 }
 
 .bar-header, .bar-footer {
-	border-color: gray !important;
+	border-color: white !important;
+	background-color: black !important;
+}
+
+.item-dark {
+	border: none;
+}
+.item-dark a {
 	background-color: black !important;
 }
 
@@ -114,16 +121,10 @@ ion-side-menu ion-content {
 	padding: 0 40px;
 }
 
-.enterexhibitb {
-    position:absolute;
-	transition: .5s ease;
-    left: 102px;
-    top: 198px;
-} 
-.enterexhibit{
-background-image: url('../img/explore_background.jpg');
-}
 
+.enterexhibit{
+	background-image: url('../img/explore_background.jpg');
+}
 
 .concierge .explore,
 .concierge .search {

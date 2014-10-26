@@ -12,7 +12,7 @@ angular.module('starter')
       }
     });
   })
-  .controller('TermsCtrl', function($scope, $stateParams) {
+  .controller('TermsCtrl', function($scope) {
       
   $scope.terms = [
     {

@@ -15,11 +15,11 @@
         <li ng-repeat="artifact in artifacts | filter:search">
           <div class="card">
             <a href="#/app/artifacts/{{artifact.id}}">
-                <div class="item">
-                    <h3>{{artifact.name}}</h3>
-                </div>
                 <div class="item item-image">
                     <img src="{{artifact.imageURL}}">
+                </div>
+                 <div class="item">
+                    <h3>{{artifact.name}}</h3>
                 </div>
             </a>
           </div>

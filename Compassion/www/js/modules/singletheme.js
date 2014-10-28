@@ -12,7 +12,7 @@ angular.module('starter')
     }
   });
 })
-.controller('ThemeCtrl', function($scope, $stateParams) {
+.controller('ThemeCtrl', function($scope, $stateParams, Data) {
   $scope.currentTheme = $stateParams.themeId;
   $scope.artifacts = [
   { name: 'artifact 1', imageURL:'../img/explore_background.jpg', id: 1 },

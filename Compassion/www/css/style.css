@@ -216,6 +216,24 @@ ion-side-menu ion-content {
 	border: none;
 }
 
+.artifact-search-page .card {
+	background-color: black;
+	border: none;
+	position: relative;
+}
+
+.artifact-search-page .item-image {
+	height: 150px;
+	width: 150px;
+}
+
+.artifact-search-page .search-name {
+	position: absolute;
+	right: 50px;
+	top: 40px;
+	font-size: 1.5em;
+}
+
 
 
 /* explore page */

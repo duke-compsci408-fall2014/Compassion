@@ -14,8 +14,8 @@ angular.module('starter')
 })
 .controller('SlideshowCtrl', function($scope, $stateParams) {
   $scope.artifacts = [
-  { name: 'artifact 1', imageURL:'../img/explore_background.jpg', id: 1 },
-  { name: 'artifact 2', imageURL:'../img/loading_back.png', id: 2 },
+  { name: 'artifact 1', imageURL:'../img/explore_background.jpg', id: 1 , caption:"some name"},
+  { name: 'artifact 2', imageURL:'../img/loading_back.png', id: 2, caption:"some name" },
   ];
 })
 ;

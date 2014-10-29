@@ -14,9 +14,9 @@ angular.module('starter')
 
 .service('Data', function(){
     return [
-      { title: 'Image', id: 1, img_path: '../../img/theme_1.png' },
-      { title: 'Pilgrimage', id: 2, img_path: '../../img/theme_2.png' },
-      { title: 'Practice', id: 3, img_path: '../../img/theme_3.png' },
+      { title: 'Image', id: 1, img_path: 'img/theme_1.png' },
+      { title: 'Pilgrimage', id: 2, img_path: 'img/theme_2.png' },
+      { title: 'Practice', id: 3, img_path: 'img/theme_3.png' },
   ];
 })
         

@@ -2,10 +2,15 @@ angular.module('starter')
 .config(function($stateProvider) {
   $stateProvider
     // loading states
-    .state('start', {
+    .state('start1', {
       url: "",
+      templateUrl: 'templates/start/quote.html',
+      controller: 'Start1Ctrl'
+    })
+    .state('start2', {
+      url: "/",
       templateUrl: 'templates/start/load.html',
-      controller: 'StartCtrl'
+      controller: 'Start2Ctrl'
     })
     .state('enter', {
       url: "/",
@@ -17,10 +22,15 @@ angular.module('starter')
       templateUrl: 'templates/start/concierge.html'
     });
   })
-.controller('StartCtrl', function($scope, $timeout, $state) {
+.controller('Start1Ctrl', function($scope, $timeout, $state) {
+  $timeout(function() {
+    $state.go('start2');
+  }, 3000);
+})
+.controller('Start2Ctrl', function($scope, $timeout, $state) {
   $timeout(function() {
     $state.go('enter');
-  }, 1000);
+  }, 3000);
 })
 .controller('EnterCtrl', function($scope,$state) {
   $scope.enter = function() {

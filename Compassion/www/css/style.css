@@ -51,6 +51,15 @@ ion-side-menu ion-content {
 	top: 250px;
 	width: 100%;
 }
+
+.load .first-title-header {
+	text-align: center;
+	font-size: 1.5em;
+	padding: 30px;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
 .load .title-header {
 	text-align: center;
 	font-size: 2.5em;
@@ -410,7 +419,7 @@ ion-side-menu ion-content {
 .details .img {
 	width: 175px;
 	height: 175px;
-    background-color: white;
+    background-color: black;
     background-size: contain;
     background-image: url("../img/explore_background.jpg");
     background-position: center;
@@ -430,14 +439,14 @@ ion-side-menu ion-content {
 .details .music-player {
 	width: 100%;
 	height: 150px;
-	background-color: gray;
+	background-color: #a87e01;
 }
 
 
 .details .compare-section {
 	width: 100%;
 	height: 400px;
-	background-color: gray;
+	background-color: #a87e01;
 	padding: 10px;
 }
 
@@ -503,6 +512,7 @@ ion-side-menu ion-content {
 	position: absolute;
 	color: white;
 	bottom: 50px;
+	font-size: 1.5em;
 	padding: 20px;
 	background-color: black;
 	width: 100%;
@@ -510,7 +520,7 @@ ion-side-menu ion-content {
 }
 
 .slide-image {
-	width: 100%;
+	height: 100%;
 	background-size: contain;
 }
 

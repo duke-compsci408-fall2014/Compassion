@@ -5,16 +5,8 @@
   <ion-content class="has-header">
       <ion-slide-box  auto-play="true" does-continue="true">
           <ion-slide class="slide" ng-repeat="artifact in artifacts">
-           <div class="card">
-	           <a href="#/app/artifacts/{{artifact.id}}">
-	               <div class="item">
-	                   <h3>{{artifact.name}}</h3>
-	               </div>
-	               <div class="item item-image">
-	                   <img src="{{artifact.imageURL}}">
-	               </div>
-	           </a>
-	       </div>
+            <a ng-href="#/app/artifacts/{{artifact.id}}"><img class="slide-image" ng-src="{{artifact.imageURL}}"></a>
+            <div class="caption">{{artifact.caption}}</div>
         </ion-slide>
       </ion-slide-box>
   </ion-content>

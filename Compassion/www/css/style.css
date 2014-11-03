@@ -178,6 +178,18 @@ ion-side-menu ion-content {
 	padding: 20px;
 }
 
+/* credits page */
+
+.credits-page {
+	background-color: black;	
+}
+
+
+.credits-page .credits-text {
+	padding: 20px;
+}
+
+
 /* terms page */ 
 
 .terms-page {
@@ -545,7 +557,8 @@ ion-side-menu ion-content {
 .slider {
   height: 100%;
 }
-#map {
+/* Where page*/
+.map {
     height:420px;
     width:600px;
 }
@@ -554,7 +567,4 @@ ion-side-menu ion-content {
     border-top: 1px solid #ccc;
     padding-top: 10px;
 }
-h2 {
-    margin-bottom:0;
-    margin-top: 0;
-}
+

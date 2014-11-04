@@ -12,12 +12,12 @@ angular.module('starter')
       }
     });
   })
-.controller('searchArtifactsCtrl', function($scope, $stateParams) {
-  $scope.artifacts = [
-  { name: 'artifact 1', imageURL:'../img/explore_background.jpg', id: 1 },
-  { name: 'artifact 2', imageURL:'../img/explore_background.jpg', id: 2 },
-  { name: 'artifact 3', imageURL:'../img/explore_background.jpg', id: 3 },
-  ];
+.controller('searchArtifactsCtrl', function($scope, $stateParams, $http) {
+    
+ $http.get("/js/modules/data.json").success(function(data){
+     $scope.artifacts = data[3];    
+ })
+
 })
 ;
 

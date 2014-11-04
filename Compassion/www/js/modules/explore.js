@@ -14,9 +14,12 @@ angular.module('starter')
       
         
 .controller('ExploreCtrl', ['$scope', '$http', function($scope, $http){    
-  $http.get('/js/modules/data.json').success(function(data){    
-      console.log(angular.fromJson(data)[1].artifacts); 
-      $scope.themes = angular.fromJson(data); 
+  $http.get('/js/modules/data.json').success(function(data){ 
+      var themes = [data[0], data[1], data[2]]; 
+     
+          console.log(themes); 
+     
+      $scope.themes = angular.fromJson(themes); 
   })
 }]  
             

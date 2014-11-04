@@ -22,8 +22,11 @@ angular.module('starter')
       for(var i = 0; i<data.length; i++){
         var id = parseInt(data[i].id); 
 
-        if( id == $scope.currentTheme)
+        if( id == $scope.currentTheme){
             $scope.artifacts = data[i].artifacts; 
+            $scope.themeTitle = data[i].title; 
+            console.log($scope.themeTitle); 
+        }
        }
   })  
   

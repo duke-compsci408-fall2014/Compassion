@@ -12,18 +12,10 @@ angular.module('starter')
       }
     });
   })
-  .controller('TermsCtrl', function($scope) {
-      
-  $scope.terms = [
-    {
-      term: 'term A', definition: 'Some definition'
-    },
-    {
-      term: 'term B', definition: 'Some definition'
-    }
-
-  ];
-
+  .controller('TermsCtrl', function($scope, $http) {
+       $http.get("/js/modules/data.json").success(function(data){
+         $scope.terms = data[4];       
+      })
   
 });
 

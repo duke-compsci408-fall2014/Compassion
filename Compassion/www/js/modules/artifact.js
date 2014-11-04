@@ -40,7 +40,7 @@ angular.module('starter')
       
   $http.get('/js/modules/data.json').success(function(data){
    $scope.imageURL = data[3][$stateParams.artifactId - 1].imageURL;
-   console.log($scope.imageURL); 
+   $scope.artifactName = data[3][$stateParams.artifactId -1].name; 
   })
   
 })

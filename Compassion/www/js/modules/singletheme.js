@@ -25,7 +25,6 @@ angular.module('starter')
         if( id == $scope.currentTheme){
             $scope.artifacts = data[i].artifacts; 
             $scope.themeTitle = data[i].title; 
-            console.log($scope.themeTitle); 
         }
        }
   })  

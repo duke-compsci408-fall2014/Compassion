@@ -6,7 +6,7 @@
       <ion-slide-box  auto-play="true" does-continue="true">
           <ion-slide class="slide" ng-repeat="artifact in artifacts">
             <a ng-href="#/app/artifacts/{{artifact.id}}"><img class="slide-image" ng-src="{{artifact.imageURL}}"></a>
-            <div class="caption">{{artifact.caption}}</div>
+            <div class="caption">{{artifact.name}}</div>
         </ion-slide>
       </ion-slide-box>
   </ion-content>

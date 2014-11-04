@@ -1,5 +1,6 @@
 
 angular.module('starter')
+
 .config(function($stateProvider) {
   $stateProvider
   .state('app.singleTheme', {
@@ -12,13 +13,21 @@ angular.module('starter')
     }
   });
 })
-.controller('ThemeCtrl', function($scope, $stateParams, Data) {
+
+.controller('ThemeCtrl', ['$scope', '$http', '$stateParams',  function($scope,$http,$stateParams){ 
   $scope.currentTheme = $stateParams.themeId;
-  $scope.artifacts = [
-  { name: 'artifact 1', imageURL:'../img/explore_background.jpg', id: 1 },
-  { name: 'artifact 2', imageURL:'../img/explore_background.jpg', id: 2 },
-  { name: 'artifact 3', imageURL:'../img/explore_background.jpg', id: 3 },
-  ];
-})
-;
+
+  $http.get('/js/modules/data.json').success(function(data){
+
+      for(var i = 0; i<data.length; i++){
+        var id = parseInt(data[i].id); 
+
+        if( id == $scope.currentTheme)
+            $scope.artifacts = data[i].artifacts; 
+       }
+  })  
+  
+}]  
+            
+);
 

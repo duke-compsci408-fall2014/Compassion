@@ -11,17 +11,14 @@ angular.module('starter')
     }
   });
 })
-
-.service('Data', function(){
-    return [
-      { title: 'Image', id: 1, img_path: 'img/theme_1.png' },
-      { title: 'Pilgrimage', id: 2, img_path: 'img/theme_2.png' },
-      { title: 'Practice', id: 3, img_path: 'img/theme_3.png' },
-  ];
-})
+      
         
-        
-.controller('ExploreCtrl', function($scope, Data) {
-  $scope.themes = Data;
-});
+.controller('ExploreCtrl', ['$scope', '$http', function($scope, $http){    
+  $http.get('/js/modules/data.json').success(function(data){    
+      console.log(angular.fromJson(data)[1].artifacts); 
+      $scope.themes = angular.fromJson(data); 
+  })
+}]  
+            
+);
 

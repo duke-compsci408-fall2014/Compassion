@@ -12,11 +12,14 @@ angular.module('starter')
     }
   });
 })
-.controller('SlideshowCtrl', function($scope, $stateParams) {
-  $scope.artifacts = [
-  { name: 'artifact 1', imageURL:'../img/explore_background.jpg', id: 1 , caption:"some name"},
-  { name: 'artifact 2', imageURL:'../img/loading_back.png', id: 2, caption:"some name" },
-  ];
-})
-;
+
+.controller('SlideshowCtrl', ['$scope', '$http', function($scope, $http) {
+
+ $http.get('/js/modules/data.json').success(function(data){    
+      console.log(angular.fromJson(data)[3]); 
+      $scope.artifacts = angular.fromJson(data)[3]; 
+  })
+}]);
+
+      
 

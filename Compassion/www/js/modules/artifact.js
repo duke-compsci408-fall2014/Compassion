@@ -30,13 +30,19 @@ angular.module('starter')
         }
       });
   })
-  .controller('ArtifactCtrl', function($scope, $stateParams) {
+  .controller('ArtifactCtrl', function($scope, $stateParams, $http) {
   $scope.curArtId = $stateParams.artifactId;
   $scope.tab = 1;
   $scope.overlay = true;
   $scope.toggleOverlay = function() {
     $scope.overlay = !$scope.overlay;
   };
+      
+  $http.get('/js/modules/data.json').success(function(data){
+   $scope.imageURL = data[3][$stateParams.artifactId - 1].imageURL;
+   console.log($scope.imageURL); 
+  })
+  
 })
 
 ;

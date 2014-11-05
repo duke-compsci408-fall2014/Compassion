@@ -383,16 +383,19 @@ ion-side-menu ion-content {
 }
 
 .artifact-info {
-	margin-left: 50px;
+	position: absolute;
+	right: 10px;
 	line-height: 35px;
 	font-size: 28px;
 }
 
-.zoom-pic {
-}
-
 .artifact-page {
 	background-color: black;
+}
+
+.artifact-page .title {
+	font-size: 1em;
+	width: 80%;
 }
 
 /* intermediate */

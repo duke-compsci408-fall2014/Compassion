@@ -1,0 +1,13 @@
+<ion-view title="slideshow" class="slideshow">
+  <ion-nav-buttons side="right">
+    <button menu-toggle="right"class="button button-icon icon ion-navicon">  </button>
+  </ion-nav-buttons>
+  <ion-content class="has-header">
+      <ion-slide-box  auto-play="true" does-continue="true">
+          <ion-slide class="slide" ng-repeat="artifact in artifacts">
+            <a ng-href="#/app/artifacts/{{artifact.id}}"><img class="slide-image" ng-src="{{artifact.imageURL}}"></a>
+            <div class="caption">{{artifact.name}}</div>
+        </ion-slide>
+      </ion-slide-box>
+  </ion-content>
+</ion-view>

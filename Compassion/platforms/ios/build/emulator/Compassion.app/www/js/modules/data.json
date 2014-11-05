@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Image",
+    "id": "1",
+    "img_path": "img/theme_1.png",
+    "artifacts": [
+      {
+        "name": "Amitabha Buddha",
+        "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.jpg",
+        "id": "1"
+      },
+      {
+        "name": "Khasarpana Lokeshvara",
+        "imageURL": "img/Theme1/2. Khasarpana Lokeshvara 1979.040 copy copy.png",
+        "id": "2"
+      },
+      {
+        "name": "Padmapani",
+        "imageURL": "img/Theme1/3. Padmapani 1979.047 copy copy.png",
+        "id": "3"
+      },
+      {
+        "name": "Avalokiteshvara",
+        "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.jpg",
+        "id": "4"
+      },
+      {
+        "name": "Shadakshari",
+        "imageURL": "img/Theme1/5. Shadakshari 85.04.0682 copy copy.png",
+        "id": "5"
+      },
+      {
+        "name": "The All-Seeing Lord Avalokiteshvara",
+        "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.jpg",
+        "id": "6"
+      },
+      {
+        "name": "Bodhisattva Avalokiteshvara (Guanyin)",
+        "imageURL": "img/Theme1/7. Bodhisattva Avalokiteshvara (Guanyin) 33.91 cropped copy copy.png",
+        "id": "7"
+      },
+      {
+        "name": "Baiyi Guanyin",
+        "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.jpg",
+        "id": "8"
+      },
+      {
+        "name": "Kannon",
+        "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.jpg",
+        "id": "9"
+      },
+      {
+        "name": "White-robed Kannon Loeb",
+        "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.jpg",
+        "id": "10"
+      },
+      {
+        "name": "Songzi Guanyin",
+        "imageURL": "img/Theme1/11. Songzi Guanyin 51.15 copy copy.png",
+        "id": "11"
+      },
+      {
+        "name": "Descent of Eleven Headed Kannon",
+        "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
+        "id": "12"
+      }
+    ]
+  },
+  {
+    "title": "Pilgrimage",
+    "id": "2",
+    "img_path": "img/theme_2.png",
+    "artifacts": [
+      {
+      "name":"Phagpa Lokeshvara", 
+      "imageURL" : "img/Theme2/14. Phagpa Lokeshvara 73.130 copy copy.png", 
+      "id":"13"
+    },
+    
+    {
+      "name":"Ekadashamukha", 
+      "imageURL" : "img/Theme2/15. Ekadashamukha 85.04.0160 copy copy.png", 
+      "id":"14"
+    },
+    
+     {
+      "name":"Kannon", 
+      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.jpg", 
+      "id":"15"
+    },
+    
+     {
+      "name":"Map of the Mount Putuo Area", 
+      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg", 
+      "id":"16"
+    },
+    
+     {
+      "name":"Nachi Pilgrimage Mandala", 
+      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg", 
+      "id":"17"
+    },
+    
+      {
+      "name":"Saigoku Pilgrimage Scroll", 
+      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg", 
+      "id":"18"
+    }
+ 
+    ]
+  },
+  {
+    "title": "Practice",
+    "id": "3",
+    "img_path": "img/theme_3.png",
+    "artifacts": [
+        {
+      "name":"Prajnaparamita Sutra", 
+      "imageURL" : "img/Theme3/20. Prajnaparamita Sutra 1987.001 copy copy.png", 
+      "id":"19"
+    },
+    
+      {
+      "name":"Heart Sutra", 
+      "imageURL" : "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png", 
+      "id":"20"
+    },
+    
+    {
+      "name":"Lotus Sutra", 
+      "imageURL" : "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png", 
+      "id":"21"
+    },
+    
+    {
+      "name":"Seated Bodhisattva ", 
+      "imageURL" : "img/Theme3/23. Seated Bodhisattva L2005.9.4HAR68406 copy copy.png", 
+      "id":"22"
+    },
+    
+     {
+      "name":"Avalokiteshvara of the Six-Syllable Mantra ", 
+      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg", 
+      "id":"23"
+    },
+    
+    {
+      "name":"Avalokiteshvara Mandala", 
+      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg", 
+      "id":"24"
+    },
+    
+    {
+      "name":"Prayer Wheel", 
+      "imageURL" : "img/Theme3/26. Prayer Wheel 82.82 copy copy.png", 
+      "id":"25"
+    },
+    
+     {
+      "name":"Mother of Pearl Prayer Beads", 
+      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg", 
+      "id":"26"
+    }
+    ]
+  },
+  [
+    {
+      "name": "Amitabha Buddha",
+      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Khasarpana Lokeshvara",
+      "imageURL": "img/Theme1/2. Khasarpana Lokeshvara 1979.040 copy copy.png",
+      "id": "2"
+    },
+    {
+      "name": "Padmapani",
+      "imageURL": "img/Theme1/3. Padmapani 1979.047 copy copy.png",
+      "id": "3"
+    },
+    {
+      "name": "Avalokiteshvara",
+      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Shadakshari",
+      "imageURL": "img/Theme1/5. Shadakshari 85.04.0682 copy copy.png",
+      "id": "5"
+    },
+    {
+      "name": "The All-Seeing Lord Avalokiteshvara",
+      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Bodhisattva Avalokiteshvara (Guanyin)",
+      "imageURL": "img/Theme1/7. Bodhisattva Avalokiteshvara (Guanyin) 33.91 cropped copy copy.png",
+      "id": "7"
+    },
+    {
+      "name": "Baiyi Guanyin",
+      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.jpg",
+      "id": "8"
+    },
+    {
+      "name": "Kannon",
+      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.jpg",
+      "id": "9"
+    },
+    {
+      "name": "White-robed Kannon Loeb",
+      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.jpg",
+      "id": "10"
+    },
+    {
+      "name": "Songzi Guanyin",
+      "imageURL": "img/Theme1/11. Songzi Guanyin 51.15 copy copy.png",
+      "id": "11"
+    },
+    {
+      "name": "Descent of Eleven Headed Kannon",
+      "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
+      "id": "12"
+    },
+    
+    {
+      "name":"Phagpa Lokeshvara", 
+      "imageURL" : "img/Theme2/14. Phagpa Lokeshvara 73.130 copy copy.png", 
+      "id":"13"
+    },
+    
+    {
+      "name":"Ekadashamukha", 
+      "imageURL" : "img/Theme2/15. Ekadashamukha 85.04.0160 copy copy.png", 
+      "id":"14"
+    },
+    
+     {
+      "name":"Kannon", 
+      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.jpg", 
+      "id":"15"
+    },
+    
+     {
+      "name":"Map of the Mount Putuo Area", 
+      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg", 
+      "id":"16"
+    },
+    
+     {
+      "name":"Nachi Pilgrimage Mandala", 
+      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg", 
+      "id":"17"
+    },
+    
+      {
+      "name":"Saigoku Pilgrimage Scroll", 
+      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg", 
+      "id":"18"
+    },
+    
+     {
+      "name":"Prajnaparamita Sutra", 
+      "imageURL" : "img/Theme3/20. Prajnaparamita Sutra 1987.001 copy copy.png", 
+      "id":"19"
+    },
+    
+      {
+      "name":"Heart Sutra", 
+      "imageURL" : "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png", 
+      "id":"20"
+    },
+    
+    {
+      "name":"Lotus Sutra", 
+      "imageURL" : "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png", 
+      "id":"21"
+    },
+    
+    {
+      "name":"Seated Bodhisattva ", 
+      "imageURL" : "img/Theme3/23. Seated Bodhisattva L2005.9.4HAR68406 copy copy.png", 
+      "id":"22"
+    },
+    
+     {
+      "name":"Avalokiteshvara of the Six-Syllable Mantra ", 
+      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg", 
+      "id":"23"
+    },
+    
+    {
+      "name":"Avalokiteshvara Mandala", 
+      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg", 
+      "id":"24"
+    },
+    
+    {
+      "name":"Prayer Wheel", 
+      "imageURL" : "img/Theme3/26. Prayer Wheel 82.82 copy copy.png", 
+      "id":"25"
+    },
+    
+     {
+      "name":"Mother of Pearl Prayer Beads", 
+      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg", 
+      "id":"26"
+    }
+  ],
+  [
+    {"term":"term A", "definition":"some definition"},
+     {"term":"term B", "definition":"some definition"},
+      {"term":"term C", "definition":"some definition"},
+       {"term":"term D", "definition":"some definition"},
+        {"term":"term E", "definition":"some definition"},
+         {"term":"term F", "definition":"some definition"},
+          {"term":"term G", "definition":"some definition"}
+    ]
+]
+

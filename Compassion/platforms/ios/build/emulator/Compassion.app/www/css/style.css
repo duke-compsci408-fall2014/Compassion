@@ -1,0 +1,570 @@
+/* overall */
+
+ion-nav-bar .title {
+	color: orange !important;
+	text-transform: capitalize;
+	font-family: "Iowan Old Style", Times, serif !important;
+}
+
+ion-content * {
+	color: white;
+}
+
+.back-button * {
+	color: white !important;
+}
+
+.bar-stable.button.button-clear {
+	color: white;
+}
+
+.buttons.right-buttons {
+	color: white !important;
+}
+
+.bar-header, .bar-footer {
+	border-color: white !important;
+	background-color: black !important;
+}
+
+.item-dark {
+	border: none;
+}
+.item-dark a {
+	background-color: black !important;
+}
+
+/* menu */
+
+ion-side-menu ion-content {
+	background-color: black;
+}
+
+/* initial loading page */
+
+.load {
+	background-color: black;
+}
+
+.load .wrapper {
+	position: absolute;
+	top: 250px;
+	width: 100%;
+}
+
+.load .first-title-header {
+	text-align: center;
+	font-size: 1.5em;
+	padding: 30px;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
+.load .title-header {
+	text-align: center;
+	font-size: 2.5em;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
+/* enter page */
+
+.enter {
+	background-color: black;
+	background-image: url('../img/loading_back.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.enter .wrapper {
+	position: absolute;
+	top: 300px;
+	width: 100%;
+}
+.enter .title-header {
+	text-align: center;
+	font-size: 2.5em;
+	color: #a87e01;
+	font-family: "Iowan Old Style", Times, serif;
+}
+
+.enter .enter-button {
+	margin-top: 20px;
+	height: 70px;
+	background: no-repeat center;
+	background-image: url('../img/arrowhead.png');
+	background-size: contain;
+}
+
+/* concierge page */
+
+.concierge {
+	background-color: black;
+	background-image: url('../img/loading_back.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.concierge .title-header {
+	text-align: center;
+	padding: 0 35px;
+}
+
+.concierge .about-text {
+	padding: 0 40px;
+	text-align: center;
+}
+
+.concierge .more {
+	text-decoration: none;
+	font-weight: bold;
+	color: blue;
+}
+
+.concierge .buttons {
+	margin-top: 20px;
+	position: relative;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 1.3em;
+	padding: 0 40px;
+}
+
+
+.enterexhibit{
+	background-image: url('../img/explore_background.jpg');
+}
+
+.concierge .explore,
+.concierge .search {
+
+	height: 50px;
+	width: 100px;
+	text-decoration: none;
+}
+
+.concierge img {
+	-webkit-filter: invert(100%);  
+}
+
+.concierge .explore div, 
+.concierge .search div {
+	color: white;
+}
+
+.concierge .wrapper {
+	position: absolute;
+	top: 200px;
+}
+
+.concierge .more {
+	text-align: center;
+}
+
+.concierge .search-image, 
+.concierge .explore-image {
+	margin-top: 10px;
+	width: 40px;
+}
+
+/* about page */
+
+.about-page {
+	background-color: black;	
+}
+
+
+.about-page .about-text {
+	padding: 20px;
+}
+
+/* credits page */
+
+.credits-page {
+	background-color: black;	
+}
+
+
+.credits-page .credits-text {
+	padding: 20px;
+}
+
+
+/* terms page */ 
+
+.terms-page {
+	background-color: black;
+}
+
+.terms-page p {
+	color: white;
+}
+
+.terms-page .pronounce {
+	margin-left: 10px;
+}
+
+.terms-page .item {
+	background-color: black;
+	border: none;
+}
+
+/* artifact search page */ 
+
+.artifact-search-page {
+	background-color: black;
+}
+
+.artifact-search-page p {
+	color: white;
+}
+
+.artifact-search-page .pronounce {
+	margin-left: 10px;
+}
+
+.artifact-search-page .item {
+	background-color: black;
+	border: none;
+}
+
+.artifact-search-page .card {
+	background-color: black;
+	border: none;
+	position: relative;
+}
+
+.artifact-search-page .item-image {
+	height: 150px;
+	width: 150px;
+}
+
+.artifact-search-page .search-name {
+	position: absolute;
+	right: 50px;
+	top: 40px;
+	font-size: 1.5em;
+}
+
+
+
+/* explore page */
+.explore-content {
+	background-image: url('../img/explore_background.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.exhibit-header {
+	margin-top:43px;
+	height: 80px;
+	line-height: 35px;
+	color: #a87e01;
+	text-align: center;
+	font-family: "Iowan Old Style", Times, serif;
+	font-size: 2.5em;
+	text-shadow: 0px 0px 100px rgba(0, 0, 0, 1);
+}
+
+.explore-section-header {
+	line-height: 60px;
+	color: black;
+	font-size: 1.5em !important;
+	text-align: center;
+}
+
+.explore-content ion-item {
+	background-color: transparent !important;
+	border:none;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+.explore-content .item-content {
+	margin: 0 auto;
+	width: 90%;
+	margin-left: 30px;
+}
+
+.explore-content .explore-item a {
+	background: -moz-linear-gradient(-45deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.6) 62%, rgba(0,0,0,0.03) 98%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(0,0,0,0.9)), color-stop(62%,rgba(0,0,0,0.6)), color-stop(98%,rgba(0,0,0,0.03)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(-45deg, rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 62%,rgba(0,0,0,0.03) 98%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(-45deg, rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 62%,rgba(0,0,0,0.03) 98%,rgba(0,0,0,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(-45deg, rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 62%,rgba(0,0,0,0.03) 98%,rgba(0,0,0,0) 100%); /* IE10+ */
+	background: linear-gradient(135deg, rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 62%,rgba(0,0,0,0.03) 98%,rgba(0,0,0,0) 100%); /* W3C */
+	border: none;
+	width: 80%;
+}
+
+.explore-content .even {
+	float: right;
+}
+
+.explore-content .odd {
+	float: left;
+}
+
+.explore-content .explore-item h2 {
+	color: white;
+}
+
+
+/* theme page */
+
+.theme-page {
+	background-color: black;
+}
+
+.theme-page h3 {
+	color: black;
+}
+
+.theme-description p {
+	padding: 20px;
+	margin: 0px;
+}
+
+.theme-description {
+	border-bottom: 1px solid black;
+}
+
+/* */
+
+.explore-content .card {
+	display: inline-block;
+	width: 44%;
+}
+
+.row.banner-image {
+	height: 100px;
+	background: url('../img/about_background.jpg') no-repeat;
+	background-size: cover;
+	width: 100%;
+}
+
+
+.artifact-close {
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	font-size: 32px;
+	color: white;
+	text-shadow: 1px 1px 3px;
+	z-index: 1000;
+}
+
+.artifact-share {
+	position: fixed;
+	top: 15px;
+	right: 20px;
+	font-size: 40px;
+	text-shadow: 1px 1px 3px;
+	color: white;
+	z-index: 1000;
+}
+
+.artifact-info {
+	margin-left: 50px;
+	line-height: 35px;
+	font-size: 28px;
+}
+
+.zoom-pic {
+}
+
+.artifact-page {
+	background-color: black;
+}
+
+/* intermediate */
+
+.intermediate {
+	background-color: black;
+}
+
+.intermediate .active {
+	background-color: #a87e01;
+}
+
+.intermediate .item-image {
+	width: 100%;
+	height: 0;
+	text-align: center;
+	padding-bottom: 100%;
+}
+
+.intermediate .img {
+	display: block;
+	margin: 0 auto;
+	max-width: 1000px;
+	height: 1000px;
+    background-image: url("../img/explore_background.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.intermediate .padding {
+
+	padding-bottom: 20px;
+}
+
+.intermediate .caption-tabs {
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.intermediate .caption-tabs a {
+	position: relative;
+	float: left;
+	min-width: 50%;
+	height: 40px;
+	line-height: 40px;
+}
+
+.intermediate .caption {
+	position: relative;
+	margin-top: 10px;
+	padding: 20px;
+	clear: both
+}
+
+.intermediate .more-arrow {
+	margin-left: 10px;
+	line-height: 35px;
+}
+
+/* details */
+
+.details {
+	background-color: black;
+}
+
+.details h4 {
+	text-align: center;
+}
+
+.details .img {
+	width: 175px;
+	height: 175px;
+    background-color: black;
+    background-size: contain;
+    background-image: url("../img/explore_background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.details .icon-row * {
+	margin-top: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.details .icon {
+	font-size: 40px;
+}
+
+.details .music-player {
+	width: 100%;
+	height: 150px;
+	background-color: #a87e01;
+}
+
+
+.details .compare-section {
+	width: 100%;
+	height: 400px;
+	background-color: #a87e01;
+	padding: 10px;
+}
+
+.details .compare-section .header{
+	
+}
+
+.details .compare-section .compare-image{
+	width: 30%;
+	height: 30%;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+/* compare page */
+
+.compare-page {
+	background-color: black;
+}
+
+.compare-page .image-comp {
+	margin-top: 50px;
+	height: 250px;
+}
+
+.compare-page .overlay-caption {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	padding: 5px;
+	background-color: black;
+	opacity: 0.6;
+}
+
+.compare-page .image-one,
+.compare-page .image-two {
+	position: relative;
+	background-image: url("../img/explore_background.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.compare-page .text-caption {
+	padding: 20px;
+}
+
+/* slideshow */
+
+.slideshow {
+	background-color: black;
+}
+
+.slideshow .slide {
+	position: relative;
+}
+
+.slideshow .caption {
+	position: absolute;
+	color: white;
+	bottom: 50px;
+	font-size: 1.5em;
+	padding: 20px;
+	background-color: black;
+	width: 100%;
+	opacity: 0.6;
+}
+
+.slide-image {
+	height: 100%;
+	background-size: contain;
+}
+
+.slider {
+  height: 100%;
+}
+/* Where page*/
+.map {
+    height:420px;
+    width:600px;
+}
+.infoWindowContent {
+    font-size:  14px !important;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+

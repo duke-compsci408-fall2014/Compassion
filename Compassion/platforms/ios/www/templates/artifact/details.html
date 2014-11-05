@@ -1,0 +1,59 @@
+<ion-view title="{{artifactName}}" class="details">
+  <ion-nav-buttons side="right">
+    <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content>
+  	<h4>Related Media</h4>
+	<div class="padding row">
+		<div class="col">
+            <div class="img" style="background-image:url('{{imageURL}}')
+"></div>		</div>
+		<div class="col">
+			<div class="row icon-row">
+				<a class="col col-center" ng-href="#/app/artifacts/details/1/where">
+					<i class="icon ion-android-location"></i>
+					<div>Where</div>
+				</a>
+				<a class="col col-center" ng-href="#/app/searchTerms">
+					<i class="icon ion-android-book"></i>
+					<div>Terms</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="music-player">
+	</div>
+	<div class="playlist">
+		<ul class="list">
+		    <li class="item item-dark">
+		      	<strong>Song one</strong>
+		      	<br>
+		      	Artist name one
+		    </li>
+		    <li class="item item-dark">
+		    	<strong>Song two</strong>
+		    	<br>
+		    	Artist name two
+		    </li>
+		</ul>
+	</div>
+	<div class="compare-section">
+		<h5 class="header">Compare with</h5>
+		<a ng-href="#/app/artifacts/details/1/compare/1">
+			<div class="compare-image"></div>
+		</a>
+		<div class="compare-image">
+		</div>
+		<div class="compare-image">
+		</div>
+		<div class="compare-image">
+		</div>
+		<div class="compare-image">
+		</div>
+		<div class="compare-image">
+		</div>
+	</div>
+
+  </ion-content>  
+
+</ion-view>

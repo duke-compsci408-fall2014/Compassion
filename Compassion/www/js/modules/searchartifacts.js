@@ -14,7 +14,7 @@ angular.module('starter')
   })
 .controller('searchArtifactsCtrl', function($scope, $stateParams, $http) {
     
- $http.get("/js/modules/data.json").success(function(data){
+ $http.get("js/modules/data.json").success(function(data){
      $scope.artifacts = data[3];    
  })
 

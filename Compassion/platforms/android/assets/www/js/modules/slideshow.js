@@ -15,7 +15,7 @@ angular.module('starter')
 
 .controller('SlideshowCtrl', ['$scope', '$http', function($scope, $http) {
 
- $http.get('/js/modules/data.json').success(function(data){    
+ $http.get('js/modules/data.json').success(function(data){  
       console.log(angular.fromJson(data)[3]); 
       $scope.artifacts = angular.fromJson(data)[3]; 
   })

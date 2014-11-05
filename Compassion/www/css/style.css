@@ -8,6 +8,7 @@ ion-nav-bar .title {
 
 ion-content * {
 	color: white;
+	font-family: "Iowan Old Style", Times, serif !important;
 }
 
 .back-button * {
@@ -110,9 +111,14 @@ ion-side-menu ion-content {
 	background-repeat: no-repeat;
 }
 
+.concierge * {
+	color: #a87e01;
+}
+
 .concierge .title-header {
 	text-align: center;
 	padding: 0 35px;
+	text-shadow: 4px 4px 30px black;
 }
 
 .concierge .about-text {
@@ -149,12 +155,11 @@ ion-side-menu ion-content {
 }
 
 .concierge img {
-	-webkit-filter: invert(100%);  
 }
 
 .concierge .explore div, 
 .concierge .search div {
-	color: white;
+	color: #a87e01 ;
 }
 
 .concierge .wrapper {
@@ -244,10 +249,15 @@ ion-side-menu ion-content {
 	width: 150px;
 }
 
+.artifact-search-page .item-image img {
+	max-height: 150px;
+	max-width: 150px;
+}
+
 .artifact-search-page .search-name {
 	position: absolute;
 	left: 150px;
-	top: 10px;
+	top: 0;
 	font-size: 1.5em;
 	padding: 20px;
 }
@@ -257,6 +267,7 @@ ion-side-menu ion-content {
 /* explore page */
 .explore-content {
 	background-image: url('../img/loading_back.png');
+	background-position: 0 70px;
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-color: black;
@@ -270,7 +281,7 @@ ion-side-menu ion-content {
 	text-align: center;
 	font-family: "Iowan Old Style", Times, serif;
 	font-size: 2.5em;
-	text-shadow: 0px 0px 50px rgba(0, 0, 0, 1) !important;
+	text-shadow: 0px 0px 5px black;
 }
 
 .explore-section-header {
@@ -313,7 +324,7 @@ ion-side-menu ion-content {
 }
 
 .explore-content .explore-item h2 {
-	color: white;
+	color: #a87e01;
 }
 
 

@@ -1,14 +1,18 @@
 /* overall */
 
 ion-nav-bar .title {
-	color: orange !important;
+	color: #a87e01 !important; 
 	text-transform: capitalize;
+	font-family: "Iowan Old Style", Times, serif !important;
+}
+
+* {
+	
 	font-family: "Iowan Old Style", Times, serif !important;
 }
 
 ion-content * {
 	color: white;
-	font-family: "Iowan Old Style", Times, serif !important;
 }
 
 .back-button * {
@@ -202,6 +206,9 @@ ion-side-menu ion-content {
 
 /* terms page */ 
 
+.terms-page * {
+	color: #a87e01 !important;
+}
 .terms-page {
 	background-color: black;
 }
@@ -225,8 +232,8 @@ ion-side-menu ion-content {
 	background-color: black;
 }
 
-.artifact-search-page p {
-	color: white;
+.artifact-search-page h3 {
+	color: #a87e01;
 }
 
 .artifact-search-page .pronounce {

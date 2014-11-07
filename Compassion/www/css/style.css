@@ -122,18 +122,19 @@ ion-side-menu ion-content {
 .concierge .title-header {
 	text-align: center;
 	padding: 0 35px;
-	text-shadow: 4px 4px 30px black;
+	text-shadow: 0 0 20px black;
 }
 
 .concierge .about-text {
 	padding: 0 40px;
 	text-align: center;
+	text-shadow: 0 0 10px black;
 }
 
 .concierge .more {
 	text-decoration: none;
 	font-weight: bold;
-	color: blue;
+	color: white;
 }
 
 .concierge .buttons {
@@ -332,6 +333,7 @@ ion-side-menu ion-content {
 
 .explore-content .explore-item h2 {
 	color: #a87e01;
+	text-shadow: 0 0 20px black;
 }
 
 
@@ -343,6 +345,7 @@ ion-side-menu ion-content {
 
 .theme-page h3 {
 	color: black;
+	font-style: italic;
 }
 
 .theme-description p {

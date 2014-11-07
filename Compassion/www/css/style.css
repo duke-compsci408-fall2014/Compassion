@@ -281,18 +281,20 @@ ion-side-menu ion-content {
     background-color: black;
 }
 
-.exhibit-header {
+.explore-content .exhibit-header {
 	margin-top:43px;
+	margin-left: 20px;
+	margin-right: 20px;
 	height: 80px;
 	line-height: 35px;
 	color: #a87e01;
 	text-align: center;
 	font-family: "Iowan Old Style", Times, serif;
-	font-size: 2.5em;
+	font-size: 2em;
 	text-shadow: 0px 0px 5px black;
 }
 
-.explore-section-header {
+.explore-content .explore-section-header {
 	line-height: 60px;
 	color: black;
 	font-size: 1.5em !important;
@@ -323,19 +325,10 @@ ion-side-menu ion-content {
 	width: 80%;
 }
 
-.explore-content .even {
-	float: right;
-}
-
-.explore-content .odd {
-	float: left;
-}
-
 .explore-content .explore-item h2 {
 	color: #a87e01;
 	text-shadow: 0 0 20px black;
 }
-
 
 /* theme page */
 
@@ -392,7 +385,8 @@ ion-side-menu ion-content {
 }
 
 
-.artifact-close {
+
+.artifact-page .artifact-close {
 	position: fixed;
 	top: 20px;
 	left: 20px;
@@ -412,20 +406,20 @@ ion-side-menu ion-content {
 	z-index: 1000;
 }
 
-.artifact-info {
-	position: absolute;
-	right: 10px;
-	line-height: 35px;
-	font-size: 28px;
-}
-
 .artifact-page {
 	background-color: black;
 }
 
 .artifact-page .title {
 	font-size: 1em;
+	padding-left: 10px;
+	text-align: left;
 	width: 80%;
+}
+
+.artifact-page .zoom-pic {
+	width: 100%;
+	height: 100%;
 }
 
 /* intermediate */
@@ -439,20 +433,11 @@ ion-side-menu ion-content {
 }
 
 .intermediate .item-image {
-	width: 100%;
-	height: 0;
-	text-align: center;
-	padding-bottom: 100%;
 	background-color: black;
 }
 
 .intermediate .img {
-	display: block;
-	margin: 0 auto;
-	max-width: 1000px;
-	height: 1000px;
-    background-image: url("../img/explore_background.jpg");
-    background-size: contain;
+	max-width: 50%;
     background-repeat: no-repeat;
 }
 
@@ -487,6 +472,29 @@ ion-side-menu ion-content {
 	line-height: 35px;
 }
 
+.intermediate .info-back {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background-color: black;
+	opacity: .7;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+}
+
+.intermediate .info {
+	position: absolute;
+	text-align: left;
+	bottom: 0;
+	left: 0;
+	padding: 10px;
+	z-index: 0;
+	width: 100%;
+	font-size: .8em;
+	line-height: 1.2em;
+}
+
 /* details */
 
 .details {
@@ -517,18 +525,17 @@ ion-side-menu ion-content {
 	font-size: 40px;
 }
 
-.details .music-player {
-	width: 100%;
-	height: 150px;
-	background-color: #a87e01;
-}
-
 
 .details .compare-section {
 	width: 100%;
 	height: 400px;
 	background-color: #a87e01;
 	padding: 10px;
+}
+
+.details .playlist .item-dark {
+	background-color: black;
+	border-top: 1px solid white;
 }
 
 .details .compare-section .header{

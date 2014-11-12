@@ -38,7 +38,7 @@ angular.module('starter')
     $scope.overlay = !$scope.overlay;
   };
       
-  $http.get('/js/modules/data.json').success(function(data){
+  $http.get('js/modules/data.json').success(function(data){
    $scope.imageURL = data[3][$stateParams.artifactId - 1].imageURL;
    $scope.artifactName = data[3][$stateParams.artifactId -1].name; 
   })

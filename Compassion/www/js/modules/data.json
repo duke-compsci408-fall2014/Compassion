@@ -3,16 +3,45 @@
     "title": "Image",
     "id": "1",
     "img_path": "img/theme_1.png",
+    "text":"The objects in this section demonstrate the many ways that artists have represented Avolokiteshvara throughout the centuries. The bodhisattva's iconography initially emerged in India almost two thousand years ago. At first he played a subsidiary role as attendant to the buddhas Shakyamuni or Amitabha and then became an independent focus of veneration. In East Asia, Avalokiteshvara took on feminine maternal forms. The bodhisattva's gracefull sitting and standing postures, gestures, attributes and idealized body are fundamentally iconic and symbolic. Each visual aspect points to an essential Buddhist ideal, especially the inseparability of compassion and wisdom. An outstretched hand or an upraised teaching gesture express these values; the white color and lotus convery purity, while the iwllow symbolizes healing abilities. Multiple heads and limbs indicate esoteric forms, signifying increased power. Avalokiteshvara's most identifiable attribute is a small buddha on his crown, an icon of his spiritual father Amitabha.",
     "artifacts": [
       {
         "name": "Amitabha Buddha",
-        "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.png",
-        "id": "1"
+        "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.jpg",
+        "id": "1", 
+        "caption":"Amitabha Buddha, Central Tibet, 19th Century;pigment on cloth; 38.5 x 25.5 in.; The Rubin Museum of Art, New York, F1997.6.3.", 
+        "comparativeImages":[
+          {"imageUrl":""}
+          ], 
+        "audio":{
+          "url":"https://www.youtube.com/watch?v=ITQBkHZXRtg",
+          "start":"0",
+          "end":"end"
+          }, 
+        "video":{
+          "url":"", 
+          "start":"", 
+          "end":""
+        }
       },
       {
         "name": "Khasarpana Lokeshvara",
         "imageURL": "img/Theme1/2. Khasarpana Lokeshvara 1979.040 copy copy.png",
-        "id": "2"
+        "id": "2", 
+           "caption":"Bodhisattva Avalokiteshvara in the Form of Khasarpana Lokeshvara, India, Bihar or Bengal, Pala period, late 11th-early 12th century;schist;37.5 x 18.5 x 6.75 in.; Asia Society, New York, Mr. and Mrs. John D. Rockerfeller 3rd Collection, 1979.40. Photo credit: Lynton Gardiner, Asia Society.", 
+        "comparativeImages":[
+          {"imageUrl":""}
+          ], 
+        "audio":{
+          "url":"",
+          "start":"",
+          "end":""
+          }, 
+        "video":{
+          "url":"https://www.youtube.com/watch?v=U923-fJ8-eQ", 
+          "start":"4:51", 
+          "end":"6:24"
+        }
       },
       {
         "name": "Padmapani",
@@ -21,7 +50,7 @@
       },
       {
         "name": "Avalokiteshvara",
-        "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
+        "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.jpg",
         "id": "4"
       },
       {
@@ -31,27 +60,42 @@
       },
       {
         "name": "The All-Seeing Lord Avalokiteshvara",
-        "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.png",
+        "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.jpg",
         "id": "6"
       },
       {
         "name": "Bodhisattva Avalokiteshvara (Guanyin)",
         "imageURL": "img/Theme1/7. Bodhisattva Avalokiteshvara (Guanyin) 33.91 cropped copy copy.png",
-        "id": "7"
+        "id": "7",
+        "caption":"The Bodhisattva Avalokiteshvara, Nepal, Transitional period, late 10th - early 11th century; gilt copper alloy with inlays of semiprecious stones; 26.75 x 11.5 x 5.25 in.; Asia Society, New York, Mr. and Mrs. John D.Rockefeller 3rd Collection, 1979.47. Photo credit: Susumu Wakisaka, Idemitsu Museum of Arts Tokyo.", 
+        "comparativeImages":[
+          {"imageUrl":""}
+          ], 
+        "audio":{
+          "url":"none",
+          "start":"none",
+          "end":"none"
+          }, 
+        "video":{
+          "url":"none", 
+          "start":"none", 
+          "end":"none"
+        }
+        
       },
       {
         "name": "Baiyi Guanyin",
-        "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
+        "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.jpg",
         "id": "8"
       },
       {
         "name": "Kannon",
-        "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
+        "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.jpg",
         "id": "9"
       },
       {
         "name": "White-robed Kannon Loeb",
-        "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
+        "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.jpg",
         "id": "10"
       },
       {
@@ -70,6 +114,7 @@
     "title": "Pilgrimage",
     "id": "2",
     "img_path": "img/theme_2.png",
+    "text":"In mediaval India, Avalokiteshvara's legendary island Potalaka represented the ultimate destination for seekers of the bodhisattva. As his worship spread throughout Asia, each country established its own locations for face-to-face encounters with the deity. The scrolls and sculptures in this section relate to several of Avalokiteshvara's most important pilgrimage sites: the Potala Palace and Jokang Temple in Lhasa, Tibet; the Saigoku Pilgrimage route in Japan; and Guanyin's most important center of worship in China, Mount Putua island. Countless pilgrims seeking worldly and spiritual benefits over millenia have traveled to Avalokiteshvara's sacred sites.",
     "artifacts": [
       {
       "name":"Phagpa Lokeshvara", 
@@ -85,25 +130,25 @@
     
      {
       "name":"Kannon", 
-      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.png", 
+      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.jpg", 
       "id":"15"
     },
     
      {
       "name":"Map of the Mount Putuo Area", 
-      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.png", 
+      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg", 
       "id":"16"
     },
     
      {
       "name":"Nachi Pilgrimage Mandala", 
-      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.png", 
+      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg", 
       "id":"17"
     },
     
       {
       "name":"Saigoku Pilgrimage Scroll", 
-      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.png", 
+      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg", 
       "id":"18"
     }
  
@@ -113,6 +158,7 @@
     "title": "Practice",
     "id": "3",
     "img_path": "img/theme_3.png",
+    "text":"This section presents objects that relate to daily spiritual activities such as spinning prayer wheels, reading, copying or venerating sutras, paying homage to status and paintings, reciting mantras, and engaging in elaborate Vajtayana techniques of visualizing the deity. Both art and practice aim to purify devotees of any impediments blocking their potential for unbiased wisdom and compassion. Although each country represented in this exhibition has different traditions and forms of practice, the common goal is to seek freedom from the sufferings of samsara. The objects included here establish Avalokiteshvara's key role in assisting devotees to attain Mahayana Buddhism's most sacred goals.",
     "artifacts": [
         {
       "name":"Prajnaparamita Sutra", 
@@ -140,13 +186,13 @@
     
      {
       "name":"Avalokiteshvara of the Six-Syllable Mantra ", 
-      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.png", 
+      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg", 
       "id":"23"
     },
     
     {
       "name":"Avalokiteshvara Mandala", 
-      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.png", 
+      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg", 
       "id":"24"
     },
     
@@ -158,7 +204,7 @@
     
      {
       "name":"Mother of Pearl Prayer Beads", 
-      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.png", 
+      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg", 
       "id":"26"
     }
     ]
@@ -166,7 +212,7 @@
   [
     {
       "name": "Amitabha Buddha",
-      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.png",
+      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.jpg",
       "id": "1"
     },
     {
@@ -181,7 +227,7 @@
     },
     {
       "name": "Avalokiteshvara",
-      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
+      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.jpg",
       "id": "4"
     },
     {
@@ -191,7 +237,7 @@
     },
     {
       "name": "The All-Seeing Lord Avalokiteshvara",
-      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.png",
+      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.jpg",
       "id": "6"
     },
     {
@@ -201,17 +247,17 @@
     },
     {
       "name": "Baiyi Guanyin",
-      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
+      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.jpg",
       "id": "8"
     },
     {
       "name": "Kannon",
-      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
+      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.jpg",
       "id": "9"
     },
     {
       "name": "White-robed Kannon Loeb",
-      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
+      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.jpg",
       "id": "10"
     },
     {
@@ -239,25 +285,25 @@
     
      {
       "name":"Kannon", 
-      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.png", 
+      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.jpg", 
       "id":"15"
     },
     
      {
       "name":"Map of the Mount Putuo Area", 
-      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.png", 
+      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg", 
       "id":"16"
     },
     
      {
       "name":"Nachi Pilgrimage Mandala", 
-      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.png", 
+      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg", 
       "id":"17"
     },
     
       {
       "name":"Saigoku Pilgrimage Scroll", 
-      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.png", 
+      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg", 
       "id":"18"
     },
     
@@ -287,13 +333,13 @@
     
      {
       "name":"Avalokiteshvara of the Six-Syllable Mantra ", 
-      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.png", 
+      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg", 
       "id":"23"
     },
     
     {
       "name":"Avalokiteshvara Mandala", 
-      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.png", 
+      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg", 
       "id":"24"
     },
     
@@ -305,7 +351,7 @@
     
      {
       "name":"Mother of Pearl Prayer Beads", 
-      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.png", 
+      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg", 
       "id":"26"
     }
   ],
@@ -317,6 +363,11 @@
         {"term":"term E", "definition":"some definition"},
          {"term":"term F", "definition":"some definition"},
           {"term":"term G", "definition":"some definition"}
-    ]
+    ],
+    {"credits":"This app is a cross-institutional collaboration, designed and developed by Clive Mudanda, Anthony Olawo, and Gary Sheng, members of CompSci 408, Duke University, with content created by Karen Lucic and her students in Art 386, Vassar College: Megna Da '15, Clair Fey '16, Emma Jaobs '15, Lili Kaar '16, Liqiao Li '16, Benno Orlinsky '15, Jiajing Sun '15, And Catherine Zhou '15. We express thanks to those who have supported this project. At Duke University: Salman Azhar; Robert Duvall. At Vassar College: Liliana Aguis; Janet Allison; Francine Brown; Jon Chenette; Bryce Daniel '17; Judith Dollenmayer; Gary Hohenberger; Rick Jarow; Sarah Kozloff; Mary-Kay Lombino; George Laws; Members of the Art Department; Grace Mooney '15; Molly Nesbit; Katherine Neville '14; Elizabeth Nogrady '99; Kristine Olson '11; Justin Patch; H. Daniel Peck; Patricia Phagan; Joann Potter; Research Committee; Daniel Selby '13; Anne Silk '12; Samuel Speers; Margaret Vetare; Michael Walsh.  Thanks also to: Helen Abbott; Alison Baldassano; Stephanie Barnes; Kurt Behrendt; Michelle Bennett; Marcus Bingenheimer; John Carpenter; Qing Chang; Tenzing Chonyi; PC Chun; Francesca Consagra; Karl Debreczeny; Lauran R. Hartley; Andrea Hagy; Mary Beth Heston; Leise Hook; Jean-Luc Howell; David Kaczynski; Patricia Karetzky; Laurel Kendall; Zoe Kwok; Denise Leidy; Cary Liu; Kristen Mable; Clare McGowan; Linda Patrik; Katherine Paul; Adriana Proser; Karen St. Pierre; Joseph Scheier-Dolberg; Michael Sheeshy; Katherine Skaggs; Susan Thompson; Ganden Thurman; Meg Ventrudo; Sinead Vilbar; Chengzhi Wang; Hwai-ling Yeh-Lewis; Chun-fang Yu; Keiichi Yumen. SPecial thanks to: Baynard Bailey; Bettina Chew; Sherry Fowler; Karen Hwang; Lama Karma Drodhul; Ven. Kenpo Karthar rinpoche; Amy Laughlin; Richard Lucic; James Mundy; Andrew Watsky; Douglas Winbald. Generous supprt for Embodying Compassion in Buddhist Art and its digital components is provided by: E.Rhodes and Leona B. Carpenter Foundation; ASIANetwork Lce Asian Arts Program; Elizabeth Kay and Raymond Bal; Ann Kinney '53, and Gilbert Kinney. At Vassar College: Agnes Rindge Claflin Fund; Emily Floyd Fund Endownment; Ford Scholars Program; Carolyn Grant Endowment; Office of Religious and Spiritual Life; Salmon Fund Endowment."}, 
+    
+    
+    {"about":"Welcome to the Embodying Compassion in Buddhist Art app. This multimedia guide introduces you to Avalokiteshvara, the Buddhist bodhisattva of compassion. Download it to visit the exhibition remotely or use it as you walk through the show at the Frances Lehman Loeb Art Center, Vassar College, from April 23 to June 28, 2015. The exhibition features outstanding examples of Indian, Nepalese, Tibetan, Chinese and Japanese art, including paintings, sculptures, texts, and ritual objects. See how Avalokiteshvara took on many different faces, names, and gender identities over time, becoming Guanyin in China, Kannon in Japan, Karunamaya in Nepal, and Chenrezig in Tibet. His Sanskrit name means “Lord Who Looks Down.” In East Asia, Avalokiteshvara became known as “Lord Who Perceives the Sounds of the World.” In every form, the bodhisattva offers the possibility that all beings—without exception—be free from suffering. The app includes high-resolution reproductions of the twenty-seven works in the exhibition, as well as dozens of comparative images and a rich array of interpretative texts, audio commentary, videos, a glossary of terms, and pronunciation guides. We invite you to explore the works, which are organized into three thematic categories—Image, Pilgrimage, Practice. Follow Avalokiteshvara as he travels from his birthplace in India to the Himalayas and East Asia, becoming one of the most revered figures in Buddhism.  For information about visiting the Frances Lehman Loeb Art Center: http://fllac.vassar.edu/.We also invite you to visit the exhibition website at: http://pages.vassar.edu/embodyingcompassion/"}
 ]
+
 

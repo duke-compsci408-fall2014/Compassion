@@ -6,9 +6,19 @@ angular.module('starter')
       url: "/credits",
       views: {
         'menuContent' :{
-          templateUrl: "templates/credits.html"
+          templateUrl: "templates/credits.html",
+          controller: "creditsCtrl"
         }
       }
     });
-  });
+  })
+
+.controller('creditsCtrl', function($scope, $http) {
+       $http.get("js/modules/data.json").success(function(data){
+         $scope.credits = data[5]; 
+           console.log($scope.credits); 
+      })
+  
+});
+
 

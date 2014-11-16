@@ -19,6 +19,8 @@ angular.module('starter')
       console.log(angular.fromJson(data)[3]); 
       $scope.artifacts = angular.fromJson(data)[3]; 
   })
+ 
+ 
 }]);
 
       

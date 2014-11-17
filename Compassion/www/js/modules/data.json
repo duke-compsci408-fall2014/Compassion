@@ -10,11 +10,15 @@
         "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.jpg",
         "id": "1", 
         "caption":"Amitabha Buddha, Central Tibet, 19th Century;pigment on cloth; 38.5 x 25.5 in.; The Rubin Museum of Art, New York, F1997.6.3.", 
+        "text":"With the rise of the Mahayana and its belief in multiple buddhas beyond the historical Shakyamuni, so too came the Pure Land school. Here, Amitabha, the Buddha of Infinite Light in the Pure Land faith, is shown with his court of bodhisattvas in Sukhavati, a land where devotees can easily reach enlightenment. Avalokiteshvara appears on the left below Amitabha’s pedestal, haloed in green and gold and holding a lotus blossom. He occupies a high position in the sect and is featured prominently in Pure Land iconography, although in this Tibetan painting, he is only one small figure in Amitabha’s retinue. LK",
         "comparativeImages":[
-          {"imageUrl":""}
+          {"imageURL":"img/Theme1/comparativeImages/1.jpg",
+           "caption":"Welcoming Descent of Amida and Bodhisattvas, Japan, Nanbokucho period, late 14th century; hanging scroll, ink, color, and gold on silk; 65 3/4 x 33 1/2 in.; The Metropolitan Museum of Art, Gift of Abby Aldrich Rockefeller, 1942, 42.25.37.",
+           "text":"Pure Land Buddhism is especially prevalent in East Asia. In addition to the common depiction of Amitabha in his Pure Land is the theme of the Welcoming Descent, as seen in this Japanese painting.  Representing a foundational belief of Pure Land Buddhism, this iconography—known as Raigo in Japanese—shows the Buddha and a host of bodhisattvas descending to the deathbed of the faithful to escort them personally to Sukhavati. Avalokiteshvara is in the front row of five bodhisattvas, second from the right. He offers a lotus pedestal to the dying devotee. LK"
+          }
           ], 
         "audio":{
-          "url":"https://www.youtube.com/watch?v=ITQBkHZXRtg",
+          "url":"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/177227381&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
           "start":"0",
           "end":"end"
           }, 

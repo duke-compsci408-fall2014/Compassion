@@ -11,13 +11,19 @@ angular.module('starter')
         }
       });
 })
-.controller('CompareCtrl', function($scope, $stateParams){
+.controller('CompareCtrl', function($scope, $stateParams, $http){
 
 	$scope.captionVisible = true;
 
 	$scope.toggleCaptionVisibility = function() {
 		$scope.captionVisible = !$scope.captionVisible;
 	}
+    
+    $http.get('js/modules/data.json').success(function(data){
+        $scope.comparativeImages = data[0].artifacts[$stateParams.artifactId -1].comparativeImages;
+        $scope.comparativeText = data[0].artifacts[$stateParams.artifactId -1].comparativeImages[0].text;
+        console.log($scope.comparativeText);
+    });
 
 });
 

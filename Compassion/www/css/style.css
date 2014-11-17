@@ -426,6 +426,12 @@ ion-side-menu ion-content {
 	height: 100%;
 }
 
+.artifact-page .scroll {
+		position: relative;
+	  top: 50%;
+	  transform: translateY(-50%) !important;
+}
+
 /* intermediate */
 
 .intermediate {
@@ -617,6 +623,12 @@ ion-side-menu ion-content {
 	margin-top: 5px;
 	font-size: .7em;
 	font-weight: bolder;
+}
+
+.slideshow .slide-image {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%) !important
 }
 
 /* Where page*/

@@ -596,8 +596,8 @@ ion-side-menu ion-content {
 	background-color: black;
 }
 
-.slideshow .slide {
-	position: relative;
+.slideshow .background {
+	background-color: black;
 }
 
 .slideshow .caption {
@@ -606,19 +606,19 @@ ion-side-menu ion-content {
 	bottom: 50px;
 	font-size: 1.5em;
 	padding: 20px;
+	padding-left: 30px;
+	word-wrap:break-word;
 	background-color: black;
 	width: 100%;
-	opacity: 0.6;
+	opacity: 0.8;
 }
 
-.slide-image {
-	height: 100%;
-	background-size: contain;
+.slideshow .index {
+	margin-top: 5px;
+	font-size: .7em;
+	font-weight: bolder;
 }
 
-.slider {
-  height: 100%;
-}
 /* Where page*/
 .map {
     height:420px;

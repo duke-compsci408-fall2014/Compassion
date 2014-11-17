@@ -3,11 +3,14 @@
     <button menu-toggle="right"class="button button-icon icon ion-navicon">  </button>
   </ion-nav-buttons>
   <ion-content class="has-header">
-      <slide-box  auto-play="true" does-continue="true">
-          <slide class="slide" ng-repeat="artifact in artifacts">
-            <a ng-href="#/app/artifacts/{{artifact.id}}"><img class="slide-image" ng-src="{{artifact.imageURL}}"></a>
-            <div class="caption">{{artifact.name}}</div>
-        <slide>
-      <slide-box>
+      <ion-slide-box on-slide-changed="slideHasChanged($index)" show-pager="false">
+          <ion-slide class="box" ng-repeat="artifact in artifacts" ng-show="isCurrentSlideIndex($index)">
+            <div class="background" ng-style="setWidthAndHeight()"><a ng-href="#/app/artifacts/{{artifact.id}}"><img class="slide-image" ng-src="{{artifact.imageURL}}" ng-style="setWidth()"></a></div>
+            <div class="caption" ng-style="setCaptionWidth()">
+              {{artifact.name}}
+              <div class="index">{{$index+1}} / {{artifacts.length}}</div>
+            </div>
+        </ion-slide>
+      </ion-slide-box>
   </ion-content>
 </ion-view>

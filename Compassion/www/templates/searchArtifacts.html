@@ -3,16 +3,18 @@
     <button menu-toggle="right"class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
   <ion-content class="has-header artifact-search-page">
-      <div class="item item-input-inset">
-        <label class="item-input-wrapper">
-            <input type="text" ng-model="search" placeholder="artifact title">
-          </label>
-        <button class="button button-small">
-            search
-        </button>
-  </div>
+      <div class="radio-group">
+        <input type="radio" ng-model="settings.myFilter" value="name"> By name
+        <input type="radio" ng-model="settings.myFilter" value='id'> By ID
+      </div>
+    <div class="item item-input-inset">
+      <label class="item-input-wrapper">
+          <input type="text" ng-model="search[settings.myFilter]" placeholder="Search artifacts by {{settings.myFilter}}">
+        </label>
+      
+    </div>
     <ul>
-        <li ng-repeat="artifact in artifacts | filter:search">
+        <li ng-repeat="artifact in artifacts | filter:search[settings.myFilter]:isIdFilter()">
           <div class="card">
             <a href="#/app/artifacts/{{artifact.id}}">
                 <div class="item item-image">
@@ -24,5 +26,6 @@
           </div>
         </li>
     </ul>
+
   </ion-content>
 </ion-view>

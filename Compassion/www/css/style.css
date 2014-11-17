@@ -270,7 +270,11 @@ ion-side-menu ion-content {
 	padding: 20px;
 }
 
-
+.artifact-search-page .radio-group {
+	margin: 10px;
+	margin-bottom: 0px;
+	text-align: center;
+}
 
 /* explore page */
 .explore-content {

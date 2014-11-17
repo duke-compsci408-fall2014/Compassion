@@ -7,7 +7,7 @@
     "artifacts": [
       {
         "name": "Amitabha Buddha",
-        "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.jpg",
+        "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.png",
         "id": "1", 
         "caption":"Amitabha Buddha, Central Tibet, 19th Century;pigment on cloth; 38.5 x 25.5 in.; The Rubin Museum of Art, New York, F1997.6.3.", 
         "comparativeImages":[
@@ -50,7 +50,7 @@
       },
       {
         "name": "Avalokiteshvara",
-        "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.jpg",
+        "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
         "id": "4"
       },
       {
@@ -60,7 +60,7 @@
       },
       {
         "name": "The All-Seeing Lord Avalokiteshvara",
-        "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.jpg",
+        "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.png",
         "id": "6"
       },
       {
@@ -85,17 +85,17 @@
       },
       {
         "name": "Baiyi Guanyin",
-        "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.jpg",
+        "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
         "id": "8"
       },
       {
         "name": "Kannon",
-        "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.jpg",
+        "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
         "id": "9"
       },
       {
         "name": "White-robed Kannon Loeb",
-        "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.jpg",
+        "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
         "id": "10"
       },
       {
@@ -130,25 +130,25 @@
     
      {
       "name":"Kannon", 
-      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.jpg", 
+      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.png", 
       "id":"15"
     },
     
      {
       "name":"Map of the Mount Putuo Area", 
-      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg", 
+      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.png", 
       "id":"16"
     },
     
      {
       "name":"Nachi Pilgrimage Mandala", 
-      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg", 
+      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.png", 
       "id":"17"
     },
     
       {
       "name":"Saigoku Pilgrimage Scroll", 
-      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg", 
+      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.png", 
       "id":"18"
     }
  
@@ -186,13 +186,13 @@
     
      {
       "name":"Avalokiteshvara of the Six-Syllable Mantra ", 
-      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg", 
+      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.png", 
       "id":"23"
     },
     
     {
       "name":"Avalokiteshvara Mandala", 
-      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg", 
+      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.png", 
       "id":"24"
     },
     
@@ -204,7 +204,7 @@
     
      {
       "name":"Mother of Pearl Prayer Beads", 
-      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg", 
+      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.png", 
       "id":"26"
     }
     ]
@@ -212,7 +212,7 @@
   [
     {
       "name": "Amitabha Buddha",
-      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.jpg",
+      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.png",
       "id": "1"
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "name": "Avalokiteshvara",
-      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.jpg",
+      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
       "id": "4"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "name": "The All-Seeing Lord Avalokiteshvara",
-      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.jpg",
+      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.png",
       "id": "6"
     },
     {
@@ -247,17 +247,17 @@
     },
     {
       "name": "Baiyi Guanyin",
-      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.jpg",
+      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
       "id": "8"
     },
     {
       "name": "Kannon",
-      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.jpg",
+      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
       "id": "9"
     },
     {
       "name": "White-robed Kannon Loeb",
-      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.jpg",
+      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
       "id": "10"
     },
     {
@@ -285,25 +285,25 @@
     
      {
       "name":"Kannon", 
-      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.jpg", 
+      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.png", 
       "id":"15"
     },
     
      {
       "name":"Map of the Mount Putuo Area", 
-      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg", 
+      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.png", 
       "id":"16"
     },
     
      {
       "name":"Nachi Pilgrimage Mandala", 
-      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg", 
+      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.png", 
       "id":"17"
     },
     
       {
       "name":"Saigoku Pilgrimage Scroll", 
-      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg", 
+      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.png", 
       "id":"18"
     },
     
@@ -333,13 +333,13 @@
     
      {
       "name":"Avalokiteshvara of the Six-Syllable Mantra ", 
-      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg", 
+      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.png", 
       "id":"23"
     },
     
     {
       "name":"Avalokiteshvara Mandala", 
-      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg", 
+      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.png", 
       "id":"24"
     },
     
@@ -351,7 +351,7 @@
     
      {
       "name":"Mother of Pearl Prayer Beads", 
-      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg", 
+      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.png", 
       "id":"26"
     }
   ],

@@ -22,7 +22,7 @@ angular.module('starter')
     $http.get('js/modules/data.json').success(function(data){
         $scope.comparativeImages = data[0].artifacts[$stateParams.artifactId -1].comparativeImages;
         $scope.comparativeText = data[0].artifacts[$stateParams.artifactId -1].comparativeImages[0].text;
-        console.log($scope.comparativeText);
+        console.log($stateParams);
     });
 
 });

@@ -6,19 +6,22 @@ angular.module('starter')
       url: "/searchArtifacts",
       views: {
         'menuContent' :{
-          templateUrl:'templates/searchArtifacts.html', 
-          controller: 'searchArtifactsCtrl'    
+          templateUrl:'templates/searchArtifacts.html',
+          controller: 'searchArtifactsCtrl'
         }
       }
     });
   })
 .controller('searchArtifactsCtrl', function($scope, $stateParams, $http) {
     
- $http.get("/js/modules/data.json").success(function(data){
-     $scope.artifacts = data[3];    
- })
+ $http.get("js/modules/data.json").success(function(data){
+     $scope.artifacts = data[3];
+ });
 
-})
-;
+ $scope.settings = {};
+ $scope.settings.myFilter = "name";
 
-
+ $scope.isIdFilter = function() {
+    return $scope.settings.myFilter == 'id';
+ };
+});

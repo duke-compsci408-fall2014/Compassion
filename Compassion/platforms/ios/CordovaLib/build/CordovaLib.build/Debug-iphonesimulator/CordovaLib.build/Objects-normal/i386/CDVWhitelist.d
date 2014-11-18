@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/anthonyotienoolawo/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
-  /Users/anthonyotienoolawo/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
+  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVWhitelist.h

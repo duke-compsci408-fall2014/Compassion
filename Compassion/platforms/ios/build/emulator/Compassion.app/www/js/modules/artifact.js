@@ -20,6 +20,7 @@ angular.module('starter')
           }
         }
       })
+     
       .state('app.singleArtifactDetails', {
         url: "/artifacts/details/:artifactId",
         views: {
@@ -28,22 +29,36 @@ angular.module('starter')
             controller: 'ArtifactCtrl'
           }
         }
-      });
+      })
+ 
   })
-  .controller('ArtifactCtrl', function($scope, $stateParams, $http) {
-  $scope.curArtId = $stateParams.artifactId;
-  $scope.tab = 1;
-  $scope.overlay = true;
-  $scope.toggleOverlay = function() {
-    $scope.overlay = !$scope.overlay;
-  };
-      
-  $http.get('/js/modules/data.json').success(function(data){
-   $scope.imageURL = data[3][$stateParams.artifactId - 1].imageURL;
-   $scope.artifactName = data[3][$stateParams.artifactId -1].name; 
+
+ 
+  .controller('ArtifactCtrl', function($scope, $stateParams, $http, $sce) {
+    $scope.curArtId = $stateParams.artifactId;
+    $scope.tab = 1;
+    $scope.overlay = true;
+    $scope.toggleOverlay = function() {
+      $scope.overlay = !$scope.overlay;
+    };
+
+    $scope.goBack = function() {
+      window.history.back();
+    };
+          
+    $http.get('js/modules/data.json').success(function(data){
+        $scope.imageURL = data[3][$stateParams.artifactId - 1].imageURL;
+        $scope.artifactName = data[3][$stateParams.artifactId -1].name;    
+        $scope.artifactText = $scope.comparativeImages = data[0].artifacts[$stateParams.artifactId -1].text
+        $scope.artifactCaption = data[0].artifacts[$stateParams.artifactId -1].caption
+        $scope.comparativeImages = data[0].artifacts[$stateParams.artifactId -1].comparativeImages; 
+        //$scope.audioUrl = $sce.trustAsResourceUrl(data[0].artifacts[$stateParams.artifactId -1].audio.url); 
+       // $scope.video = data[0].artifacts[$stateParams.artifactId -1].video;
+        $scope.location = data[0].artifacts[$stateParams.artifactId - 1].location;       
+        console.log($scope.location); 
+    });
+
   })
-  
-})
 
 ;
 

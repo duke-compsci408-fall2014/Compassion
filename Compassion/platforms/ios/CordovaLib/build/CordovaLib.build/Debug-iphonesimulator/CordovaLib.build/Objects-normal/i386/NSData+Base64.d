@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/anthonyotienoolawo/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSData+Base64.m \
-  /Users/anthonyotienoolawo/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSData+Base64.m \
+  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSData+Base64.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/anthonyotienoolawo/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVJSON.m \
-  /Users/anthonyotienoolawo/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVJSON.h
+  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVJSON.m \
+  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVJSON.h

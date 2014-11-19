@@ -10,7 +10,7 @@
 "></div>		</div>
 		<div class="col">
 			<div class="row icon-row">
-				<a class="col col-center" ng-href="#/app/artifacts/details/1/where">
+				<a class="col col-center" ng-href="#/app/artifacts/details/{{curArtId}}/where">
 					<i class="icon ion-android-location"></i>
 					<div>Where</div>
 				</a>
@@ -40,7 +40,7 @@
 	</div>
 	<div class="compare-section">
 		<h5 class="header">Compare with</h5>
-		<a ng-href="#/app/artifacts/details/1/compare/1" ng-repeat="image in comparativeImages">
+		<a ng-href="#/app/artifacts/details/{{curArtId}}/compare/{{curArtId}}" ng-repeat="image in comparativeImages">
          <div class="compare-image">
             </div>
 		</a>

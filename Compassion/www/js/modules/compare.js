@@ -18,9 +18,10 @@ angular.module('starter')
 	$scope.toggleCaptionVisibility = function() {
 		$scope.captionVisible = !$scope.captionVisible;
 	}
-    
+	
+	
+    $scope.artifacts = [];
     $http.get('js/modules/data.json').success(function(data){  	
-    	$scope.artifacts = [];
       		for(var i =0; i<3; i++){
       			for(var j = 0; j<data[i].artifacts.length; j++){
       				$scope.artifacts[$scope.artifacts.length] = angular.fromJson(data[i].artifacts[j]);
@@ -30,8 +31,7 @@ angular.module('starter')
       	
         $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId -1].comparativeImages;
         console.log($scope.comparativeImages); 
-        $scope.comparativeText = $scope.artifacts[$stateParams.artifactId -1].comparativeImages[0].text;
-    	console.log($scope.comparativeText); 
+       
     });
 
 });

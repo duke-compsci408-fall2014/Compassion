@@ -52,7 +52,7 @@ angular.module('starter')
         $scope.artifactText = $scope.comparativeImages = data[0].artifacts[$stateParams.artifactId -1].text
         $scope.artifactCaption = data[0].artifacts[$stateParams.artifactId -1].caption
         $scope.comparativeImages = data[0].artifacts[$stateParams.artifactId -1].comparativeImages; 
-        //$scope.audioUrl = $sce.trustAsResourceUrl(data[0].artifacts[$stateParams.artifactId -1].audio.url); 
+        $scope.audioUrl = $sce.trustAsResourceUrl(data[0].artifacts[$stateParams.artifactId -1].playlist.url); 
        // $scope.video = data[0].artifacts[$stateParams.artifactId -1].video;
         $scope.location = data[0].artifacts[$stateParams.artifactId - 1].location;       
         console.log($scope.location); 

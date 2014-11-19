@@ -122,13 +122,13 @@ ion-side-menu ion-content {
 .concierge .title-header {
 	text-align: center;
 	padding: 0 35px;
-	text-shadow: 0 0 20px black;
+	text-shadow: 0 0 10px black;
 }
 
 .concierge .about-text {
 	padding: 0 40px;
 	text-align: center;
-	text-shadow: 0 0 10px black;
+	text-shadow: 0 0 5px black;
 }
 
 .concierge .more {
@@ -190,6 +190,7 @@ ion-side-menu ion-content {
 
 
 .about-page .about-text {
+	color: #a87e01;
 	padding: 20px;
 }
 

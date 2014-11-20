@@ -8,8 +8,8 @@
     	<div class="card">
     		  <div class="item item-image" ng-click="toggleOverlay()">
     		  	<img class="img" src="{{imageURL}}"/>
-            <div class="info" ng-show="overlay === true">
-                {{artifactCaption}}
+            <div class="info-section" ng-show="overlay === true">
+                <p class="info-text">{{artifactCaption}}</p>
               <div class="info-back"></div>
             </div>
 

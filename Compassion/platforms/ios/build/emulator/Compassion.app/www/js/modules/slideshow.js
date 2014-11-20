@@ -16,9 +16,14 @@ angular.module('starter')
 .controller('SlideshowCtrl', ['$scope', '$http', '$ionicSideMenuDelegate', '$window', function($scope, $http, $ionicSideMenuDelegate, $window) {
 
  $http.get('js/modules/data.json').success(function(data){
-      console.log(angular.fromJson(data)[3]);
-      $scope.artifacts = angular.fromJson(data)[3];
+      $scope.artifacts = [];
+      for(var i =0; i<3; i++){
+      	for(var j = 0; j<data[i].artifacts.length; j++){
+      		$scope.artifacts[$scope.artifacts.length] = angular.fromJson(data[i].artifacts[j]);
+      	}
+      }
   });
+  
 
  $scope.setWidth = function() {
   return { "width": $window.innerWidth+'px' };

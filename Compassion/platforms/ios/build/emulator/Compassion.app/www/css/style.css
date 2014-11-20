@@ -45,6 +45,10 @@ ion-side-menu ion-content {
 	background-color: black;
 }
 
+.side-menu * {
+	color: #a87e01;
+}
+
 /* initial loading page */
 
 .load {
@@ -116,19 +120,21 @@ ion-side-menu ion-content {
 }
 
 .concierge * {
-	color: #a87e01;
+	color: white;
 }
 
 .concierge .title-header {
 	text-align: center;
 	padding: 0 35px;
-	text-shadow: 0 0 20px black;
+	color: #a87e01;
+	font-weight: bolder;
+	text-shadow: 0 0 5px black;
 }
 
 .concierge .about-text {
 	padding: 0 40px;
 	text-align: center;
-	text-shadow: 0 0 10px black;
+	text-shadow: 0 0 5px black;
 }
 
 .concierge .more {
@@ -190,6 +196,7 @@ ion-side-menu ion-content {
 
 
 .about-page .about-text {
+	color: #a87e01;
 	padding: 20px;
 }
 
@@ -287,14 +294,15 @@ ion-side-menu ion-content {
 
 .explore-content .exhibit-header {
 	margin-top:43px;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
 	height: 80px;
 	line-height: 35px;
 	color: #a87e01;
 	text-align: center;
 	font-family: "Iowan Old Style", Times, serif;
 	font-size: 2em;
+	font-weight: bold;
 	text-shadow: 0px 0px 5px black;
 }
 
@@ -493,7 +501,7 @@ ion-side-menu ion-content {
 	height: 100%;
 }
 
-.intermediate .info {
+.intermediate .info-section {
 	position: absolute;
 	text-align: left;
 	bottom: 0;
@@ -503,6 +511,11 @@ ion-side-menu ion-content {
 	width: 100%;
 	font-size: .8em;
 	line-height: 1.2em;
+}
+
+.intermediate .info-text {
+	color: white;
+	white-space: normal;
 }
 
 /* details */

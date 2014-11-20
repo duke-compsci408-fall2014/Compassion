@@ -21,7 +21,7 @@
 		        ],
 		        "playlist":[
 		      	 {
-		          "url": "https://www.youtube.com/watch?v=ITQBkHZXRtg",
+		          "url": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/01a",
 		          "start": "0",
 		          "end": "end", 
 		          "caption":""
@@ -43,7 +43,7 @@
 		        ],
 		        "playlist":[
 		         {
-		          "url": "",
+		          "url": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/02a",
 		          "start": "",
 		          "end": "", 
 		          "caption":""
@@ -70,7 +70,7 @@
 				],
 				"playlist":[
 				{
-				"url":"", 
+				"url":"https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/03a", 
 				"start":"", 
 				"stop":"", 
 				"caption":""
@@ -92,7 +92,7 @@
 				], 
 				"playlist":[
 				{
-				"url":"", 
+				"url":"https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/04a", 
 				"start":"", 
 				"stop":"", 
 				"caption":""
@@ -112,7 +112,7 @@
 		        ], 
 		        "playlist":[
 				{
-				"url":"", 
+				"url":"https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/05a", 
 				"start":"", 
 				"stop":"", 
 				"caption":""

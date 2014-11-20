@@ -5,7 +5,9 @@
   <ion-content class="compare-page has-header">
     <div ng-repeat="image in comparativeImages">
 	   <div class="row image-comp" ng-click="toggleCaptionVisibility()" >
-   
+        <div class="col image-one" style="background-image:url('{{image.imageURL}}')">
+               <div class="overlay-caption" ng-show="captionVisible">{{image.caption}}</div>
+         </div>
 	       <div class="col image-one" style="background-image:url('{{image.imageURL}}')">
                <div class="overlay-caption" ng-show="captionVisible">{{image.caption}}</div>
 	       </div>

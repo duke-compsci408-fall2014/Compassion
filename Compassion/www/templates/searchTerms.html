@@ -14,9 +14,9 @@
     <ul class="list">
       <li class="item item-dark" ng-repeat="term in terms | filter:search">
         {{term.term}}<a href="" ng-click="playSound()" class="pronounce ion-volume-low"></a>
-        <pre>
+        <p>
           {{term.definition}}
-        </pre>
+        </p>
       </li>
     </ul>
   </ion-content>

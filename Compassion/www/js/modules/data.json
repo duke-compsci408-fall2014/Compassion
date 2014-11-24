@@ -20,10 +20,10 @@
 		            "text": "Pure Land Buddhism is especially prevalent in East Asia. In addition to the common depiction of Amitabha in his Pure Land is the theme of the Welcoming Descent, as seen in this Japanese painting.  Representing a foundational belief of Pure Land Buddhism, this iconography—known as Raigo in Japanese—shows the Buddha and a host of bodhisattvas descending to the deathbed of the faithful to escort them personally to Sukhavati. Avalokiteshvara is in the front row of five bodhisattvas, second from the right. He offers a lotus pedestal to the dying devotee. LK"
 		          }
 		        ],
-		        "video": "http://www.youtube.com/v/ITQBkHZXRtg?version=3&enablejsapi=1",
+		        "video": "http://www.youtube.com/embed/ITQBkHZXRtg?start=11&end=23",
 		        "playlist":[
 		      	 {
-		          "url": "//www.youtube.com/embed/ITQBkHZXRtg",
+		          "url": "http://www.youtube.com/embed/ITQBkHZXRtg?enablejsapi=1&",
 		          "start": "0",
 		          "end": "end", 
 		          "caption":""
@@ -47,7 +47,7 @@
 		        ],
 		        "playlist":[
 		         {
-		           "url": "https://www.youtube.com/watch?v=U923-fJ8-eQ",
+		           "url": "https://www.youtube.com/embed/U923-fJ8-eQ?start=4",
 		          "start": "4:51",
 		          "end": "6:24", 
 		          "caption":""
@@ -927,7 +927,7 @@
 		      "term": "Brahmanism (S): ",
 		      "definition": "polytheistic Indian religion based on ancient Vedic scriptures. Hinduism grew out of Brahmanism."
 		    },
-		        {
+		    {
 		      "term": "Buddha (S): ",
 		      "definition": "Awakened One. Often used to refer to the “historical Buddha,” Siddhartha Gautama, an Indian prince, probably born sometime in the 5th century. He achieved enlightenment and became known as Shakyamuni. In Mahayana Buddhism, Shakyamuni is but one of many past, present and future buddhas."
 		    },
@@ -955,7 +955,7 @@
 		      "term": "Dalai Lama (T): ",
 		      "definition": "title of the spiritual leaders of Tibet since the 17th century. Each reincarnated holder of this title is considered one of Chenrezig’s emanations."
 		    },
-		        {
+		    {
 		      "term": "Dharma (S): ",
 		      "definition": "Buddhist law; teachings of the Buddha."
 		    },
@@ -983,7 +983,7 @@
 		      "term": "Fudarakusan (J): ",
 		      "definition": "Japanese localization of the Indian Potalaka, Avalokiteshvara’s sacred island. There are several Fudarakusan sites in Japan, including Mount Myoho at Nachi."
 		    },
-		        {
+		    {
 		      "term": "Fudarakudokai (J): ",
 		      "definition": "Crossing The Sea To Fudarakusan. Religious suicide ritual once performed at Nachi, sending a willing devotee on a one-way journey to Kannon’s imagined paradise Fudarakusan."
 		    },

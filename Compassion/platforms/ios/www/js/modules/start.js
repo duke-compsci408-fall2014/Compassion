@@ -2,11 +2,7 @@ angular.module('starter')
 .config(function($stateProvider) {
   $stateProvider
     // loading states
-    .state('start1', {
-      url: "",
-      templateUrl: 'templates/start/quote.html',
-      controller: 'Start1Ctrl'
-    })
+    
     .state('start2', {
       url: "/",
       templateUrl: 'templates/start/load.html',

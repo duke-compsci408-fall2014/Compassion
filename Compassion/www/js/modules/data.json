@@ -20,9 +20,10 @@
 		            "text": "Pure Land Buddhism is especially prevalent in East Asia. In addition to the common depiction of Amitabha in his Pure Land is the theme of the Welcoming Descent, as seen in this Japanese painting.  Representing a foundational belief of Pure Land Buddhism, this iconography—known as Raigo in Japanese—shows the Buddha and a host of bodhisattvas descending to the deathbed of the faithful to escort them personally to Sukhavati. Avalokiteshvara is in the front row of five bodhisattvas, second from the right. He offers a lotus pedestal to the dying devotee. LK"
 		          }
 		        ],
+		        "video": "http://www.youtube.com/embed/ITQBkHZXRtg?start=11&end=23",
 		        "playlist":[
 		      	 {
-		          "url": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/01a",
+		          "url": "http://www.youtube.com/embed/ITQBkHZXRtg?enablejsapi=1&",
 		          "start": "0",
 		          "end": "end", 
 		          "caption":""
@@ -46,9 +47,9 @@
 		        ],
 		        "playlist":[
 		         {
-		          "url": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/02a",
-		          "start": "",
-		          "end": "", 
+		           "url": "https://www.youtube.com/embed/U923-fJ8-eQ?start=4",
+		          "start": "4:51",
+		          "end": "6:24", 
 		          "caption":""
 		        },
 		      	{
@@ -107,7 +108,7 @@
 				]
 		      },
 		      {
-		        "name": "Shadakshari",
+		        "name": " Four-armed Avalokiteshvara",
 		        "imageURL": "img/Theme1/5. Shadakshari 85.04.0682 copy copy.png",
 		        "id": "5",
 		        "location":"img/maps/China+Tibet.jpg",
@@ -176,7 +177,7 @@
 				]
 		      },
 		      {
-		        "name": "Baiyi Guanyin",
+		        "name": "White-robed Guanyin",
 		        "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
 		        "id": "8", 
 		        "location":"img/maps/China.jpg",
@@ -200,7 +201,7 @@
 		              
 		      },
 		      {
-		        "name": "Kannon",
+		        "name": "White-robed (Pandaravasini) Kannon",
 		        "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
 		        "id": "9",
 		        "location":"img/maps/Japan.jpg",
@@ -223,7 +224,7 @@
 				]
 		         },
 		      {
-		        "name": "White-robed Kannon Loeb",
+		        "name": "White-robed Kannon",
 		        "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
 		        "id": "10",
 		        "location":"img/maps/Japan.jpg",
@@ -269,7 +270,7 @@
 				]
 		      },
 		      {
-		        "name": "Descent of Eleven Headed Kannon",
+		        "name": "Nyoirin Kannon",
 		        "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
 		        "id": "12", 
 		        "location":"img/maps/Japan.jpg",
@@ -292,7 +293,7 @@
 				]						        
 		      },
 		      {
-		      	"name":"Kannon",
+		      	"name":"Descent of Eleven-headed Kannon ",
 		      	"imageURL":"img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
 		      	"id":"13",
 		      	"location":"img/maps/Japan.jpg",
@@ -331,7 +332,7 @@
 		        "location":"img/maps/Nepal.jpg",
 		        "caption":"Phagpa Lokeshvara, Nepal, 16th – 17th century; ivory; 5 1/2 in.; Newark Museum, Wallace M. Scudder Bequest Fund, 1973, 73.130.", 
 		        "text":"This tiny ivory sculpture from Nepal replicates a famous icon—Phagpa Lokeshvara—from the Potala Palace in Lhasa, Tibet. The Potala is a holy, venerated site of pilgrimage, particularly for Himalayan Buddhists. Many versions of the Potala icon were made in a variety of media. They all have three-lobed crowns, low-hanging sashes, and heavy earrings. Though missing from this sculpture, the right hand would have made the compassionate varada mudra. This replica’s small size, combined with its rare, expensive medium, suggests that it was an object of personal devotion, which would have been incredibly precious to its owner. CF",
-		       "audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/13a&amp;",
+		        "audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/13a&amp;",
 		        "comparativeImages":[
 		        {
 		        "imageURL":"img/Theme1/comparativeImages/14.jpg", 
@@ -349,7 +350,7 @@
 				]
 		      },
 		      {
-		        "name": "Ekadashamukha",
+		        "name": "Eleven-headed Avalokiteshvara",
 		        "imageURL": "img/Theme2/15. Ekadashamukha 85.04.0160 copy copy.png",
 		        "id": "15",
 		        "location":"img/maps/China+Tibet.jpg",
@@ -373,8 +374,8 @@
 				]
 		      },
 		      {
-		        "name": "Kannons",
-		        "imageURL": "img/Theme2/16. Kannon 2014.20.1.jpg",
+		        "name": "Kannon",
+		        "imageURL": "img/Theme2/16. Kannon 2014.20.1.png",
 		        "id": "16",
 		        "location":"img/maps/Japan.jpg",
 		        "caption":" Kannon, Japanese, Edo period, 1615-1868; hanging scroll, ink and color on silk; image: 61 7/8 x 33 in. mount: 87 7/8 x 39 1/2 in.; Gift of Daniele Selby, Frances Lehman Loeb Art Center, Vassar College, 2014. 20. 1.",
@@ -398,8 +399,8 @@
 						
 		      },
 		      {
-		        "name": "Map of the Mount Putuo Area",
-		        "imageURL": "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg",
+		        "name": "Map of the Mount Putuo",
+		        "imageURL": "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.png",
 		        "id": "17",
 		        "location":"img/maps/China.jpg", 
 		        "caption":"The Complete Map of the Imperially Established South Sea Mount Putuo Area, China, Qing period, early 20th century; hand-colored woodblock print; 43 5/16 x 24 7/8 in.; Courtesy of the Division of Anthropology, American Museum of Natural History, ASIA/0578.", 
@@ -424,7 +425,7 @@
 		      },
 		      {
 		        "name": "Nachi Pilgrimage Mandala",
-		        "imageURL": "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg",
+		        "imageURL": "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.png",
 		        "id": "18",
 		        "location":"img/maps/Japan.jpg", 
 		        "caption":"Nachi Pilgrimage Mandala, Japan, Edo period, 16th - early 17th c.; hanging scroll, ink, colors, and gold leaf on paper, 59 x 59 1/2 in.; Frances Lehman Loeb Art Center, Vassar College, Pratt Fund and Betsy Mudge Wilson, Class of 1956, Memorial Fund, Purchase, 2004.10.", 
@@ -471,7 +472,7 @@
 		   	 },
 		      {
 		        "name": "Saigoku Pilgrimage Scroll",
-		        "imageURL": "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg",
+		        "imageURL": "img/Theme2/19. Saigoku Pilgrimage Scroll.png",
 		        "id": "19",
 		         "location":"img/maps/Japan.jpg",
 		        "caption":"Saigoku Pilgrimage Scroll, Japan, 19th century; ink stamps on paper mounted on silk; mounted prints: 36 x 14 5/8 in., overall including brocade and knobs: 58 1/2 x 22 3/4 in.; Private Collection", 
@@ -515,7 +516,7 @@
 		    "text": "This section presents objects that relate to daily spiritual activities such as spinning prayer wheels, reading, copying or venerating sutras, paying homage to status and paintings, reciting mantras, and engaging in elaborate Vajtayana techniques of visualizing the deity. Both art and practice aim to purify devotees of any impediments blocking their potential for unbiased wisdom and compassion. Although each country represented in this exhibition has different traditions and forms of practice, the common goal is to seek freedom from the sufferings of samsara. The objects included here establish Avalokiteshvara's key role in assisting devotees to attain Mahayana Buddhism's most sacred goals.",
 		    "artifacts": [
 		      {
-		        "name": "Prajnaparamita Sutra",
+		        "name": "Prajnaparamita Manuscript",
 		        "imageURL": "img/Theme3/20. Prajnaparamita Sutra 1987.001 copy copy.png",
 		        "id": "20", 
 		         "location":"img/maps/India.jpg",
@@ -564,7 +565,7 @@
 				]
 		      },
 		      {
-		        "name": "Lotus Sutra",
+		        "name": "Illustrated Miracles of Kannon",
 		        "imageURL": "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png",
 		        "id": "22", 
 		         "location":"img/maps/Japan.jpg",
@@ -601,7 +602,7 @@
 				]
 		      },
 		      {
-		        "name": "Seated Bodhisattva ",
+		        "name": "Avalokiteshvara",
 		        "imageURL": "img/Theme3/23. Seated Bodhisattva L2005.9.4HAR68406 copy copy.png",
 		        "id": "23", 
 		         "location":"img/maps/India.jpg",
@@ -625,8 +626,8 @@
 				] 
 		      },
 		      {
-		        "name": "Avalokiteshvara of the Six-Syllable Mantra ",
-		        "imageURL": "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg",
+		        "name": "All-seeing Lord with Four Arms",
+		        "imageURL": "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.png",
 		        "id": "24",
 		         "location":"img/maps/Tibet.jpg", 
 		        "caption":"The All-seeing Lord with Four Arms, Avalokiteshvara Chaturbhuja, Tibet, 14th - 15th century; pigments on cloth; 22 1/4 x 18 1/2 in.; The Rubin Museum of Art, New York, C2002.8.1.", 
@@ -650,7 +651,7 @@
 		      },
 		      {
 		        "name": "Avalokiteshvara Mandala",
-		        "imageURL": "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg",
+		        "imageURL": "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.png",
 		        "id": "25", 
 		         "location":"img/maps/India.jpg",
 		        "caption":"Avalokiteshvara Mandala, unknown Tibetan artist, Dharamsala, India, September 1991; painting on cloth; image: 22 3/4 x 22 3/4 in. framed: 29 3/4 x 29 1/2 in.; Jacques Marchais Museum of Tibetan Art, 92.11.1025.", 
@@ -705,8 +706,8 @@
 				] 
 		      },
 		      {
-		        "name": "Mother of Pearl Prayer Beads",
-		        "imageURL": "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg",
+		        "name": "Prayer Beads",
+		        "imageURL": "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.png",
 		        "id": "27", 
 		        "location":"img/maps/Tibet.jpg",
 		        "caption":"Mother of Pearl Prayer Beads, Tibet, early 19th century; mother of pearl, coral, ivory, silver alloy, copper alloy; 21 3/4 x 2 1/8 x 1/2 in.; The Rubin Museum of Art, New York, Gift of Anne Breckenridge Dorsey, C2012.49.", 
@@ -739,165 +740,458 @@
 		  },
 		  [
 		    {
-		      "name": "Amitabha Buddha",
-		      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.png",
-		      "id": "1"
+		      "term": "Amida (J): ",
+		      "definition": "Japanese name for Amitabha. Focus of worship in East Asian Pure Land Buddhism."
 		    },
 		    {
-		      "name": "Khasarpana Lokeshvara",
-		      "imageURL": "img/Theme1/2. Khasarpana Lokeshvara 1979.040 copy copy.png",
-		      "id": "2"
+		      "term": "Amitabha (S): ",
+		      "definition": "Buddha of Infinite Light, from whom Avalokiteshvara emanates."
 		    },
 		    {
-		      "name": "Padmapani",
-		      "imageURL": "img/Theme1/3. Padmapani 1979.047 copy copy.png",
-		      "id": "3"
+		      "term": "Amitayus (S): ",
+		      "definition": "Buddha of Infinite Life.  Sambhogakaya form of Amitabha."
 		    },
 		    {
-		      "name": "Avalokiteshvara",
-		      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
-		      "id": "4"
+		      "term": "Amituo (C): ",
+		      "definition": "Chinese name for Amitabha. Focus of worship in East Asian Pure Land Buddhism."
 		    },
 		    {
-		      "name": "Shadakshari",
-		      "imageURL": "img/Theme1/5. Shadakshari 85.04.0682 copy copy.png",
-		      "id": "5"
+		      "term": "Amrita (S): ",
+		      "definition": "elixir of immortality."
 		    },
 		    {
-		      "name": "The All-Seeing Lord Avalokiteshvara",
-		      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.png",
-		      "id": "6"
+		      "term": "Anjali mudra (S): ",
+		      "definition": "gesture of prayer, respect or salutation.  Formed with palms pressed together at the heart."
 		    },
 		    {
-		      "name": "Bodhisattva Avalokiteshvara (Guanyin)",
-		      "imageURL": "img/Theme1/7. Bodhisattva Avalokiteshvara (Guanyin) 33.91 cropped copy copy.png",
-		      "id": "7"
+		      "term": "Avalokiteshvara (S): ",
+		      "definition": "Lord Who Looks Down. Mahayana Buddhist bodhisattva of compassion. Known as Guanyin in China, Kannon in Japan, Karunamaya in Nepal, and Chenrezig in Tibet."
 		    },
 		    {
-		      "name": "Baiyi Guanyin",
-		      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
-		      "id": "8"
+		      "term": "Avatamsaka Sutra (S): ",
+		      "definition": "known in English as the Flower Garland Sutra. One of the most influential sutras in East Asian Mahayana Buddhism. Last chapter recounts the story of the young pilgrim Sudhana and his encounter with Avalokiteshvara on Potalaka."
 		    },
 		    {
-		      "name": "Kannon",
-		      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
-		      "id": "9"
+		      "term": "Bato Kannon (J): ",
+		      "definition": "Hayagriva in Sanskrit. Japanese wrathful horse-headed form of Avalokiteshvara."
 		    },
 		    {
-		      "name": "White-robed Kannon Loeb",
-		      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
-		      "id": "10"
+		      "term": "Bhaishajyaguru (S): ",
+		      "definition": "Medicine Buddha, associated with healing."
 		    },
 		    {
-		      "name": "Songzi Guanyin",
-		      "imageURL": "img/Theme1/11. Songzi Guanyin 51.15 copy copy.png",
-		      "id": "11"
+		      "term": "Bishamon (J): ",
+		      "definition": "armor-clad protector of the dharma. "
 		    },
 		    {
-		      "name": "Descent of Eleven Headed Kannon",
-		      "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
-		      "id": "12"
+		      "term": "Bhrikuti (S): ",
+		      "definition": "female attendant to Avalokiteshvara, associated with wisdom."
 		    },
 		    {
-		      "name": "Phagpa Lokeshvara",
-		      "imageURL": "img/Theme2/14. Phagpa Lokeshvara 73.130 copy copy.png",
-		      "id": "13"
+		      "term": "Bodhisattva (S): ",
+		      "definition": "Mahayana Buddhist adherent who wishes to achieve enlightenment for the sake of all sentient beings. Great bodhisattvas like Avalokiteshvara have already achieved a high degree—if not complete—awakening."
 		    },
 		    {
-		      "name": "Ekadashamukha",
-		      "imageURL": "img/Theme2/15. Ekadashamukha 85.04.0160 copy copy.png",
-		      "id": "14"
+		      "term": "Brahmanism (S): ",
+		      "definition": "polytheistic Indian religion based on ancient Vedic scriptures. Hinduism grew out of Brahmanism."
 		    },
 		    {
-		      "name": "Kannon",
-		      "imageURL": "img/Theme2/16. Kannon 2014.20.1.jpg",
-		      "id": "15"
+		      "term": "Buddha (S): ",
+		      "definition": "Awakened One. Often used to refer to the “historical Buddha,” Siddhartha Gautama, an Indian prince, probably born sometime in the 5th century. He achieved enlightenment and became known as Shakyamuni. In Mahayana Buddhism, Shakyamuni is but one of many past, present and future buddhas."
 		    },
 		    {
-		      "name": "Map of the Mount Putuo Area",
-		      "imageURL": "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg",
-		      "id": "16"
+		      "term": "Buddhism (S):",
+		      "definition": "religion based on the teachings of Shakyamuni Buddha. Its aim is to free beings from suffering and to lead them to awakening. In the Mahayana vehicle, numerous celestial buddhas and bodhisattvas assist in this goal."
 		    },
 		    {
-		      "name": "Nachi Pilgrimage Mandala",
-		      "imageURL": "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg",
-		      "id": "17"
+		      "term": "Cave of Tidal Sound: ",
+		      "definition": "cave on the southeast shore of Mount Putuo island in China. Pilgrims have had many visions of Guanyin at this site."
 		    },
 		    {
-		      "name": "Saigoku Pilgrimage Scroll",
-		      "imageURL": "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg",
-		      "id": "18"
+		      "term": "Celestial Buddha: ",
+		      "definition": "fully enlightened being who plays an important role in the Mahayana Buddhist universe and presides over a Pure Land. "
 		    },
 		    {
-		      "name": "Prajnaparamita Sutra",
-		      "imageURL": "img/Theme3/20. Prajnaparamita Sutra 1987.001 copy copy.png",
-		      "id": "19"
+		      "term": "Chan Buddhism (C): ",
+		      "definition": "Buddhist school that emphasizes meditation, one-on-one encounters with teachers, and in some subsects, the study of koan (a paradoxical statement or question) and the belief in sudden, spontaneous awakening. Known as Zen Buddhism in Japan."
 		    },
 		    {
-		      "name": "Heart Sutra",
-		      "imageURL": "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png",
-		      "id": "20"
+		      "term": "Chenrezig (T): ",
+		      "definition": "One Who Continually Looks Upon All Beings With The Eye Of Compassion. Tibetan name for Avalokiteshvara. Chenrezig is thought to be the creator and protector of the Tibetan people. "
 		    },
 		    {
-		      "name": "Lotus Sutra",
-		      "imageURL": "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png",
-		      "id": "21"
+		      "term": "Dalai Lama (T): ",
+		      "definition": "title of the spiritual leaders of Tibet since the 17th century. Each reincarnated holder of this title is considered one of Chenrezig’s emanations."
 		    },
 		    {
-		      "name": "Seated Bodhisattva ",
-		      "imageURL": "img/Theme3/23. Seated Bodhisattva L2005.9.4HAR68406 copy copy.png",
-		      "id": "22"
+		      "term": "Dharma (S): ",
+		      "definition": "Buddhist law; teachings of the Buddha."
 		    },
 		    {
-		      "name": "Avalokiteshvara of the Six-Syllable Mantra ",
-		      "imageURL": "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg",
-		      "id": "23"
+		      "term": "Dharma wheel: ",
+		      "definition": "dharmachakra in Sanskrit. Symbol representing the Buddha's teachings."
 		    },
 		    {
-		      "name": "Avalokiteshvara Mandala",
-		      "imageURL": "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg",
-		      "id": "24"
+		      "term": "Egaku (J): ",
+		      "definition": "legendary Japanese monk who played a role in the founding of Mount Putuo as a pilgrimage site sacred to Avalokiteshvara."
 		    },
 		    {
-		      "name": "Prayer Wheel",
-		      "imageURL": "img/Theme3/26. Prayer Wheel 82.82 copy copy.png",
-		      "id": "25"
+		      "term": "Eleven-headed Avalokiteshvara: ",
+		      "definition": "Ekadashamukha in Sanskrit; Juichimen in Japanese. Common esoteric form of the bodhisattva."
 		    },
 		    {
-		      "name": "Mother of Pearl Prayer Beads",
-		      "imageURL": "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg",
-		      "id": "26"
+		      "term": "Esoteric Buddhism: ",
+		      "definition": "often called Vajrayana. Buddhist vehicle that employs complex practices based on tantric texts. Esoteric deities often have multiple limbs and heads to signify increased powers and abilities."
+		    },
+		    {
+		      "term": "Five Wisdom Buddhas: ",
+		      "definition": "group of buddhas who head their respective families in an all-encompassing esoteric system. Amitabha is one of the Five Wisdom Buddhas, and Avalokiteshvara is a member of his retinue."
+		    },
+		    {
+		      "term": "Fudarakusan (J): ",
+		      "definition": "Japanese localization of the Indian Potalaka, Avalokiteshvara’s sacred island. There are several Fudarakusan sites in Japan, including Mount Myoho at Nachi."
+		    },
+		    {
+		      "term": "Fudarakudokai (J): ",
+		      "definition": "Crossing The Sea To Fudarakusan. Religious suicide ritual once performed at Nachi, sending a willing devotee on a one-way journey to Kannon’s imagined paradise Fudarakusan."
+		    },
+		    {
+		      "term": "Fudo Myoo (J): ",
+		      "definition": "wrathful yet beneficial deity in Japanese esoteric Buddhism. "
+		    },
+		    {
+		      "term": "Gokuraku (J): ",
+		      "definition": "Japanese term for Sukhavati, Amida’s Pure Land."
+		    },
+		    {
+		      "term": "Guanyin (C): ",
+		      "definition": "Chinese name for Avalokiteshvara. A shortened form of Guanshiyin, which translates as Lord Who Perceives The Sounds Of The World. Often manifests as a female bodhisattva."
+		    },
+		    {
+		      "term": "Gyalug (T): ",
+		      "definition": "term for a Tibetan painting style inspired by Chinese art."
+		    },
+		    {
+		      "term": "Hayagriva (S): ",
+		      "definition": " “horse-neck” wrathful form of Avalokiteshvara who is thought to cure diseases. Known as Bato Kannon in Japan"
+		    },
+		    {
+		      "term": "Heart Sutra",
+		      "definition": ": “heart” or essence of the lengthy Prajnaparamita Sutra. Fundamental Mahayana Buddhist teaching delivered by Avalokiteshvara."
+		    },
+		    {
+		      "term": "Heike Monogatari (J): ",
+		      "definition": "one of the great epics of Japanese medieval literature."
+		    },
+		    {
+		      "term": "Jizo (J): ",
+		      "definition": "savior bodhisattva who ministers to those in hell and escorts dying devotees to Amida’s Pure Land."
+		    },
+		    {
+		      "term": "Jokhang Temple (T): ",
+		      "definition": "most important Buddhist temple in Tibet, located in Lhasa.  Houses a legendary statue of the Eleven-headed Avalokiteshvara, a focus of veneration."
+		    },
+		    {
+		      "term": "Juichimen Kannon (J): ",
+		      "definition": "Eleven-headed Avalokiteshvara."
+		    },
+		    {
+		      "term": "Kami (J): ",
+		      "definition": "local gods who play a part in indigenous Japanese nature worship."
+		    },
+		    {
+		      "term": "Kannon (J): ",
+		      "definition": "Japanese name for Avalokiteshvara. A shortened form of Kanzeon, which translates as Lord Who Perceives The Sounds Of The World. Often manifests as a female bodhisattva"
+		    },
+		    {
+		      "term": "Karma (S): ",
+		      "definition": "action. A person’s accumulated karma determines rebirth in a specific realm of samsara."
+		    },
+		    {
+		      "term": "Karunamaya (S): ",
+		      "definition": "Nepalese name for Avalokiteshvara. Karuna is the Sanskrit word for compassion."
+		    },
+		    {
+		      "term": "Khasarpana (S): ",
+		      "definition": "Sky-gliding. Khasarpana Lokeshvara is an esoteric form of Avalokiteshvara, popular during the Pala period (8th-12th century) in India."
+		    },
+		    {
+		      "term": "Kukai (J): ",
+		      "definition": "monk and a proponent of esoteric Buddhism in Japan. He lived from 774-835."
+		    },
+		    {
+		      "term": "Kumano (J): ",
+		      "definition": "region in the southern part of Kii Peninsula. Kumano beliefs pay homage to local gods who are enshrined at Nachi.   "
+		    },
+		    {
+		      "term": "Literati art: ",
+		      "definition": "paintings by artists outside of the official Chinese court. The literati painters generally worked in ink wash painting and focused on expressive brushstrokes."
+		    },
+		    {
+		      "term": "Lokeshvara (S): ",
+		      "definition": "Lord Of The World. Common epithet of Avalokiteshvara."
+		    },
+		    {
+		      "term": "Longnu (C): ",
+		      "definition": "Dragon Daughter. According to a traditional Chinese folk tale, she is Dragon King’s child and has decided to become Guanyin’s disciple after the bodhisattva saved her brother."
+		    },
+		    {
+		      "term": "Lotus Sutra: ",
+		      "definition": "early and influential Mahayana Buddhist scripture. Includes a chapter entirely dedicated to Avalokiteshvara, in which he takes thirty-three different forms in order to alleviate the suffering of all beings through his endless compassion. "
+		    },
+		    {
+		      "term": "Mahayana Buddhism (S): ",
+		      "definition": "Great Vehicle. Appearing early in the first millennium, this vehicle evolved—and also departed—from the earliest Buddhist schools.  Its philosophy and practices place special emphasis on bodhisattvas and their mission. It also includes a vast number of celestial buddhas who preside over innumerable Pure Lands."
+		    },
+		    {
+		      "term": "Mala (S): ",
+		      "definition": "prayer beads that assist practitioners in reciting prayers or mantras."
+		    },
+		    {
+		      "term": "Mandala (S): ",
+		      "definition": "a geometric cosmological diagram used in rituals and meditation. The most common type represents a deity in his or her palace."
+		    },
+		    {
+		      "term": "Mandorla: ",
+		      "definition": "full body halo."
+		    },
+		    {
+		      "term": "Mani mantra (S): ",
+		      "definition": "mantra associated with Avalokiteshvara that consists of six Sanskrit syllables, om mani padme hum."
+		    },
+		    {
+		      "term": "Mani stone (S): ",
+		      "definition": "rock inscribed with the mani mantra, thought to sanctify the area where it is located."
+		    },
+		    {
+		      "term": "Mantra (S): ",
+		      "definition": "sacred utterance used in Buddhist practice"
+		    },
+		    {
+		      "term": "Ming dynasty (C): ",
+		      "definition": "ruling dynasty from 1368 to 1644."
+		    },
+		    {
+		      "term": "Mount Myoho (J): ",
+		      "definition": "mountain at Nachi that represents Potalaka."
+		    },
+		    {
+		      "term": "Mount Putuo (C): ",
+		      "definition": "hilly island in the South China Sea near Ningbo that represents Potalaka."
+		    },
+		    {
+		      "term": "Mudra (S): ",
+		      "definition": "gesture, usually made with the hands or fingers, which symbolizes an exalted quality."
+		    },
+		    {
+		      "term": "Nachi (J): ",
+		      "definition": "pilgrimage site sacred to both Kannon and indigenous deities. It is the first station on the Saigoku Pilgrimage circuit."
+		    },
+		    {
+		      "term": "Northern Song Dynasty (C): ",
+		      "definition": "a dynasty from 960 to 1127."
+		    },
+		    {
+		      "term": "Nyoirin Kannon (J): ",
+		      "definition": "esoteric form of Avalokiteshvara widely worshipped throughout Japan. Nyoi refers to the wish-fulfulling jewel; rin means dharma wheel. "
+		    },
+		    {
+		      "term": "Nyoirindo (J): ",
+		      "definition": "building that originally housed the principal icon of Nyoirin Kannon at Nachi."
+		    },
+		    {
+		      "term": "Ofuda (J): ",
+		      "definition": "amulet or stamp issued by a temple or shrine, printed with an icon from the site."
+		    },
+		    {
+		      "term": "Om mani padme hum (S): ",
+		      "definition": "six-syllable mantra associated with Shadakshari Lokeshvara. Mani means jewel and padme refers to lotus, both attributes of Avalokiteshvara."
+		    },
+		    {
+		      "term": "Padma (S): ",
+		      "definition": "lotus. One of Avalokiteshvara’s primary attributes."
+		    },
+		    {
+		      "term": "Padmapani (S): ",
+		      "definition": "Bearer of the Lotus. One of Avalokiteshvara’s most common early forms."
+		    },
+		    {
+		      "term": "Padmasana (S): ",
+		      "definition": "yogic cross-legged position associated with meditative concentration."
+		    },
+		    {
+		      "term": "Parinirvana (S): ",
+		      "definition": "death and final liberation of one who has achieved complete awakening."
+		    },
+		    {
+		      "term": "Phagpa Lokeshvara (T; S): ",
+		      "definition": "Noble Lord of the World. Venerated icon in the Potala Palace. Many replicas of this statue were made."
+		    },
+		    {
+		      "term": "Potala Palace (S): ",
+		      "definition": "residence of early Tibetan king Songtsen Gampo and the Dalai Lamas. The name refers to Avalokiteshvara’s sacred island."
+		    },
+		    {
+		      "term": "Potalaka (S): ",
+		      "definition": "legendary mountain island where Avalokiteshvara dwells."
+		    },
+		    {
+		      "term": "Prajnaparamita Sutra (S): ",
+		      "definition": "Perfection of Wisdom Sutra. One of the earliest and most important compilations of scriptures in Mahayana Buddhism. Contains the Heart Sutra."
+		    },
+		    {
+		      "term": "Pure Land: ",
+		      "definition": "realm prepared and purified by a buddha such as Amitabha, where his followers can quickly progress toward enlightenment. "
+		    },
+		    {
+		      "term": "Pure Land Buddhism: ",
+		      "definition": "tradition of Amitabha worship in which devotees aim to ascend to his Pure Land."
+		    },
+		    {
+		      "term": "Qing dynasty (C): ",
+		      "definition": "ruling dynasty from 1644 to 1911."
+		    },
+		    {
+		      "term": "Raigo (J): ",
+		      "definition": "Pure Land tradition of Welcoming Descent, in which Amida and his bodhisattva entourage come down from Gokuraku to greet dying devotees."
+		    },
+		    {
+		      "term": "Rakta Yamari (S): ",
+		      "definition": "tantric Buddhist wrathful deity, known as the Red Enemy of Death. He protects his followers from harm"
+		    },
+		    {
+		      "term": "Royal Ease: ",
+		      "definition": "seated position in which one arm is poised on a raised knee while the other leg is either horizontal or pendant. Common posture for bodhisattvas."
+		    },
+		    {
+		      "term": "Saigoku Pilgrimage (J): ",
+		      "definition": "one of the most popular circuits in Japan. It is dedicated to Kannon and consists of thirty-three sites in the Western Provinces."
+		    },
+		    {
+		      "term": "Sambhogakaya (S): ",
+		      "definition": "realm occupied by celestial buddhas and advanced bodhisattvas."
+		    },
+		    {
+		      "term": "Samsara (S): ",
+		      "definition": "continuous cycle of birth, life and death that sentient beings endure until achieving enlightenment. Buddhist texts describe six realms that constitute samsara: god, demigod, human, animal, hungry ghost, and hell."
+		    },
+		    {
+		      "term": "Sanskrit: ",
+		      "definition": "scholarly language of ancient and medieval Indian scriptures"
+		    },
+		    {
+		      "term": "Seigantoji (J): ",
+		      "definition": "temple at Nachi where the principal icon of Nyoirin Kannon is currently housed."
+		    },
+		    {
+		      "term": "Seishi (J): ",
+		      "definition": "bodhisattva who—along with Kannon—usually flanks Amida in Pure Land triads."
+		    },
+		    {
+		      "term": "Shadakshari Lokeshvara (S): ",
+		      "definition": "Lord Of The Six Syllables. This form of Avalokiteshvara is visualized when repeating the mani mantra"
+		    },
+		    {
+		      "term": "Shakyamuni (S): ",
+		      "definition": "Sage of the Shakyas. Name that Siddhartha Gautama acquired once he achieved enlightenment and became a buddha."
+		    },
+		    {
+		      "term": "Shancai (C): ",
+		      "definition": "Sudhana in Sanskrit. Boy pilgrim from the Avatamsaka Sutra."
+		    },
+		    {
+		      "term": "Shinto (J): ",
+		      "definition": "refers to the veneration of kami, the local gods in Japan. "
+		    },
+		    {
+		      "term": "Songtsen Gampo (T): ",
+		      "definition": "first Tibetan king to patronize Buddhism. Believed to be an emanation of Avalokiteshvara."
+		    },
+		    {
+		      "term": "Songzi Guanyin (C): ",
+		      "definition": "feminine form of Avalokiteshvara who bestows children on supplicants."
+		    },
+		    {
+		      "term": "Suchimukha (S): ",
+		      "definition": "hungry ghost who is fed nectar from Khasarpana Lokeshvara’s hand. His name means “needle-necked” or “needle-face.”"
+		    },
+		    {
+		      "term": "Sudhana (S): ",
+		      "definition": "youth seeking enlightenment in the Avatamsaka Sutra. Also called Sudhanakumara. Known as Shancai or Shancaitongzi in Chinese."
+		    },
+		    {
+		      "term": "Sukhavati (S): ",
+		      "definition": "Realm of Bliss. Amitabha’s Pure Land."
+		    },
+		    {
+		      "term": "Sumidera (J): ",
+		      "definition": "temple located in the northeast corner (J: sumi) of ancient Nara.  The temple’s location gives the Sumidera Heart Sutra its name.  "
+		    },
+		    {
+		      "term": "Sutra (S): ",
+		      "definition": "Indian scriptures. Buddhist sutras contain Shakyamuni’s teachings."
+		    },
+		    {
+		      "term": "Tang dynasty (C): ",
+		      "definition": "ruling dynasty from 618 to 907"
+		    },
+		    {
+		      "term": "Tantra (S): ",
+		      "definition": "teachings and practices found in esoteric texts that began to appear in India around the 7th century."
+		    },
+		    {
+		      "term": "Tantric Buddhism: ",
+		      "definition": "Mahayana Buddhist vehicle that employs visualizations, mandalas, mantras, yogic postures, mudras, and techniques for utilizing the body’s subtle energies."
+		    },
+		    {
+		      "term": "Tara (S): ",
+		      "definition": "goddess considered an emanation of Avalokiteshvara and thus a powerful embodiment of compassion. Although often depicted as the bodhisattva’s attendant, she is also worshipped as an independent deity."
+		    },
+		    {
+		      "term": "Thangka (T): ",
+		      "definition": "Tibetan religious painting on cloth employed to help visualize a deity during meditation, memorialize a deceased loved one, or heal sickness. Creating or commissioning a thangka also helps to accumulate merit for both the artist and the patron."
+		    },
+		    {
+		      "term": "Thousand-armed Avalokiteshvara: ",
+		      "definition": "Sahasrabhujalokeshvara in Sanskrit. Common esoteric form of the bodhisattva."
+		    },
+		    {
+		      "term": "Tridanda (S): ",
+		      "definition": "triple rod or three-pronged stick associated with ascetics."
+		    },
+		    {
+		      "term": "Vajra Vetali (S): ",
+		      "definition": "fierce female protector, the consort of Rakta Yamari. "
+		    },
+		    {
+		      "term": "Vajrayana (S): ",
+		      "definition": "Diamond or Adamantine vehicle. Branch of Mahayana Buddhism characterized by tantric practices."
+		    },
+		    {
+		      "term": "Varada mudra (S): ",
+		      "definition": "gift-giving gesture that bestows compassion. Performed with the hand extended downward and palm facing out."
+		    },
+		    {
+		      "term": "Vitarka mudra (S): ",
+		      "definition": "gesture that indicates the teaching or discussion of the dharma.  Made with hand raised and index finger touching the thumb, forming a circle that symbolizes a dharma wheel."
+		    },
+		    {
+		      "term": "Water-moon Kannon: ",
+		      "definition": "derived from an indigenous Chinese form, this manifestation of the Japanese Avalokiteshvara sits a relaxed posture, often in a rocky setting suggesting Potalaka. A large full-moon nimbus envelops the bodhisattva."
+		    },
+		    {
+		      "term": "White-robed Guanyin: ",
+		      "definition": "indigenous Chinese form of Avalokiteshvara. Derived from the Water-moon form, but this manifestation is dressed in a more austere white garment. Favorite subject of Chan/Zen artists. "
+		    },
+		    {
+		      "term": "Wish-fulfilling jewel: ",
+		      "definition": "chintamani in Sanskrit. One of Avalokiteshvara’s characteristic attributes, symbolizing the ability to fulfill all wishes"
+		    },
+		   {
+		      "term": "Zen Buddhism (J): ",
+		      "definition": "Japanese Buddhist school that emphasizes meditation, one-on-one encounters with teachers, and in some subsects, the study of koan (a paradoxical statement or question) and the belief in sudden, spontaneous awakening. Evolved from Chinese Chan Buddhism."
 		    }
-		  ],
-		  [
-		    {
-		      "term": "term A",
-		      "definition": "some definition"
-		    },
-		    {
-		      "term": "term B",
-		      "definition": "some definition"
-		    },
-		    {
-		      "term": "term C",
-		      "definition": "some definition"
-		    },
-		    {
-		      "term": "term D",
-		      "definition": "some definition"
-		    },
-		    {
-		      "term": "term E",
-		      "definition": "some definition"
-		    },
-		    {
-		      "term": "term F",
-		      "definition": "some definition"
-		    },
-		    {
-		      "term": "term G",
-		      "definition": "some definition"
-		    }
+		   
 		  ],
 		  {
 		    "credits": "This app is a cross-institutional collaboration, designed and developed by Clive Mudanda, Anthony Olawo, and Gary Sheng, members of CompSci 408, Duke University, with content created by Karen Lucic and her students in Art 386, Vassar College: Megna Da '15, Clair Fey '16, Emma Jaobs '15, Lili Kaar '16, Liqiao Li '16, Benno Orlinsky '15, Jiajing Sun '15, And Catherine Zhou '15. We express thanks to those who have supported this project. At Duke University: Salman Azhar; Robert Duvall. At Vassar College: Liliana Aguis; Janet Allison; Francine Brown; Jon Chenette; Bryce Daniel '17; Judith Dollenmayer; Gary Hohenberger; Rick Jarow; Sarah Kozloff; Mary-Kay Lombino; George Laws; Members of the Art Department; Grace Mooney '15; Molly Nesbit; Katherine Neville '14; Elizabeth Nogrady '99; Kristine Olson '11; Justin Patch; H. Daniel Peck; Patricia Phagan; Joann Potter; Research Committee; Daniel Selby '13; Anne Silk '12; Samuel Speers; Margaret Vetare; Michael Walsh.  Thanks also to: Helen Abbott; Alison Baldassano; Stephanie Barnes; Kurt Behrendt; Michelle Bennett; Marcus Bingenheimer; John Carpenter; Qing Chang; Tenzing Chonyi; PC Chun; Francesca Consagra; Karl Debreczeny; Lauran R. Hartley; Andrea Hagy; Mary Beth Heston; Leise Hook; Jean-Luc Howell; David Kaczynski; Patricia Karetzky; Laurel Kendall; Zoe Kwok; Denise Leidy; Cary Liu; Kristen Mable; Clare McGowan; Linda Patrik; Katherine Paul; Adriana Proser; Karen St. Pierre; Joseph Scheier-Dolberg; Michael Sheeshy; Katherine Skaggs; Susan Thompson; Ganden Thurman; Meg Ventrudo; Sinead Vilbar; Chengzhi Wang; Hwai-ling Yeh-Lewis; Chun-fang Yu; Keiichi Yumen. SPecial thanks to: Baynard Bailey; Bettina Chew; Sherry Fowler; Karen Hwang; Lama Karma Drodhul; Ven. Kenpo Karthar rinpoche; Amy Laughlin; Richard Lucic; James Mundy; Andrew Watsky; Douglas Winbald. Generous supprt for Embodying Compassion in Buddhist Art and its digital components is provided by: E.Rhodes and Leona B. Carpenter Foundation; ASIANetwork Luce Asian Arts Program; John Stuart Gordon Vassar '00; Elizabeth Kay and Raymond Bal; Ann Kinney '53, and Gilbert Kinney. At Vassar College: Agnes Rindge Claflin Fund; Emily Floyd Fund Endownment; Ford Scholars Program; Carolyn Grant Endowment; Office of Religious and Spiritual Life; Salmon Fund Endowment. "

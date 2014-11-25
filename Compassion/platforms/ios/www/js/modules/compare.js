@@ -18,11 +18,20 @@ angular.module('starter')
 	$scope.toggleCaptionVisibility = function() {
 		$scope.captionVisible = !$scope.captionVisible;
 	}
-    
-    $http.get('js/modules/data.json').success(function(data){
-        $scope.comparativeImages = data[0].artifacts[$stateParams.artifactId -1].comparativeImages;
-        $scope.comparativeText = data[0].artifacts[$stateParams.artifactId -1].comparativeImages[0].text;
-        console.log($stateParams);
+	
+	
+    $scope.artifacts = [];
+    $http.get('js/modules/data.json').success(function(data){  	
+      		for(var i =0; i<3; i++){
+      			for(var j = 0; j<data[i].artifacts.length; j++){
+      				$scope.artifacts[$scope.artifacts.length] = angular.fromJson(data[i].artifacts[j]);
+      		}
+      	}
+      	
+      	
+        $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId -1].comparativeImages;
+        $scope.originalImage = $scope.artifact[$stateParams.artifactId -1];   
+        console.log($scope.originalImage);       
     });
 
 });

@@ -1,1 +1,40 @@
-Current Functionality:
+Functionality overview
+The app launches at its title view. It’ll then transition to a loading view prompting the user to enter. Upon entry, the user will decide to either enter the explore view or search for a particular artifact’s view.  
+
+Explore View
+From this view, the user can access any of three theme views that mirror the actual exhibit’s themes. 
+
+Theme View 
+This view contains a grid of titled thumbnails, each linking to an artifact view. Tapping on a particular artifact will bring up its artifact view. 
+
+Artifact View 
+Each artifact view is uniquely identifiable by a number and QR code linking it to the actual exhibit artifact. Each artifact view also contains a bucket of rich multimedia context in the form of concise captions, narrated explanations, and visuals (either high resolution stills or video) showing you a particular artifact in detail. It has:
+- an audio guide enunciating an artifact’s title.
+- a concise and contextually informative caption.
+- a multimedia section containing videos and audio clips (e.g. short films related to pilgrimage sites and rituals, recordings of music, and chanting) related to the artifact.
+- a zoomable full screen image view that’ll fill the screen when you tap on the image. 
+- where it applies, an artifact view should have a gallery of comparative images. See Comparative Images View.
+- a map locating the artifact’s geographical origin. 
+
+The app will also have sidebar navigation that’s accessible from every view on the app. 
+
+
+Comparative Images View
+This is a full screen view. It shows images from different cultural contexts to be compared to the original artifact. Each image has an overlayed caption. The user can see the next or previous image in this comparative images gallery by swiping left or right.
+
+
+Sidebar Navigation
+As the primary navigation tool, the sidebar allows the user to jump to the about view, the explore view, slide show view, and terms view. It also allows the user to search for an artifact by number or name.
+
+About View
+This view contains the text explaining the purpose of the exhibition and app.
+
+Credits view 
+This view notes all who’ve contributed towards making this app a success. 
+
+Slide Show View 
+The slide show view offers the user a chance to experience the exhibit’s artifacts outside of its thematic organisation by presenting a randomized slide show of artifact views from each of the three themes. 
+
+Search Results View
+This view is accessible by tapping the ‘search by artifact’ button on the loading screen or the side navigation bar. It will give the user an option of either typing out the title of the artifact or scanning the physical artifact’s QR code to find it. Upon successfully executing the search, this view will show titled thumbnails of artifact views that match the search query entered.
+

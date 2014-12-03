@@ -1,0 +1,3 @@
+Future features: 
+1. QR code artifact search 
+2. 

@@ -1,5 +1,7 @@
-Functionality overview
-The app launches at its title view. It’ll then transition to a loading view prompting the user to enter. Upon entry, the user will decide to either enter the explore view or search for a particular artifact’s view.  
+
+This app has been tested on the Android and iOS platforms. It’s functionality is as follows: 
+
+It launches at its title view. It’ll then transition to a loading view prompting the user to enter. Upon entry, the user will decide to either enter the explore view or search for a particular artifact’s view.  
 
 Explore View
 From this view, the user can access any of three theme views that mirror the actual exhibit’s themes. 

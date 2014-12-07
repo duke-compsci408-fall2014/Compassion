@@ -4,8 +4,9 @@
   </ion-nav-buttons>
   <ion-content class="about-page">
 	<div class="row banner-image"></div>
-
-	<p class="about-text">{{about.about}} </p>
+	<div ng-repeat="paragraph in about">
+		<p class="about-text">{{paragraph.paragraph}} </p>
+	</div>
   </ion-content>  
 
 </ion-view>

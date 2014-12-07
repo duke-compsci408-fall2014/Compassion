@@ -14,9 +14,11 @@ angular.module('starter')
   })
 
 .controller('creditsCtrl', function($scope, $http) {
-       $http.get("js/modules/data.json").success(function(data){
-         $scope.credits = data[5]; 
-           console.log($scope.credits); 
+       $http.get("js/modules/data/credits.json").success(function(data){
+         $scope.credits = [];
+         for(i = 0; i<data.length; i++){
+          $scope.credits[i] = data[i]; 
+         } 
       })
   
 });

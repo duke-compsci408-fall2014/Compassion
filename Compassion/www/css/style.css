@@ -564,12 +564,15 @@ ion-side-menu ion-content {
 
 
 .details .compare-section .compare-image{
-	width: 30%;
-	height: 40%;
+	width: 40%;
+	height: 50%;
 	background-color: white;
 	float: left;
 	margin-right: 10px;
 	margin-bottom: 10px;
+	background: url();
+    background-size: 50% 100%;
+    background-repeat: no-repeat;
 }
 
 /* compare page */

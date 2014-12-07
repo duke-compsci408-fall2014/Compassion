@@ -13,10 +13,10 @@
     </div>
     <ul class="list">
       <li class="item item-dark" ng-repeat="term in terms | filter:search">
-        {{term.term}}<a href="" ng-click="playSound()" class="pronounce ion-volume-low"></a>
-        <p>
+        {{term.term}}
+        <pre style="color:white !important; font-size: .8em;">
           {{term.definition}}
-        </p>
+        </pre>
       </li>
     </ul>
   </ion-content>

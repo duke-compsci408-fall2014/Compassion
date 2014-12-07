@@ -20,10 +20,10 @@
 		            "text": "Pure Land Buddhism is especially prevalent in East Asia. In addition to the common depiction of Amitabha in his Pure Land is the theme of the Welcoming Descent, as seen in this Japanese painting.  Representing a foundational belief of Pure Land Buddhism, this iconography—known as Raigo in Japanese—shows the Buddha and a host of bodhisattvas descending to the deathbed of the faithful to escort them personally to Sukhavati. Avalokiteshvara is in the front row of five bodhisattvas, second from the right. He offers a lotus pedestal to the dying devotee. LK"
 		          }
 		        ],
-		        "video": "http://www.youtube.com/v/ITQBkHZXRtg?version=3&enablejsapi=1",
+		        "video": "http://www.youtube.com/embed/ITQBkHZXRtg?start=11&end=23",
 		        "playlist":[
 		      	 {
-		          "url": "//www.youtube.com/embed/ITQBkHZXRtg",
+		          "url": "http://www.youtube.com/embed/ITQBkHZXRtg?enablejsapi=1&",
 		          "start": "0",
 		          "end": "end", 
 		          "caption":""
@@ -47,7 +47,7 @@
 		        ],
 		        "playlist":[
 		         {
-		           "url": "https://www.youtube.com/watch?v=U923-fJ8-eQ",
+		           "url": "https://www.youtube.com/embed/U923-fJ8-eQ?start=4",
 		          "start": "4:51",
 		          "end": "6:24", 
 		          "caption":""
@@ -61,7 +61,7 @@
 		        ]
 		      },
 		      {
-		        "name": "Padmapani",
+		        "name": "Bodhisattva Avalokiteshvara",
 		        "imageURL": "img/Theme1/3. Padmapani 1979.047 copy copy.png",
 		        "id": "3",
 		        "location":"img/maps/Nepal.jpg",
@@ -85,7 +85,7 @@
 				        
 		      },
 		      {
-		        "name": "Avalokiteshvara",
+		        "name": "One of the Eight Great Bodhisattvas",
 		        "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
 		        "id": "4",
 		        "location":"img/maps/Tibet.jpg",
@@ -108,7 +108,7 @@
 				]
 		      },
 		      {
-		        "name": "Shadakshari",
+		        "name": "Four-armed Avalokiteshvara",
 		        "imageURL": "img/Theme1/5. Shadakshari 85.04.0682 copy copy.png",
 		        "id": "5",
 		        "location":"img/maps/China+Tibet.jpg",
@@ -177,7 +177,7 @@
 				]
 		      },
 		      {
-		        "name": "Baiyi Guanyin",
+		        "name": "White-robed Guanyin",
 		        "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
 		        "id": "8", 
 		        "location":"img/maps/China.jpg",
@@ -201,7 +201,7 @@
 		              
 		      },
 		      {
-		        "name": "Kannon",
+		        "name": "White-robed (Pandaravasini) Kannon",
 		        "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
 		        "id": "9",
 		        "location":"img/maps/Japan.jpg",
@@ -224,7 +224,7 @@
 				]
 		         },
 		      {
-		        "name": "White-robed Kannon Loeb",
+		        "name": "White-robed Kannon",
 		        "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
 		        "id": "10",
 		        "location":"img/maps/Japan.jpg",
@@ -270,7 +270,7 @@
 				]
 		      },
 		      {
-		        "name": "Descent of Eleven Headed Kannon",
+		        "name": "Nyoirin Kannon",
 		        "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
 		        "id": "12", 
 		        "location":"img/maps/Japan.jpg",
@@ -293,7 +293,7 @@
 				]						        
 		      },
 		      {
-		      	"name":"Kannon",
+		      	"name":"Descent of Eleven-headed Kannon ",
 		      	"imageURL":"img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
 		      	"id":"13",
 		      	"location":"img/maps/Japan.jpg",
@@ -350,7 +350,7 @@
 				]
 		      },
 		      {
-		        "name": "Ekadashamukha",
+		        "name": "Eleven-headed Avalokiteshvara",
 		        "imageURL": "img/Theme2/15. Ekadashamukha 85.04.0160 copy copy.png",
 		        "id": "15",
 		        "location":"img/maps/China+Tibet.jpg",
@@ -399,7 +399,7 @@
 						
 		      },
 		      {
-		        "name": "Map of the Mount Putuo Area",
+		        "name": "Map of the Mount Putuo",
 		        "imageURL": "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.png",
 		        "id": "17",
 		        "location":"img/maps/China.jpg", 
@@ -516,7 +516,7 @@
 		    "text": "This section presents objects that relate to daily spiritual activities such as spinning prayer wheels, reading, copying or venerating sutras, paying homage to status and paintings, reciting mantras, and engaging in elaborate Vajtayana techniques of visualizing the deity. Both art and practice aim to purify devotees of any impediments blocking their potential for unbiased wisdom and compassion. Although each country represented in this exhibition has different traditions and forms of practice, the common goal is to seek freedom from the sufferings of samsara. The objects included here establish Avalokiteshvara's key role in assisting devotees to attain Mahayana Buddhism's most sacred goals.",
 		    "artifacts": [
 		      {
-		        "name": "Prajnaparamita Sutra",
+		        "name": "Prajnaparamita Manuscript",
 		        "imageURL": "img/Theme3/20. Prajnaparamita Sutra 1987.001 copy copy.png",
 		        "id": "20", 
 		         "location":"img/maps/India.jpg",
@@ -565,7 +565,7 @@
 				]
 		      },
 		      {
-		        "name": "Lotus Sutra",
+		        "name": "Illustrated Miracles of Kannon",
 		        "imageURL": "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png",
 		        "id": "22", 
 		         "location":"img/maps/Japan.jpg",
@@ -602,7 +602,7 @@
 				]
 		      },
 		      {
-		        "name": "Seated Bodhisattva ",
+		        "name": "Avalokiteshvara",
 		        "imageURL": "img/Theme3/23. Seated Bodhisattva L2005.9.4HAR68406 copy copy.png",
 		        "id": "23", 
 		         "location":"img/maps/India.jpg",
@@ -626,7 +626,7 @@
 				] 
 		      },
 		      {
-		        "name": "Avalokiteshvara of the Six-Syllable Mantra ",
+		        "name": "All-seeing Lord with Four Arms",
 		        "imageURL": "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.png",
 		        "id": "24",
 		         "location":"img/maps/Tibet.jpg", 
@@ -706,7 +706,7 @@
 				] 
 		      },
 		      {
-		        "name": "Mother of Pearl Prayer Beads",
+		        "name": "Prayer Beads",
 		        "imageURL": "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.png",
 		        "id": "27", 
 		        "location":"img/maps/Tibet.jpg",
@@ -738,146 +738,162 @@
 		      }
 		    ]
 		  },
-		  [
-		    {
-		      "name": "Amitabha Buddha",
-		      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.png",
-		      "id": "1"
-		    },
-		    {
-		      "name": "Khasarpana Lokeshvara",
-		      "imageURL": "img/Theme1/2. Khasarpana Lokeshvara 1979.040 copy copy.png",
-		      "id": "2"
-		    },
-		    {
-		      "name": "Padmapani",
-		      "imageURL": "img/Theme1/3. Padmapani 1979.047 copy copy.png",
-		      "id": "3"
-		    },
-		    {
-		      "name": "Avalokiteshvara",
-		      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
-		      "id": "4"
-		    },
-		    {
-		      "name": "Shadakshari",
-		      "imageURL": "img/Theme1/5. Shadakshari 85.04.0682 copy copy.png",
-		      "id": "5"
-		    },
-		    {
-		      "name": "The All-Seeing Lord Avalokiteshvara",
-		      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.png",
-		      "id": "6"
-		    },
-		    {
-		      "name": "Bodhisattva Avalokiteshvara (Guanyin)",
-		      "imageURL": "img/Theme1/7. Bodhisattva Avalokiteshvara (Guanyin) 33.91 cropped copy copy.png",
-		      "id": "7"
-		    },
-		    {
-		      "name": "Baiyi Guanyin",
-		      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
-		      "id": "8"
-		    },
-		    {
-		      "name": "Kannon",
-		      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
-		      "id": "9"
-		    },
-		    {
-		      "name": "White-robed Kannon Loeb",
-		      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
-		      "id": "10"
-		    },
-		    {
-		      "name": "Songzi Guanyin",
-		      "imageURL": "img/Theme1/11. Songzi Guanyin 51.15 copy copy.png",
-		      "id": "11"
-		    },
-		    {
-		      "name": "Descent of Eleven Headed Kannon",
-		      "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
-		      "id": "12"
-		    },
-		    {
-		      "name": "Phagpa Lokeshvara",
-		      "imageURL": "img/Theme2/14. Phagpa Lokeshvara 73.130 copy copy.png",
-		      "id": "13"
-		    },
-		    {
-		      "name": "Ekadashamukha",
-		      "imageURL": "img/Theme2/15. Ekadashamukha 85.04.0160 copy copy.png",
-		      "id": "14"
-		    },
-		    {
-		      "name": "Kannon",
-		      "imageURL": "img/Theme2/16. Kannon 2014.20.1.jpg",
-		      "id": "15"
-		    },
-		    {
-		      "name": "Map of the Mount Putuo Area",
-		      "imageURL": "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.jpg",
-		      "id": "16"
-		    },
-		    {
-		      "name": "Nachi Pilgrimage Mandala",
-		      "imageURL": "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.jpg",
-		      "id": "17"
-		    },
-		    {
-		      "name": "Saigoku Pilgrimage Scroll",
-		      "imageURL": "img/Theme2/19. Saigoku Pilgrimage Scroll.jpg",
-		      "id": "18"
-		    },
-		    {
-		      "name": "Prajnaparamita Sutra",
-		      "imageURL": "img/Theme3/20. Prajnaparamita Sutra 1987.001 copy copy.png",
-		      "id": "19"
-		    },
-		    {
-		      "name": "Heart Sutra",
-		      "imageURL": "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png",
-		      "id": "20"
-		    },
-		    {
-		      "name": "Lotus Sutra",
-		      "imageURL": "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png",
-		      "id": "21"
-		    },
-		    {
-		      "name": "Seated Bodhisattva ",
-		      "imageURL": "img/Theme3/23. Seated Bodhisattva L2005.9.4HAR68406 copy copy.png",
-		      "id": "22"
-		    },
-		    {
-		      "name": "Avalokiteshvara of the Six-Syllable Mantra ",
-		      "imageURL": "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.jpg",
-		      "id": "23"
-		    },
-		    {
-		      "name": "Avalokiteshvara Mandala",
-		      "imageURL": "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.jpg",
-		      "id": "24"
-		    },
-		    {
-		      "name": "Prayer Wheel",
-		      "imageURL": "img/Theme3/26. Prayer Wheel 82.82 copy copy.png",
-		      "id": "25"
-		    },
-		    {
-		      "name": "Mother of Pearl Prayer Beads",
-		      "imageURL": "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.jpg",
-		      "id": "26"
-		    }
-		  ],
+		    [
+    {
+      "name": "Amitabha Buddha",
+      "imageURL": "img/Theme1/1. Amitabha Buddha F1997.6.3 cropped.png",
+      "id": "1"
+    },
+    {
+      "name": "Khasarpana Lokeshvara",
+      "imageURL": "img/Theme1/2. Khasarpana Lokeshvara 1979.040 copy copy.png",
+      "id": "2"
+    },
+    {
+      "name": "Padmapani",
+      "imageURL": "img/Theme1/3. Padmapani 1979.047 copy copy.png",
+      "id": "3"
+    },
+    {
+      "name": "Avalokiteshvara",
+      "imageURL": "img/Theme1/4. Avalokiteshvara C2008.9 cropped.png",
+      "id": "4"
+    },
+    {
+      "name": "Shadakshari",
+      "imageURL": "img/Theme1/5. Shadakshari 85.04.0682 copy copy.png",
+      "id": "5"
+    },
+    {
+      "name": "The All-Seeing Lord Avalokiteshvara",
+      "imageURL": "img/Theme1/6. The All-Seeing Lord Avalokiteshvara 1995.28.1 copy.png",
+      "id": "6"
+    },
+    {
+      "name": "Bodhisattva Avalokiteshvara (Guanyin)",
+      "imageURL": "img/Theme1/7. Bodhisattva Avalokiteshvara (Guanyin) 33.91 cropped copy copy.png",
+      "id": "7"
+    },
+    {
+      "name": "Baiyi Guanyin",
+      "imageURL": "img/Theme1/8. Baiyi Guanyin 1982.3.3.png",
+      "id": "8"
+    },
+    {
+      "name": "Kannon",
+      "imageURL": "img/Theme1/9. Kannon y1992-6 cropped.png",
+      "id": "9"
+    },
+    {
+      "name": "White-robed Kannon Loeb",
+      "imageURL": "img/Theme1/10. White-robed Kannon Loeb Cropped.png",
+      "id": "10"
+    },
+    {
+      "name": "Songzi Guanyin",
+      "imageURL": "img/Theme1/11. Songzi Guanyin 51.15 copy copy.png",
+      "id": "11"
+    },
+    {
+      "name": "Descent of Eleven Headed Kannon",
+      "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
+      "id": "12"
+    },
+    
+    {
+      "name":"Phagpa Lokeshvara", 
+      "imageURL" : "img/Theme2/14. Phagpa Lokeshvara 73.130 copy copy.png", 
+      "id":"13"
+    },
+    
+    {
+      "name":"Ekadashamukha", 
+      "imageURL" : "img/Theme2/15. Ekadashamukha 85.04.0160 copy copy.png", 
+      "id":"14"
+    },
+    
+     {
+      "name":"Kannon", 
+      "imageURL" : "img/Theme2/16. Kannon 2014.20.1.png", 
+      "id":"15"
+    },
+    
+     {
+      "name":"Map of the Mount Putuo Area", 
+      "imageURL" : "img/Theme2/17. Map of the Mount Putuo Area 0578 cropped.png", 
+      "id":"16"
+    },
+    
+     {
+      "name":"Nachi Pilgrimage Mandala", 
+      "imageURL" : "img/Theme2/18. Nachi Pilgrimage Mandala 2004.10 cropped.png", 
+      "id":"17"
+    },
+    
+      {
+      "name":"Saigoku Pilgrimage Scroll", 
+      "imageURL" : "img/Theme2/19. Saigoku Pilgrimage Scroll.png", 
+      "id":"18"
+    },
+    
+     {
+      "name":"Prajnaparamita Sutra", 
+      "imageURL" : "img/Theme3/20. Prajnaparamita Sutra 1987.001 copy copy.png", 
+      "id":"19"
+    },
+    
+      {
+      "name":"Heart Sutra", 
+      "imageURL" : "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png", 
+      "id":"20"
+    },
+    
+    {
+      "name":"Lotus Sutra", 
+      "imageURL" : "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png", 
+      "id":"21"
+    },
+    
+    {
+      "name":"Seated Bodhisattva ", 
+      "imageURL" : "img/Theme3/23. Seated Bodhisattva L2005.9.4HAR68406 copy copy.png", 
+      "id":"22"
+    },
+    
+     {
+      "name":"Avalokiteshvara of the Six-Syllable Mantra ", 
+      "imageURL" : "img/Theme3/24. Avalokiteshvara of the Six-Syllable Mantra C2002.8.1  copy.png", 
+      "id":"23"
+    },
+    
+    {
+      "name":"Avalokiteshvara Mandala", 
+      "imageURL" : "img/Theme3/25. Avalokiteshvara Mandala 92.11.1025.png", 
+      "id":"24"
+    },
+    
+    {
+      "name":"Prayer Wheel", 
+      "imageURL" : "img/Theme3/26. Prayer Wheel 82.82 copy copy.png", 
+      "id":"25"
+    },
+    
+     {
+      "name":"Mother of Pearl Prayer Beads", 
+      "imageURL" : "img/Theme3/27. Mother of Pearl Prayer Beads C2012.49 copy.png", 
+      "id":"26"
+    }
+  ],
 		  [
 		    {
 		      "term": "Amida (J): ",
-		      "definition": "Japanese name for Amitabha. Focus of worship in East Asian Pure Land Buddhism."
+		      "definition": "Japanese name for Amitabha. Focus of worship in East Asian Pure Land Buddhism.",
+		      "pronounce": " https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/177527637&amp;auto_play=true&amp"
 		    },
 		    {
 		      "term": "Amitabha (S): ",
-		      "definition": "Buddha of Infinite Light, from whom Avalokiteshvara emanates."
+		      "definition": "Buddha of Infinite Light, from whom Avalokiteshvara emanates.",
+		      "pronounce": "https://drive.google.com/a/vassar.edu/file/d/0BwJsmGvMifkLc2Zland4cHFkeWM/view?usp=sharing"
 		    },
 		    {
 		      "term": "Amitayus (S): ",
@@ -899,7 +915,7 @@
 		      "term": "Avalokiteshvara (S): ",
 		      "definition": "Lord Who Looks Down. Mahayana Buddhist bodhisattva of compassion. Known as Guanyin in China, Kannon in Japan, Karunamaya in Nepal, and Chenrezig in Tibet."
 		    },
-		     {
+		    {
 		      "term": "Avatamsaka Sutra (S): ",
 		      "definition": "known in English as the Flower Garland Sutra. One of the most influential sutras in East Asian Mahayana Buddhism. Last chapter recounts the story of the young pilgrim Sudhana and his encounter with Avalokiteshvara on Potalaka."
 		    },
@@ -927,7 +943,7 @@
 		      "term": "Brahmanism (S): ",
 		      "definition": "polytheistic Indian religion based on ancient Vedic scriptures. Hinduism grew out of Brahmanism."
 		    },
-		        {
+		    {
 		      "term": "Buddha (S): ",
 		      "definition": "Awakened One. Often used to refer to the “historical Buddha,” Siddhartha Gautama, an Indian prince, probably born sometime in the 5th century. He achieved enlightenment and became known as Shakyamuni. In Mahayana Buddhism, Shakyamuni is but one of many past, present and future buddhas."
 		    },
@@ -955,7 +971,7 @@
 		      "term": "Dalai Lama (T): ",
 		      "definition": "title of the spiritual leaders of Tibet since the 17th century. Each reincarnated holder of this title is considered one of Chenrezig’s emanations."
 		    },
-		        {
+		    {
 		      "term": "Dharma (S): ",
 		      "definition": "Buddhist law; teachings of the Buddha."
 		    },
@@ -983,7 +999,7 @@
 		      "term": "Fudarakusan (J): ",
 		      "definition": "Japanese localization of the Indian Potalaka, Avalokiteshvara’s sacred island. There are several Fudarakusan sites in Japan, including Mount Myoho at Nachi."
 		    },
-		        {
+		    {
 		      "term": "Fudarakudokai (J): ",
 		      "definition": "Crossing The Sea To Fudarakusan. Religious suicide ritual once performed at Nachi, sending a willing devotee on a one-way journey to Kannon’s imagined paradise Fudarakusan."
 		    },

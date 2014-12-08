@@ -21,7 +21,7 @@ angular.module('starter')
 	
 	
     $scope.artifacts = [];
-    $http.get('js/modules/data.json').success(function(data){  	
+    $http.get('js/modules//data/data.json').success(function(data){  	
       		for(var i =0; i<3; i++){
       			for(var j = 0; j<data[i].artifacts.length; j++){
       				$scope.artifacts[$scope.artifacts.length] = angular.fromJson(data[i].artifacts[j]);

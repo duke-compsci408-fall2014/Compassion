@@ -13,8 +13,11 @@ angular.module('starter')
     });
   })
   .controller('TermsCtrl', function($scope, $http) {
-       $http.get("js/modules/data.json").success(function(data){
-         $scope.terms = data[4];       
+       $http.get("js/modules/data/terms.json").success(function(data){
+         $scope.terms = [];
+         for(i = 0; i<data.length; i++){
+            $scope.terms[i] = data[i]; 
+         }       
       })
   
 });

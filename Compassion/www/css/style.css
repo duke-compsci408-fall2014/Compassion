@@ -143,6 +143,7 @@ ion-side-menu ion-content {
 	color: white;
 }
 
+
 .concierge .buttons {
 	margin-top: 20px;
 	position: relative;
@@ -233,6 +234,14 @@ ion-side-menu ion-content {
 	background-color: black;
 	border: none;
 }
+
+.terms-page .term-definition { 
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFFFFF !important;
+	font-size: .8em;
+}
+
 
 /* artifact search page */ 
 

@@ -11,12 +11,10 @@
           search
       </button>
     </div>
-    <ul class="list">
+    <ul>
       <li class="item item-dark" ng-repeat="term in terms | filter:search">
-        {{term.term}}
-        <pre style="color:white !important; font-size: .8em;">
-          {{term.definition}}
-        </pre>
+        {{term.term}}       
+        <pre class="term-definition">{{term.definition}}</pre>
       </li>
     </ul>
   </ion-content>

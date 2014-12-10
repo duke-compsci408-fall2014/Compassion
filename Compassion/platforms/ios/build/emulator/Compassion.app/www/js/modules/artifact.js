@@ -49,7 +49,7 @@ angular.module('starter')
   };
 
 
-  $http.get('js/modules/data.json').success(function(data) {
+  $http.get('js/modules/data/data.json').success(function(data) {
     $scope.artifacts = [];
 
     for (var i = 0; i < 3; i++) {
@@ -64,7 +64,7 @@ angular.module('starter')
     $scope.artifactCaption = $scope.artifacts[$stateParams.artifactId - 1].caption;
     $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId - 1].comparativeImages;
     $scope.audioUrl = $sce.trustAsResourceUrl(data[0].artifacts[$stateParams.artifactId - 1].audio);
-    $scope.playlistUrl = $sce.trustAsResourceUrl(data[0].artifacts[$stateParams.artifactId - 1].video);
+    $scope.video = $sce.trustAsResourceUrl(data[0].artifacts[$stateParams.artifactId - 1].video);
     //  $scope.video = data[0].artifacts[$stateParams.artifactId -1].video;
     $scope.location = $scope.artifacts[$stateParams.artifactId - 1].location;
   });

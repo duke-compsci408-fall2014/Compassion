@@ -3,7 +3,9 @@
     <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
   <ion-content class="credits-page">
-	<p class="credits-text">{{credits.credits}} </p>
+  	<div ng-repeat="paragraph in credits"> 
+		<p class="credits-text">{{paragraph.paragraph}} </p>
+	</div>	
   </ion-content>  
 
 </ion-view>

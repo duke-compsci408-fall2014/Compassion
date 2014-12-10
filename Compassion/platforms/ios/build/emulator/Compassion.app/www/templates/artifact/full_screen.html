@@ -1,7 +1,6 @@
 <ion-view hide-nav-bar="true" class="artifact-page">
 	<div ng-show="overlay === true">
 		<a ng-href="#/app/themes/{{themeId}}" ng-click="goBack()"><div class="artifact-close ion-android-close"></div></a>
-		<div class="artifact-share ion-share"></div>
 	</div>
 	<ion-scroll zooming="true" style="width: 100%; height: 100%">
 	<img ng-click="toggleOverlay()" class="zoom-pic" src="{{imageURL}}">

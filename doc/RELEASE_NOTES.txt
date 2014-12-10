@@ -1,0 +1,31 @@
+
+This app has been tested on the Android and iOS platforms. It’s functionality is as follows: 
+
+It launches at its title view. It’ll then transition to a loading view prompting the user to enter. Upon entry, the user will decide to either enter the explore view or search for a particular artifact’s view.
+
+List of views: 
+ 
+Explore View 
+
+Theme View 
+
+Artifact View 
+ 
+Comparative Images View
+
+Sidebar Navigation View linking to:
+
+- About View
+
+- Explore View 
+
+- Slide Show View 
+
+- Search Terms View 
+
+- Search Results View
+
+- Credits view 
+
+
+

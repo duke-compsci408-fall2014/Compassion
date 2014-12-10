@@ -30,7 +30,7 @@ angular.module('starter')
       	
       	
         $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId -1].comparativeImages;
-        $scope.originalImage = $scope.artifact[$stateParams.artifactId -1];   
+        $scope.originalImage = $scope.artifacts[$stateParams.artifactId -1];   
         console.log($scope.originalImage);       
     });
 

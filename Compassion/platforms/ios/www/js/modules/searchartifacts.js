@@ -14,8 +14,17 @@ angular.module('starter')
   })
 .controller('searchArtifactsCtrl', function($scope, $stateParams, $http) {
     
- $http.get("js/modules/data.json").success(function(data){
-     $scope.artifacts = data[3];
+ $http.get("js/modules/data/data.json").success(function(data){
+     $scope.artifacts = [];
+     offset = 0; 
+     for(i =0; i<data.length; i++){
+        for(j =0; j<data[i].artifacts.length; j++){
+              $scope.artifacts[offset] = data[i].artifacts[j]; 
+              offset++; 
+        }
+     }
+
+     console.log("offset: "+offset);
  });
 
  $scope.settings = {};

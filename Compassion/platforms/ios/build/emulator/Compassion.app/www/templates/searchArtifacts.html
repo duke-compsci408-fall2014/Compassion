@@ -16,7 +16,7 @@
     <ul>
         <li ng-repeat="artifact in artifacts | filter:search[settings.myFilter]:isIdFilter()">
           <div class="card">
-            <a href="#/app/artifacts/{{artifact.id}}">
+            <a href="#/app/artifacts/caption/{{artifact.id}}">
                 <div class="item item-image">
                     <div></div>
                     <img src="{{artifact.imageURL}}">

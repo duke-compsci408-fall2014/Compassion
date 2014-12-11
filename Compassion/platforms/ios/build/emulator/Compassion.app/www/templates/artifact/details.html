@@ -22,28 +22,15 @@
 		</div>
 	</div>
 	<div class="music-player" >
-<iframe width="100%" height="150" src="http://www.youtube.com/v/ITQBkHZXRtg?version=3&enablejsapi=1" frameborder="0" allowfullscreen></iframe>
-		<iframe width="100%" height="150" src="{{audioUrl}}" frameborder="0" allowfullscreen></iframe>
+	{{videoUrl}}
+		<iframe width="100%" height="150" src="{{videoUrl}}" frameborder="0" allowfullscreen></iframe>
 	</div>
-	<div class="playlist">
-		<ul class="list">
-		    <li class="item item-dark">
-		      	<strong>Song one</strong>
-		      	<br>
-		      	{{playlistUrl.caption}}
-		      	
-		    </li>
-		    <li class="item item-dark">
-		    	<strong>Song two</strong>
-		    	<br>
-		    	{{playlistUrl.caption}}
-		    </li>
-		</ul>
-	</div>
+	
 	<div class="compare-section">
 		<h5 class="header">Compare with</h5>
 		<a ng-href="#/app/artifacts/details/{{curArtId}}/compare/{{curArtId}}" ng-repeat="image in comparativeImages">
-         <div class="compare-image">
+
+         <div class="compare-image" style="background-image:url('{{image.imageURL}}')"> 
             </div>
 		</a>
 		

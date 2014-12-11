@@ -11,12 +11,10 @@
           search
       </button>
     </div>
-    <ul class="list">
+    <ul>
       <li class="item item-dark" ng-repeat="term in terms | filter:search">
-        {{term.term}}<a href="" ng-click="playSound()" class="pronounce ion-volume-low"></a>
-        <p>
-          {{term.definition}}
-        </p>
+        {{term.term}}       
+        <pre class="term-definition">{{term.definition}}</pre>
       </li>
     </ul>
   </ion-content>

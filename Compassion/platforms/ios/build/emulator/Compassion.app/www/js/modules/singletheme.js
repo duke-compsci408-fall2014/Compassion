@@ -17,7 +17,7 @@ angular.module('starter')
 .controller('ThemeCtrl', ['$scope', '$http', '$stateParams',  function($scope,$http,$stateParams){ 
   $scope.currentTheme = $stateParams.themeId;
 
-  $http.get('js/modules/data.json').success(function(data){
+  $http.get('js/modules/data/data.json').success(function(data){
 
       for(var i = 0; i<data.length; i++){
         var id = parseInt(data[i].id); 

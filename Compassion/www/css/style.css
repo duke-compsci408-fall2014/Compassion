@@ -650,7 +650,7 @@ ion-side-menu ion-content {
 
 .slideshow .slide-image {
 	position: relative;
-  top: 50%;
+  top: 10%;
   transform: translateY(-50%) !important
 }
 

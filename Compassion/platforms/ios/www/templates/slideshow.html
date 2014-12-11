@@ -5,7 +5,7 @@
   <ion-content class="has-header">
       <ion-slide-box on-slide-changed="slideHasChanged($index)" show-pager="false">
           <ion-slide class="box" ng-repeat="artifact in artifacts" ng-show="isCurrentSlideIndex($index)">
-            <div class="background" ng-style="setWidthAndHeight()"><a ng-href="#/app/artifacts/{{artifact.id}}"><img class="slide-image" ng-src="{{artifact.imageURL}}" ng-style="setWidth()"></a></div>
+            <div class="background" ng-style="setWidthAndHeight()"><a ng-href="#/app/artifacts/caption/{{artifact.id}}"><img class="slide-image" ng-src="{{artifact.imageURL}}" ng-style="setWidth()"></a></div>
             <div class="caption" ng-style="setCaptionWidth()">
               {{artifact.name}}
               <div class="index">{{$index+1}} / {{artifacts.length}}</div>

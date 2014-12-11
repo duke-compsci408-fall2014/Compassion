@@ -12,6 +12,9 @@
       </button>
     </div>
     <ul>
+    <li class="item item-dark">
+          C=Chinese; J=Japanese; S=Sanskrit; T=Tibetan
+          </li>
       <li class="item item-dark" ng-repeat="term in terms | filter:search">
         {{term.term}}       
         <pre class="term-definition">{{term.definition}}</pre>

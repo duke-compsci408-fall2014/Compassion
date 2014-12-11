@@ -15,10 +15,10 @@ angular.module('starter')
 
 .controller('SlideshowCtrl', ['$scope', '$http', '$ionicSideMenuDelegate', '$window', function($scope, $http, $ionicSideMenuDelegate, $window) {
 
- $http.get('js/modules/data.json').success(function(data){
+ $http.get('js/modules/data/data.json').success(function(data){
       $scope.artifacts = [];
-      for(var i =0; i<3; i++){
-      	for(var j = 0; j<data[i].artifacts.length; j++){
+      for(i =0; i<data.length; i++){
+      	for(j = 0; j<data[i].artifacts.length; j++){
       		$scope.artifacts[$scope.artifacts.length] = angular.fromJson(data[i].artifacts[j]);
       	}
       }

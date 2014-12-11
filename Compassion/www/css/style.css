@@ -621,6 +621,12 @@ ion-side-menu ion-content {
 	padding: 20px;
 }
 
+
+/* where page */
+
+.map{
+	background-color: black; 
+}
 /* slideshow */
 
 .slideshow {
@@ -657,9 +663,17 @@ ion-side-menu ion-content {
 }
 
 /* Where page*/
+
+.where {
+	background-color: black;
+
+}
+
 .map {
-    height:420px;
-    width:600px;
+    width: 100%;
+height: 100%;
+background-size: contain;
+background-repeat: no-repeat;
 }
 .infoWindowContent {
     font-size:  14px !important;

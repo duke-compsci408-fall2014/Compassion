@@ -1,6 +1,0 @@
-Future features: 
-1. QR code artifact search 
-2. Context menu help on each page
-3. Portal on app, where an admin could login and edit that particular instance of the app. 
-4. Web app to create, and edit a particular exhibit’s app
-

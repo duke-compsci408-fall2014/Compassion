@@ -217,7 +217,7 @@
 		        "text":"Zen Buddhist artists often depicted the White-robed Kannon in works such as this one, which shows the willow branch, vase, and waterfall that are among the bodhisattva’s most common attributes. As seen here, these depictions are set on Potalaka, Kannon’s mythical island, which took local form in places such as Mount Putuo in China and Nachi in Japan. The figure at bottom left is Sudhana, a pilgrim from the Avatamsaka Sutra, who travels to see many wise figures, including Avalokiteshvara, for teachings on enlightenment.  Dressed in voluminous white robes and reposing at ease in an idyllic landscape, the bodhisattva appears here as a model for contemplative wisdom. LK",
 				"audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/09a&amp;",
 				"audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/09b&amp;",
-				"comparisonImages":[
+				"comparativeImages":[
 				{"imageURL":"img/Theme1/comparativeImages/9.jpg",
 				"caption":"Water-Moon Avalokiteshvara, Korea, Goryeo dynasty, first half of the 14th century; hanging scroll, ink and color on silk; image: 45 1/16 x 21 7/8 in., overall with knobs: 79 3/8 x 30 1/8 in., overall with mounting: 79 3/8 x 28 in.; The Metropolitan Museum of Art, Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914, 14.76.6.",
 				"text":"The White-robed and Water-moon forms of Kannon are two of the thirty-three manifestations that the bodhisattva can take to alleviate suffering. While both paintings show Sudhana standing reverently at the bottom of the composition, the differences in presentation are greater than the similarities. In the Japanese work, the plain white robe and meditative posture of the White-robed Kannon suggest a contemplative sage, in contrast to the elaborately and colorfully dressed Water-moon Avalokiteshvara from Korea, who reaches out to petitioners below. Note the thin gauzy veil, lotus-patterned robes, and lotus blooms, which commonly appear in depictions of the Water-moon Kannon. LK"
@@ -282,7 +282,7 @@
 		      },
 		      {
 		        "name": "Nyoirin Kannon",
-		        "imageURL": "img/Theme1/13. Descent of Eleven Headed Kannon 1972.181 copy copy.png",
+		        "imageURL": "img/Theme1/Nyoirin Kannon.jpg",
 		        "id": "12", 
 		        "location":"img/maps/Japan.jpg",
 		        "caption":"Nyoirin Kannon, Japan, Edo period, ca. 1693; wood with gold paint, gold leaf, lacquer, and inlaid crystal; 16 9/16 x 12 1/8 x 10 1/4 in.; The Metropolitan Museum of Art, Rogers Fund 1956, 56.39.",
@@ -314,11 +314,11 @@
 		      	"audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/13a&amp;",
 		      	"audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/13b&amp;",
 		      	"comparativeImages":[
-		      	{
-		      	"imageURL":"img/Theme1/comparativeImages/13.jpg",
-		      	"caption":"Kannon Holding a Lotus Seat, Japan, Edo period, traditionally attributed to the 13th century but probably 17th century; wood with gilt lacquer object: 11 1/4 in. base: 1 15/16 x 4 15/16 x 4 15/16 in.; Yale University Art Gallery, Gift of Mr. and Mrs. William B. Jaffe, 1968.104.3.", 
-		      	"text":"Kannon, along with another bodhisattva named Seishi, frequently appears as an attendant to the Buddha in sculptural triads. Flanking a much larger Amida in the center, these figures can often be found in Pure Land Buddhist temples in Japan. As seen in this beautiful carved wooden sculpture, Kannon graciously bows to present the lotus pedestal to a worthy deceased. This iconography demonstrates a faith that death is not a dolorous end, but a glorious beginning, and that Kannon is a guide for the faithful to Sukhavati, known to the Japanese as Gokuraku. KL"
-		      	}
+		      		{
+		      		"imageURL":"img/Theme1/comparativeImages/13.jpeg",
+		      		"caption":"Kannon Holding a Lotus Seat, Japan, Edo period, traditionally attributed to the 13th century but probably 17th century; wood with gilt lacquer object: 11 1/4 in. base: 1 15/16 x 4 15/16 x 4 15/16 in.; Yale University Art Gallery, Gift of Mr. and Mrs. William B. Jaffe, 1968.104.3.", 
+		      		"text":"Kannon, along with another bodhisattva named Seishi, frequently appears as an attendant to the Buddha in sculptural triads. Flanking a much larger Amida in the center, these figures can often be found in Pure Land Buddhist temples in Japan. As seen in this beautiful carved wooden sculpture, Kannon graciously bows to present the lotus pedestal to a worthy deceased. This iconography demonstrates a faith that death is not a dolorous end, but a glorious beginning, and that Kannon is a guide for the faithful to Sukhavati, known to the Japanese as Gokuraku. KL"
+		      		}
 		      	], 
 		       "playlist":[
 				{
@@ -587,7 +587,7 @@
 		      },
 		      {
 		        "name": "Illustrated Miracles of Kannon",
-		        "imageURL": "img/Theme3/21. Heart Sutra 2012-99 cropped copy copy.png",
+		        "imageURL": "img/Theme3/22. Lotus Sutra 9.2314.png",
 		        "id": "22", 
 		         "location":"img/maps/Japan.jpg",
 		        "caption":"Page from the Illustrated Miracles of Kannon, Gold Inscribed Kannon Chapter of the Lotus Sutra, Japan, Edo period, 1615-1868; silk, ink, and gold; 14 1/2 x 13 1/2 in.; The Newark Museum, Purchase 1909 George T. Rockwell Collection, 9.2314.", 

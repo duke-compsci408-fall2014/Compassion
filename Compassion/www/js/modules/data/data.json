@@ -16,9 +16,15 @@
 		        "audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/01b&amp;",
 		        "comparativeImages": [
 		          {
-		            "imageURL": "img/Theme1/comparativeImages/1.jpg",
+		            "imageURL": "img/Theme1/comparativeImages/1-a.jpg",
 		            "caption": "Welcoming Descent of Amida and Bodhisattvas, Japan, Nanbokucho period, late 14th century; hanging scroll, ink, color, and gold on silk; 65 3/4 x 33 1/2 in.; The Metropolitan Museum of Art, Gift of Abby Aldrich Rockefeller, 1942, 42.25.37.",
 		            "text": "Pure Land Buddhism is especially prevalent in East Asia. In addition to the common depiction of Amitabha in his Pure Land is the theme of the Welcoming Descent, as seen in this Japanese painting.  Representing a foundational belief of Pure Land Buddhism, this iconography—known as Raigo in Japanese—shows the Buddha and a host of bodhisattvas descending to the deathbed of the faithful to escort them personally to Sukhavati. Avalokiteshvara is in the front row of five bodhisattvas, second from the right. He offers a lotus pedestal to the dying devotee. LK"
+		          }, 
+		          {
+		          	"imageURL": "img/Theme1/comparativeImages/1-b.jpg",
+		          	"caption":"Amitabha Altar, Karma Triyana Dharmachakra, Woodstock, NY, October 2014",
+		          	"text":"Although Tibetan Buddhists do not have an independent Pure Land school, they venerate Amitabha. Tibetan lamas created this altar in conjunction with a recently performed Amitabha ritual practice. The altar displays icons, offerings, and a large thangka depicting the celestial buddha in his Pure Land, Sukhavati. "
+
 		          }
 		        ],
 		        "video": "http://www.youtube.com/embed/ITQBkHZXRtg?start=11&end=23",
@@ -42,7 +48,7 @@
 		        "audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/02b&amp;",
 		        "comparativeImages": [
 		          {
-		            "imageUrl": "img/Theme1/comparativeImages/2.jpg",
+		            "imageURL": "img/Theme1/comparativeImages/2.jpg",
 		            "caption":"Bodhisattva Khasarpana Avalokiteshvara, India, early 12th century; copper alloy; 7 3/16 x 3 9/16 x 2 3/16 in.; The British Museum, Purchased from David Treymane Ltd, 1985,0511.1. © Trustees of the British Museum.",
 		            "text":"Despite their shared subject matter, these two works differ greatly in their original function. Whereas the carved stone stele most likely served as an architectural ornament in a temple niche, the small size of this metal sculpture indicates that it was a private devotional item. Khasarpana is stylistically similar in both works, but the small sculpture replaces the deity’s attending goddesses with the acolyte Sudhanakumara and the wrathful “horse-neck” Hayagriva, who is associated with healing. Their presence may indicate the devotee sought not only the compassion of Khasarpana but also the health and wisdom bestowed by these attendants. EJ"
 		          }
@@ -72,10 +78,10 @@
 				"audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/03a&amp;",
 				"audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/03b&amp;",
 				"comparativeImages":[
-				{"imageURL":"img/Theme1/comparativeImages/3.jpg",
-				 "caption":"The Bodhisattva Padmapani Lokeshvara, Nepal, Kathmandu Valley, Transitional period, 11th century; copper alloy with gilding and semiprecious stones; 23 x 10 1/2 x 4 3/4 in.; The Metropolitan Museum of Art, Purchase, Bequests of Mary Clarke Thompson, Fanny Shapiro, Susan Dwight Bliss, Isaac D. Fletcher, William Gedney Beatty, John L. Cadwalader and Kate Read Blacque, Gifts of Mrs. Samuel T. Peters, Ida H. Ogilvie, Samuel T. Peters and H. R. Bishop, F. C. Bishop and O. M. Bishop, Rogers, Seymour and Fletcher Funds, and other gifts, funds and bequests from various donors, by exchange, 1982, 1982.220.2.",
-				 "text":"These two sculptures are remarkably similar. Dating from the same era of Nepalese art, they are done in a strikingly comparable manner, evidenced in their copper materials and inlays of gems.  Nonetheless, key differences arise when comparing the two. In the Metropolitan Museum sculpture, the figure’s right hand is outstretched in the varada mudra, a gesture signifying Avalokiteshvara’s compassionate generosity. Curiously, this work lacks the characteristic Buddha Amitabha atop the figure’s crown. However, this sculpture has retained its crucial signifier of the lotus flower. The analogous nature of these sculptures enables us to see how the attribute would have originally appeared in the Asia Society work. CF"
-				}
+					{"imageURL":"img/Theme1/comparativeImages/3.jpg",
+				 	"caption":"The Bodhisattva Padmapani Lokeshvara, Nepal, Kathmandu Valley, Transitional period, 11th century; copper alloy with gilding and semiprecious stones; 23 x 10 1/2 x 4 3/4 in.; The Metropolitan Museum of Art, Purchase, Bequests of Mary Clarke Thompson, Fanny Shapiro, Susan Dwight Bliss, Isaac D. Fletcher, William Gedney Beatty, John L. Cadwalader and Kate Read Blacque, Gifts of Mrs. Samuel T. Peters, Ida H. Ogilvie, Samuel T. Peters and H. R. Bishop, F. C. Bishop and O. M. Bishop, Rogers, Seymour and Fletcher Funds, and other gifts, funds and bequests from various donors, by exchange, 1982, 1982.220.2.",
+				 	"text":"These two sculptures are remarkably similar. Dating from the same era of Nepalese art, they are done in a strikingly comparable manner, evidenced in their copper materials and inlays of gems.  Nonetheless, key differences arise when comparing the two. In the Metropolitan Museum sculpture, the figure’s right hand is outstretched in the varada mudra, a gesture signifying Avalokiteshvara’s compassionate generosity. Curiously, this work lacks the characteristic Buddha Amitabha atop the figure’s crown. However, this sculpture has retained its crucial signifier of the lotus flower. The analogous nature of these sculptures enables us to see how the attribute would have originally appeared in the Asia Society work. CF"
+					}
 				],
 				"playlist":[
 				{
@@ -97,10 +103,10 @@
 				"audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/04a&amp;",
 				"audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/04b&amp;",
 				"comparativeImages":[
-				{"imageURL":"img/Theme1/comparativeImages/4.jpg",
-				 "caption":"The Buddha Amitayus Attended by Bodhisattvas, 11th or early 12th century, Tibet; mineral and organic pigments on cloth; 54 1/2 x 41 3/4 in.; The Metropolitan Museum, New York, 1989.284.",
-				 "text":"Comparing Avalokiteshvara with the much earlier Amitayus reflects the development of Tibetan art over time. Rendered in a subdued palette, the earlier painting has a symmetrical composition, and the figures are stylized and iconic. Amitayus, the celestial—or Sambhogakaya—body of Amitabha, is seated in the center of the painting. Standing to his right is Avalokiteshvara on a lotus pedestal with another lotus above his left shoulder. The relative differences in size and position reflect the various roles that Avalokiteshvara plays in art: sometimes the spiritual equal to Amitabha, and sometimes a subsidiary attendant to a buddha. LL"
-				}
+					{"imageURL":"img/Theme1/comparativeImages/4.jpg",
+				 	"caption":"The Buddha Amitayus Attended by Bodhisattvas, 11th or early 12th century, Tibet; mineral and organic pigments on cloth; 54 1/2 x 41 3/4 in.; The Metropolitan Museum, New York, 1989.284.",
+				 	"text":"Comparing Avalokiteshvara with the much earlier Amitayus reflects the development of Tibetan art over time. Rendered in a subdued palette, the earlier painting has a symmetrical composition, and the figures are stylized and iconic. Amitayus, the celestial—or Sambhogakaya—body of Amitabha, is seated in the center of the painting. Standing to his right is Avalokiteshvara on a lotus pedestal with another lotus above his left shoulder. The relative differences in size and position reflect the various roles that Avalokiteshvara plays in art: sometimes the spiritual equal to Amitabha, and sometimes a subsidiary attendant to a buddha. LL"
+					}
 				], 
 				"playlist":[
 				{
@@ -121,9 +127,10 @@
 		        "audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/05a&amp;",
 		        "audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/05b&amp;",
 		        "comparativeImages":[
-		        {"imageURL":"img/Theme1/comparativeImages/5.jpg",
-		        "caption":"Bodhisattva Avalokiteshvara, Northeastern Thailand, second quarter of 8th century; copper alloy inlaid with silver and glass or obsidian; 56 x 22 1/2 x 15 1/4 in.; The Metropolitan Museum of Art, Rogers Fund, 1967, 67.234.",
-		        "text":"This Thai sculpture depicts a four-armed form of Avalokiteshvara. Ascetic bodhisattvas were popular in early Southeast Asian art, depicted in simple clothing with lean bodies.  In this comparison, we see vast differences in the styles from two distinctive Buddhist cultures. Unlike the Himalayan mode of luxurious adornments and multiple attributes, the Southeast Asian example has very little detail to signal the bodhisattva’s identity. The most recognizable characteristic is the small Buddha Amitabha who sits in the figure’s crown. Avalokiteshvara’s serene countenance and slight smile echo the gentle nature of his compassionate aspirations, and his half-closed eyes suggest a meditative state, even though he is standing. CF"}
+		        	{"imageURL":"img/Theme1/comparativeImages/5.jpg",
+		        	"caption":"Bodhisattva Avalokiteshvara, Northeastern Thailand, second quarter of 8th century; copper alloy inlaid with silver and glass or obsidian; 56 x 22 1/2 x 15 1/4 in.; The Metropolitan Museum of Art, Rogers Fund, 1967, 67.234.",
+		        	"text":"This Thai sculpture depicts a four-armed form of Avalokiteshvara. Ascetic bodhisattvas were popular in early Southeast Asian art, depicted in simple clothing with lean bodies.  In this comparison, we see vast differences in the styles from two distinctive Buddhist cultures. Unlike the Himalayan mode of luxurious adornments and multiple attributes, the Southeast Asian example has very little detail to signal the bodhisattva’s identity. The most recognizable characteristic is the small Buddha Amitabha who sits in the figure’s crown. Avalokiteshvara’s serene countenance and slight smile echo the gentle nature of his compassionate aspirations, and his half-closed eyes suggest a meditative state, even though he is standing. CF"
+		        	}
 		        ], 
 		        "playlist":[
 				{
@@ -144,10 +151,10 @@
 				"audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/06a&amp;",
 				"audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/06b&amp;",
 				"comparativeImages":[
-				{"imageURL":"img/Theme1/comparativeImages/6.jpg",
-				"caption":"Thousand-armed Avalokitesvara (Sahasrabhuja-avalokitesvara), China-Tibet, Qing dynasty, about 1750; gilt bronze; 21 1/2 x 12 1/2 x 7 1/8 in.; Birmingham Museum of Art, Museum purchase with fund provided by the 1998 Museum Dinner and Ball, 1999.9.",
-				"text":"This work presents the Thousand-armed Avalokiteshvara in the medium of sculpture. In the statue’s outer corona of limbs, the total number of arms equals forty-two, which suggests the thousand arms depicted minutely in the painting. Here the figure’s proportions seem non-naturalistic; the bodhisattva’s heads are taller than his stout body. But the sculpture draws in viewers with its beautiful gilded surface.  In the painting, the white, red, and black-blue heads represent peaceful, intense, and wrathful activities respectively, with Amitabha’s painted his customary red. Tantric Buddhist images like these are seen as aids for reaching enlightenment; the vibrant colors and dynamic imagery invite viewers to engage with the works in order to awaken their minds. CZ"
-				}
+					{"imageURL":"img/Theme1/comparativeImages/6.jpg",
+					"caption":"Thousand-armed Avalokitesvara (Sahasrabhuja-avalokitesvara), China-Tibet, Qing dynasty, about 1750; gilt bronze; 21 1/2 x 12 1/2 x 7 1/8 in.; Birmingham Museum of Art, Museum purchase with fund provided by the 1998 Museum Dinner and Ball, 1999.9.",
+					"text":"This work presents the Thousand-armed Avalokiteshvara in the medium of sculpture. In the statue’s outer corona of limbs, the total number of arms equals forty-two, which suggests the thousand arms depicted minutely in the painting. Here the figure’s proportions seem non-naturalistic; the bodhisattva’s heads are taller than his stout body. But the sculpture draws in viewers with its beautiful gilded surface.  In the painting, the white, red, and black-blue heads represent peaceful, intense, and wrathful activities respectively, with Amitabha’s painted his customary red. Tantric Buddhist images like these are seen as aids for reaching enlightenment; the vibrant colors and dynamic imagery invite viewers to engage with the works in order to awaken their minds. CZ"
+					}
 				],
 				"playlist":[
 				{
@@ -193,10 +200,10 @@
 		        "audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/08a&amp;",
 		        "audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/08b&amp;",
 		        "comparativeImages":[
-		        {"imageURL":"img/Theme1/comparativeImages/8.jpg",
-		        "caption":"Guanyin by a Lotus Pond, China, Ming dynasty, 1593; hanging scroll, ink and color on silk; image: 72 3/8 × 44 1/8 in., with mounting: 119 7/8 × 54 in., overall with knobs: 119 7/8 × 58 1/2 in.; The Metropolitan Museum of Art, Rogers Fund, 1918, 18.139.2.",
-		        "text":"This visually exuberant representation of White-robed Guanyin epitomizes another trajectory of Avalokiteshvara’s Chinese transformation in the Ming dynasty. Sudhana, the parrot, and the purple bamboo grove are all found in indigenous tales of Guanyin at Mount Putuo, a Chinese version of Potalaka; the lotus pond and an icon of Amitabha—or Amituo in Chinese—on Guanyin’s headdress indicate Pure Land Buddhist traditions. Pictorial richness as a sign of auspiciousness characterizes court paintings like this one from the Ming dynasty. We still see gestures and costumes from the Chan tradition, but the painting departs dramatically from the simplicity and apparent spontaneity of the more austere White-robed Guanyin. JS" 
-		        }
+		       		 {"imageURL":"img/Theme1/comparativeImages/8.jpg",
+		        	"caption":"Guanyin by a Lotus Pond, China, Ming dynasty, 1593; hanging scroll, ink and color on silk; image: 72 3/8 × 44 1/8 in., with mounting: 119 7/8 × 54 in., overall with knobs: 119 7/8 × 58 1/2 in.; The Metropolitan Museum of Art, Rogers Fund, 1918, 18.139.2.",
+		        	"text":"This visually exuberant representation of White-robed Guanyin epitomizes another trajectory of Avalokiteshvara’s Chinese transformation in the Ming dynasty. Sudhana, the parrot, and the purple bamboo grove are all found in indigenous tales of Guanyin at Mount Putuo, a Chinese version of Potalaka; the lotus pond and an icon of Amitabha—or Amituo in Chinese—on Guanyin’s headdress indicate Pure Land Buddhist traditions. Pictorial richness as a sign of auspiciousness characterizes court paintings like this one from the Ming dynasty. We still see gestures and costumes from the Chan tradition, but the painting departs dramatically from the simplicity and apparent spontaneity of the more austere White-robed Guanyin. JS" 
+		        	}
 		        ],
 		        "playlist":[
 				{
@@ -218,10 +225,10 @@
 				"audio": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/09a&amp;",
 				"audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/09b&amp;",
 				"comparativeImages":[
-				{"imageURL":"img/Theme1/comparativeImages/9.jpg",
-				"caption":"Water-Moon Avalokiteshvara, Korea, Goryeo dynasty, first half of the 14th century; hanging scroll, ink and color on silk; image: 45 1/16 x 21 7/8 in., overall with knobs: 79 3/8 x 30 1/8 in., overall with mounting: 79 3/8 x 28 in.; The Metropolitan Museum of Art, Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914, 14.76.6.",
-				"text":"The White-robed and Water-moon forms of Kannon are two of the thirty-three manifestations that the bodhisattva can take to alleviate suffering. While both paintings show Sudhana standing reverently at the bottom of the composition, the differences in presentation are greater than the similarities. In the Japanese work, the plain white robe and meditative posture of the White-robed Kannon suggest a contemplative sage, in contrast to the elaborately and colorfully dressed Water-moon Avalokiteshvara from Korea, who reaches out to petitioners below. Note the thin gauzy veil, lotus-patterned robes, and lotus blooms, which commonly appear in depictions of the Water-moon Kannon. LK"
-				}
+					{"imageURL":"img/Theme1/comparativeImages/9.jpg",
+					"caption":"Water-Moon Avalokiteshvara, Korea, Goryeo dynasty, first half of the 14th century; hanging scroll, ink and color on silk; image: 45 1/16 x 21 7/8 in., overall with knobs: 79 3/8 x 30 1/8 in., overall with mounting: 79 3/8 x 28 in.; The Metropolitan Museum of Art, Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914, 14.76.6.",
+					"text":"The White-robed and Water-moon forms of Kannon are two of the thirty-three manifestations that the bodhisattva can take to alleviate suffering. While both paintings show Sudhana standing reverently at the bottom of the composition, the differences in presentation are greater than the similarities. In the Japanese work, the plain white robe and meditative posture of the White-robed Kannon suggest a contemplative sage, in contrast to the elaborately and colorfully dressed Water-moon Avalokiteshvara from Korea, who reaches out to petitioners below. Note the thin gauzy veil, lotus-patterned robes, and lotus blooms, which commonly appear in depictions of the Water-moon Kannon. LK"
+					}
 				], 
 				  "playlist":[
 				{
@@ -451,23 +458,23 @@
 		     	"audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/18b&amp;",
 		     	"comparativeImages":[
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/18a.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/18-a.jpg", 
 		     	"caption":"Fudarakudokai: A Religious Suicide Ritual", 
 		     	"text":"This detail illustrates Fudarakudokai, a former practice at Nachi, which involves sending a willing devotee in a sealed boat on a one-way journey to Kannon’s imagined paradise of Fudarakusan. Observers on the shore watch this ritual with reverence. MD"
 		     	},
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/18b.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/18-b.jpg", 
 		     	"caption":"Buddhist Worship in a Shrine", 
 				"text":"A subsidiary hall of Nachi Shrine called Nyoirindo houses Nyoirin Kannon, an important icon of veneration at the site. As the first stop on the Saigoku Pilgrimage, Nyoirindo (now Seigantoji) became an independent Buddhist temple in the late 19th century. Nyoirindo as depicted here has a bluish tiled rooftop, an identifying feature of Buddhist temples. Already established as a place for kami-worship, Nachi became part of Kumano pilgrimage in the 11th century. Like many other places in Japan, Buddhism synthesized indigenous beliefs at Nachi, regarding kami—or local gods—as manifestations of Buddhist deities. MD"
 		     	},
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/18c.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/18-c.jpg", 
 		     	"caption":"Nachi Waterfall", 
 				"text":"This magnificent waterfall not only attracted kami-worship rituals, suggested by the four practitioners on the bridge, but also became a residence of the esoteric Buddhist guardian deity Fudo Myoo, represented by the fire mark on the waterfall. His two attendants appear at the bottom, assisting a fierce warrior priest taking a purification ritual, a vignette from the Japanese classic Heike Monogatari. Although not depicted here, it is said that Thousand-armed Kannon also appears in the waterfall. MD",
 				"audio": ""
 		     	},
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/18d.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/18-d.jpg", 
 		     	"caption":"Women at Nachi", 
 				"text":"The white-robed couple reappears in successive moments throughout the painting, guiding us through this dazzling site. Most importantly, the inclusion of a female pilgrim is noteworthy because Mahayana Buddhism revolutionized the original concepts of the religion, which regarded women as obstacles to salvation. One Mahayana text, the Lotus Sutra, explicitly describes Kannon delivering sermons to women. Kannon is also often related to fertility in East Asia. As a result, in early modern Japan, devotion to Kannon and production of Kannon images and sutras were especially popular among women. MD",
 				"audio": "" 
@@ -499,19 +506,19 @@
 		        "audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/19b&amp;",
 		        "comparativeImages":[
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/19a.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/19-a.jpg", 
 		     	"caption":"Saigoku Station No.1:  Nachisan Seigantoji (The temple belongs to the Tendai Buddhist sect)", 
 		     	"text":"The first ofuda corresponds to Station 1, Nachi, and shows the six-armed Nyoirin, in relaxed posture. He has one arm supporting the chin, another on a rock, and the rest hold a lotus, prayer beads, wish-fulfilling jewel and dharma wheel. LL",
 		     	"audio": ""
 		     	}, 
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/19b.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/19-b.jpg", 
 		     	"caption":"Saigoku Station No.16: Otowasan Kiyomizudera (The temple belongs to the Kita-Hosso Buddhist sect)", 
 		     	"text":"The ofuda for Station 16 shows the Thousand-armed Avalokiteshvara accompanied by two attendants: Bishamon, a guardian deity, and Jizo, a pilgrim bodhisattva. Avalokiteshvara here raises two of his forty-two arms above his head in order to hold a small statue of Amitabha. LL",
 		     	"audio": ""
 		     	}, 
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/19c.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/19-c.jpg", 
 		     	"caption":"Saigoku Station No.29: Aobasan Matsunoodera(The temple belongs to the Shingon Buddhist sect)", 
 		     	"text":"The ofuda for Station 29 presents a wrathful manifestation, a three-headed Avalokiteshvara known as a Bato Kannon, who is the protector of agriculture and livestock. LL",
 		     	"audio": ""
@@ -596,13 +603,13 @@
 		        "audio2": "https://w.soundcloud.com/player/?url=https://soundcloud.com/embodying-compassion/22b&amp;",
 		        "comparativeImages":[
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/22a.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/22-a.jpg", 
 		     	"caption":"Guanyin Chapter from an Illustrated Lotus Sutra (Miaofa lianhua jing Guanshiyin pusa pumenpin), dated to 1432; accordion-fold book; gold ink on indigo-dyed paper; palace copy; each page: 13 3/8 x 4 3/4 in.; full length: 13 3/8 x 542 3/8 in.; Harvard Art Museums/Arthur M. Sackler Museum, Gift of Alan Priest, 1926.46. Photo: Imaging Department © President and Fellows of Harvard College.", 
 		     	"text":"The delightful elongation of Kannon’s arm is not a Japanese invention. In a much earlier Chinese copy of the Lotus Sutra, we see the long-armed Guanyin touching a devotee’s head, although the illustration is from a different episode of the sutra than the work exhibited here. MD",
 		     	"audio": ""
 		     	}, 
 		     	{
-		     	"imageURL":"img/Theme1/comparativeImages/22b.jpg", 
+		     	"imageURL":"img/Theme1/comparativeImages/22-b.jpg", 
 		     	"caption":"Guanyin Chapter from an Illustrated Lotus Sutra (Miaofa lianhua jing Guanshiyin pusa pumenpin), dated to 1432; accordion-fold book; gold ink on indigo-dyed paper; palace copy; each page: 13 3/8 x 4 3/4 in.; full length: 13 3/8 x 542 3/8 in.; Harvard Art Museums/Arthur M. Sackler Museum, Gift of Alan Priest, 1926.46. Photo: Imaging Department © President and Fellows of Harvard College. ", 
 		     	"text":"Another page from this book illustrates the same verse as the work in our exhibition. It represents the extraordinary power of Guanyin’s giant hand to catch the falling man. The Japanese version also borrows the Chinese accordion book format. MD",
 		     	"audio": ""

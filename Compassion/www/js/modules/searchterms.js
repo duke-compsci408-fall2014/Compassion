@@ -13,12 +13,21 @@ angular.module('starter')
     });
   })
   .controller('TermsCtrl', function($scope, $http) {
+       $scope.terms = [];
+
        $http.get("js/modules/data/terms.json").success(function(data){
-         $scope.terms = [];
          for(i = 0; i<data.length; i++){
             $scope.terms[i] = data[i]; 
-         }       
+         }   
+
+                console.log($scope.terms[0]); 
+    
       })
+
+
+       $scope.playSound = function(audio){ 
+          new Media('audio').play(); 
+       }
   
 });
 

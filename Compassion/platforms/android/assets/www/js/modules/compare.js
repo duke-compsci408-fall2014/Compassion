@@ -11,13 +11,28 @@ angular.module('starter')
         }
       });
 })
-.controller('CompareCtrl', function($scope, $stateParams){
+.controller('CompareCtrl', function($scope, $stateParams, $http){
 
 	$scope.captionVisible = true;
 
 	$scope.toggleCaptionVisibility = function() {
 		$scope.captionVisible = !$scope.captionVisible;
 	}
+	
+	
+    $scope.artifacts = [];
+    $http.get('js/modules/data/data.json').success(function(data){  	
+      		for(var i =0; i<3; i++){
+      			for(var j = 0; j<data[i].artifacts.length; j++){
+      				$scope.artifacts[$scope.artifacts.length] = angular.fromJson(data[i].artifacts[j]);
+      		}
+      	}
+      	
+      	
+        $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId -1].comparativeImages;
+        console.log($scope.artifacts); 
+        $scope.originalImage = $scope.artifacts[$stateParams.artifactId -1];   
+    });
 
 });
 

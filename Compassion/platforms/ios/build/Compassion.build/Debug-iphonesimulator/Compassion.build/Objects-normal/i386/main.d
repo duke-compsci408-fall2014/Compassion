@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/Compassion/main.m
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/Compassion/main.m

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h

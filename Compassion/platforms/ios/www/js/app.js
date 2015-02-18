@@ -5,7 +5,7 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
 //angular.module('starter', ['google-maps'.ns()]);
-angular.module('starter', ['ionic', 'starter.directives'])
+angular.module('starter', ['ionic', 'starter.directives', 'ngCordova'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -34,6 +34,7 @@ angular.module('starter', ['ionic', 'starter.directives'])
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/');
 })
+
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
   // Form data for the login modal
 

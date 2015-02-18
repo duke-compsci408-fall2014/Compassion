@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h

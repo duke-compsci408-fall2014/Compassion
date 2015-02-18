@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVTimer.m \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVTimer.h
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVTimer.m \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVTimer.h

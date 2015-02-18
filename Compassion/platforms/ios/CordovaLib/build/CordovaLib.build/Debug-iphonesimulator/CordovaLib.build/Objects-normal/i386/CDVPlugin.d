@@ -1,8 +1,9 @@
 dependencies: \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPlugin.m \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
-  /Users/clivemudanda/Documents/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPlugin.m \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVAvailabilityDeprecated.h \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h

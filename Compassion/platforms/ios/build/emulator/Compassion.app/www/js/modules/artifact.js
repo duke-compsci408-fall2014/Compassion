@@ -33,7 +33,7 @@ angular.module('starter')
   })
 
 
-.controller('ArtifactCtrl', function($scope, $stateParams, $http, $sce) {
+.controller('ArtifactCtrl', function($scope, $stateParams, $http, $sce, $cordovaSocialSharing) {
   $scope.curArtId = $stateParams.artifactId;
   $scope.themeId = $stateParams.catId;
 
@@ -48,6 +48,31 @@ angular.module('starter')
 
   };
 
+  $scope.shareAnywhere = function(){ 
+    $cordovaSocialSharing.share("This is your message", "This is your subject", "www/img/3.jpg","http://blog.nraboy.com")
+  }
+
+  $scope.shareViaTwitter = function(message, image, link) {
+    $cordovaSocialSharing.canShareVia("twitter", message, image, link).then(function(result){
+      $cordovaSocialSharing.shareViaTwitter(message, image, link);
+    }, function(error) {
+      alert("Cannot share on Twitter");
+    }); 
+  }
+
+  $scope.shareViaFacebook = function(message, image, link) {
+    alert(message)
+    alert(image)
+    alert(link)
+    $cordovaSocialSharing
+      .shareViaFacebook(message, image, link)
+      .then(function(result){
+        //success!
+        alert("sharing");
+      } , function(error){
+            alert(error);
+      })
+  }
 
   $http.get('js/modules/data/data.json').success(function(data) {
     $scope.artifacts = [];
@@ -65,7 +90,6 @@ angular.module('starter')
     $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId - 1].comparativeImages;
     $scope.audioUrl = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audio);
     $scope.playlist = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audio2);
-    //  $scope.video = data[0].artifacts[$stateParams.artifactId -1].video;
     $scope.location = $scope.artifacts[$stateParams.artifactId - 1].location;
   });
 

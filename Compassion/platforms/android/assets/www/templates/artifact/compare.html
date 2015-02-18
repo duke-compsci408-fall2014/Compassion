@@ -3,14 +3,16 @@
     <button menu-toggle="right"class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
   <ion-content class="compare-page has-header">
-	<div class="row image-comp" ng-click="toggleCaptionVisibility()">
-	  <div class="col image-one">
-	  	<div class="overlay-caption" ng-show="captionVisible">caption 1</div>
-	  </div>
-	  <div class="col image-two">
-	  	<div class="overlay-caption" ng-show="captionVisible">caption 2</div>
-	  </div>
-	</div>
-	<div class="text-caption"> some caption some caption some caption some caption some caption some caption some caption some caption some caption</div>
+    <div ng-repeat="image in comparativeImages">
+     <div class="row image-comp" ng-click="toggleCaptionVisibility()" >
+        <div class="col image-one" style="background-image:url('{{originalImage.imageURL}}')">
+               <div class="overlay-caption" ng-show="captionVisible">{{originalImage.caption}}</div>
+         </div>
+         <div class="col image-one" style="background-image:url('{{image.imageURL}}')">
+               <div class="overlay-caption" ng-show="captionVisible">{{image.caption}}</div>
+         </div>
+     </div>
+     <div class="text-caption"> {{image.text}}</div>
+    </div>
   </ion-content>
 </ion-view>

@@ -6,7 +6,7 @@ angular.module('starter')
     url: "/slideshow",
     views: {
       'menuContent' :{
-        templateUrl: "templates/theme copy.html",
+        templateUrl: "templates/newSlideshow.html",
         controller: 'SlideshowCtrl'
       }
     }

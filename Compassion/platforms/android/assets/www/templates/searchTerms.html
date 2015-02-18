@@ -11,12 +11,15 @@
           search
       </button>
     </div>
-    <ul class="list">
+    <ul>
+    <pre class="item item-dark">
+          C=Chinese; J=Japanese; <br>
+          S=Sanskrit; T=Tibetan;
+          </pre>
       <li class="item item-dark" ng-repeat="term in terms | filter:search">
-        {{term.term}}<a href="" ng-click="playSound()" class="pronounce ion-volume-low"></a>
-        <p>
-          {{term.definition}}
-        </p>
+        {{term.term}} 
+        <a href="" ng-click="playSound(term.pronunciation)" class="pronounce ion-volume-low"></a>      
+        <pre class="term-definition">{{term.definition}}</pre>
       </li>
     </ul>
   </ion-content>

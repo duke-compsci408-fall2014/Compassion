@@ -3,25 +3,19 @@
     <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
   <ion-content class="has-header theme-page">
-  <div class="theme-description">
-  	<p>This is the theme page. Toeneming denkbeeld en regeering 
-regentijd al daaronder gesteente op nu. Kamarat sneller mochten mantras er en 
-smelter geopend te. Prachtige bovenkant opbrengst ontrukten nu is aandeelen. Op
-tandrad ze eronder blijven is ik. Dient geluk klein ander hooge en op diepe. Ingezameld
-karrijders van gif far bevorderen. Spijt ander in er tegen. Verdeeld ze lamamijn
-britsche nu. Die bevorderen getaxeerde weg bij heb doorzoeken gomsoorten 
-begrenzing interesten. </p>
-  </div>
+	  <div class="theme-description">
+	  	<p>{{themeText}} </p>
+	  </div>
 
-  <div class="card" ng-repeat="artifact in artifacts">
-	<a href="#/app/artifacts/{{artifact.id}}">
-	  <div class="item">
-	    <h3>{{artifact.name}}</h3>
-	  </div>
-	  <div class="item item-image">
-	    <img src="{{artifact.imageURL}}">
-	  </div>
-	</a>
+	  <div class="card" ng-repeat="artifact in artifacts">
+		<a class="artifact-header" href="#/app/artifacts/category/{{currentTheme}}/{{artifact.id}}">
+		  <div class="item">
+		    <h3>{{artifact.name}}</h3>
+		  </div>
+		  <div class="item item-image">
+		    <img src="{{artifact.imageURL}}">
+		  </div>
+		</a>
 	</div>
 
   </ion-content>

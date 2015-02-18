@@ -6,7 +6,7 @@ angular.module('starter')
     url: "/slideshow",
     views: {
       'menuContent' :{
-        templateUrl: "templates/slideshow.html",
+        templateUrl: "templates/newSlideshow.html",
         controller: 'SlideshowCtrl'
       }
     }
@@ -23,32 +23,7 @@ angular.module('starter')
       	}
       }
   });
-  
 
- $scope.setWidth = function() {
-  return { "width": $window.innerWidth+'px' };
- };
-
-  $scope.setCaptionWidth = function() {
-  return { "width": $window.innerWidth+'px' };
- };
-
-  $scope.setWidthAndHeight = function() {
-  return { "width": $window.innerWidth+'px',"height": $window.innerHeight-46+'px' };
- };
-
- $scope.currentIndex = 0;
-
- $scope.slideHasChanged = function(index) {
-  $scope.currentIndex = index;
- };
-
- $scope.isCurrentSlideIndex = function (index) {
-      return $scope.currentIndex === index;
-  };
-
- $ionicSideMenuDelegate.canDragContent(false);
- 
  
 }]);
 

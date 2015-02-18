@@ -11,28 +11,19 @@ angular.module('starter')
         }
       });
 })
-.controller('MapCtrl', function($scope, $ionicLoading) {
-  $scope.mapCreated = function(map) {
-    $scope.map = map;
-  };
+.controller('MapCtrl', function($scope, $ionicLoading, $http, $stateParams) {
+      	
+      $scope.artifacts = [];
+      $http.get('js/modules/data/data.json').success(function(data){  	
+      		for(var i =0; i<3; i++){
+      			for(var j = 0; j<data[i].artifacts.length; j++){
+      				$scope.artifacts[$scope.artifacts.length] = angular.fromJson(data[i].artifacts[j]);
+      		}
+      	}
+      
+      $scope.location = $scope.artifacts[$stateParams.artifactId -1].location; 
+      
+      }); 
+        
 
-  $scope.centerOnMe = function () {
-    console.log("Centering");
-    if (!$scope.map) {
-      return;
-    }
-
-    $scope.loading = $ionicLoading.show({
-      content: 'Getting current location...',
-      showBackdrop: false
-    });
-
-    navigator.geolocation.getCurrentPosition(function (pos) {
-      console.log('Got pos', pos);
-      $scope.map.setCenter(new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude));
-      $scope.loading.hide();
-    }, function (error) {
-      alert('Unable to get location: ' + error.message);
-    });
-  };
-});
+    })

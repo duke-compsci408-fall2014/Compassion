@@ -1,8 +1,7 @@
 <ion-view hide-nav-bar="true" class="artifact-page">
 	<div ng-show="overlay === true">
 		<a ng-href="#/app/themes/{{themeId}}" ng-click="goBack()"><div class="artifact-close ion-android-close"></div></a>
-
-		<a ng-click="shareViaFacebook(artifactName, 'www/img/maps/Tibet.jpg', null)"><div class="artifact-share ion-share"></div></a>
+		<a ng-click="openPopover($event)"><div class="artifact-share ion-share"></div></a>
 
 	</div>
 	<ion-scroll zooming="true" style="width: 100%; height: 100%">

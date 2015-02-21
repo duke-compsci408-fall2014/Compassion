@@ -16,11 +16,19 @@ angular.module('starter')
        $scope.terms = [];
 
        $http.get("js/modules/data/terms.json").success(function(data){
+
+
          for(i = 0; i<data.length; i++){
             $scope.terms[i] = data[i]; 
-         }   
-            console.log($scope.terms[0]); 
-    
+            if( data[i].pronunciation == ''){
+              $scope.terms[i].hasPronunciation = false; 
+            } 
+            else{
+              $scope.terms[i].hasPronunciation = true; 
+            }             
+         }
+
+
       })
 
 

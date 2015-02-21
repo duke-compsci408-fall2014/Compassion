@@ -28,7 +28,6 @@ angular.module('starter')
             }             
          }
 
-                 console.log($scope.terms)
 
       })
 

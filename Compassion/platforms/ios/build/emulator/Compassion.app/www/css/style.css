@@ -662,6 +662,11 @@ ion-side-menu ion-content {
   transform: translateY(-50%) !important
 }
 
+/*popover*/
+.popover{
+	color: black
+}
+
 /* Where page*/
 
 .where {

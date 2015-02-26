@@ -1,0 +1,730 @@
+  [
+		    {
+		      "id":"1",	
+		      "term": "Amida (J): ",
+		      "definition": "Japanese name for Amitabha. Focus of worship in East Asian Pure Land Buddhism.",
+		      "pronunciation":"audio/amida.mp3"
+
+		    },
+		    {
+		      "id":"2",	
+		      "term": "Amitabha (S): ",
+		      "definition": "Buddha of Infinite Light, from whom Avalokiteshvara emanates.",
+		      "pronunciation":"audio/amitabha.mp3"
+
+		    },
+		    {
+		      "id":"3",	
+		      "term": "Amitayus (S): ",
+		      "definition": "Buddha of Infinite Life.  Sambhogakaya form of Amitabha.", 
+		      "pronunciation":""
+		  
+		    },
+		    {
+		      "id":"4",	
+		      "term": "Amituo (C): ",
+		      "definition": "Chinese name for Amitabha. Focus of worship in East Asian Pure Land Buddhism.", 
+		      "pronunciation":"audio/amituo.mp3"
+
+		    },
+		    {
+		      "id":"5",	
+		      "term": "Amrita (S): ",
+		      "definition": "Elixir of immortality.", 
+		      "pronunciation":"audio/amrita.mp3"
+
+		    },
+		    {
+		      "id":"6",	
+		      "term": "Anjali mudra (S): ",
+		      "definition": "Gesture of prayer, respect or salutation.  Formed with palms pressed together at the heart.",
+		      "pronunciation":"audio/anjali-mudra.mp3"
+		    },
+		    {
+		      "id":"7",	
+		      "term": "Avalokiteshvara (S): ",
+		      "definition": "Lord Who Looks Down. Mahayana Buddhist bodhisattva of compassion. Known as Guanyin in China, Kannon in Japan, Karunamaya in Nepal, and Chenrezig in Tibet.",
+		      "pronunciation":"audio/avalokiteshvara.mp3"
+
+		    },
+		    {
+		      "id":"8",	
+		      "term": "Avatamsaka Sutra (S): ",
+		      "definition": "Known in English as the Flower Garland Sutra. One of the most influential sutras in East Asian Mahayana Buddhism. Last chapter recounts the story of the young pilgrim Sudhana and his encounter with Avalokiteshvara on Potalaka.",
+		      "pronunciation":"audio/avatamsaka-sutra.mp3"
+		    },
+		    {
+		      "id":"9",	
+		      "term": "Bato Kannon (J): ",
+		      "definition": "Hayagriva in Sanskrit. Japanese wrathful horse-headed form of Avalokiteshvara.",
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"10",	
+		      "term": "Bhaishajyaguru (S): ",
+		      "definition": "Medicine Buddha, associated with healing.", 
+		      "pronunciation":"audio/bhaishajyaguru.mp3"
+		    },
+		    {
+		      "id":"11",	
+		      "term": "Bishamon (J): ",
+		      "definition": "Armor-clad protector of the dharma. ", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"12",	
+		      "term": "Bhrikuti (S): ",
+		      "definition": "Female attendant to Avalokiteshvara, associated with wisdom.", 
+		      "pronunciation":"" 
+		    },
+		    {
+		      "id":"13",	
+		      "term": "Bodhisattva (S): ",
+		      "definition": "Mahayana Buddhist adherent who wishes to achieve enlightenment for the sake of all sentient beings. Great bodhisattvas like Avalokiteshvara have already achieved a high degree—if not complete—awakening.",
+		      "pronunciation":"audio/bodhisattva.mp3"
+		    },
+		    {
+		      "id":"14",	
+		      "term": "Brahmanism (S): ",
+		      "definition": "Polytheistic Indian religion based on ancient Vedic scriptures. Hinduism grew out of Brahmanism.",
+		      "pronunciation":"audio/brahmanism.mp3"
+		    },
+		    {
+		      "id":"15",	
+		      "term": "Buddha (S): ",
+		      "definition": "Awakened One. Often used to refer to the “historical Buddha,” Siddhartha Gautama, an Indian prince, probably born sometime in the 5th century. He achieved enlightenment and became known as Shakyamuni. In Mahayana Buddhism, Shakyamuni is but one of many past, present and future buddhas.",
+		      "pronunciation":"audio/buddha.mp3"
+		    },
+		    {
+		      "id":"16",	
+		      "term": "Buddhism (S):",
+		      "definition": "Religion based on the teachings of Shakyamuni Buddha. Its aim is to free beings from suffering and to lead them to awakening. In the Mahayana vehicle, numerous celestial buddhas and bodhisattvas assist in this goal.",
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"17",	
+		      "term": "Cave of Tidal Sound: ",
+		      "definition": "Cave on the southeast shore of Mount Putuo island in China. Pilgrims have had many visions of Guanyin at this site.",
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"18",	
+		      "term": "Celestial Buddha: ",
+		      "definition": "Fully enlightened being who plays an important role in the Mahayana Buddhist universe and presides over a Pure Land.",
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"19",	
+		      "term": "Chan Buddhism (C): ",
+		      "definition": "Buddhist school that emphasizes meditation, one-on-one encounters with teachers, and in some subsects, the study of koan (a paradoxical statement or question) and the belief in sudden, spontaneous awakening. Known as Zen Buddhism in Japan.",
+		      "pronunciation":"audio/chan.mp3"
+		    },
+		    {
+		      "id":"20",	
+		      "term": "Chenrezig (T): ",
+		      "definition": "One Who Continually Looks Upon All Beings With The Eye Of Compassion. Tibetan name for Avalokiteshvara. Chenrezig is thought to be the creator and protector of the Tibetan people. ",
+		      "pronunciation":"audio/chenrezig.mp3"
+		    },
+		    {
+		      "id":"21",	
+		      "term": "Dalai Lama (T): ",
+		      "definition": "Title of the spiritual leaders of Tibet since the 17th century. Each reincarnated holder of this title is considered one of Chenrezig’s emanations.",
+		      "pronunciation":"audio/dalai-lama.mp3"
+		    },
+		    {
+		      "id":"22",	
+		      "term": "Dharma (S): ",
+		      "definition": "Buddhist law; teachings of the Buddha.", 
+		      "pronunciation":"audio/dharma.mp3"
+		    },
+		    {
+		      "id":"23",	
+		      "term": "Dharma wheel: ",
+		      "definition": "Dharmachakra in Sanskrit. Symbol representing the Buddha's teachings.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"24",	
+		      "term": "Egaku (J): ",
+		      "definition": "Legendary Japanese monk who played a role in the founding of Mount Putuo as a pilgrimage site sacred to Avalokiteshvara.", 
+		      "pronunciation":"audio/egaku.mp3"
+		    },
+		    {
+		      "id":"25",	
+		      "term": "Eleven-headed Avalokiteshvara: ",
+		      "definition": "Ekadashamukha in Sanskrit; Juichimen in Japanese. Common esoteric form of the bodhisattva.",
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"26",	
+		      "term": "Esoteric Buddhism: ",
+		      "definition": "Often called Vajrayana. Buddhist vehicle that employs complex practices based on tantric texts. Esoteric deities often have multiple limbs and heads to signify increased powers and abilities.",
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"27",	
+		      "term": "Five Wisdom Buddhas: ",
+		      "definition": "Group of buddhas who head their respective families in an all-encompassing esoteric system. Amitabha is one of the Five Wisdom Buddhas, and Avalokiteshvara is a member of his retinue.",
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"28",	
+		      "term": "Fudarakusan (J): ",
+		      "definition": "Japanese localization of the Indian Potalaka, Avalokiteshvara’s sacred island. There are several Fudarakusan sites in Japan, including Mount Myoho at Nachi.",
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"29",	
+		      "term": "Fudarakudokai (J): ",
+		      "definition": "Crossing The Sea To Fudarakusan. Religious suicide ritual once performed at Nachi, sending a willing devotee on a one-way journey to Kannon’s imagined paradise Fudarakusan.", 
+		      "pronunciation":"audio/fudarakudokai.mp3"
+		    },
+		    {
+		      "id":"30",	
+		      "term": "Fudo Myoo (J): ",
+		      "definition": "Wrathful yet beneficial deity in Japanese esoteric Buddhism. ", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"31",	
+		      "term": "Gokuraku (J): ",
+		      "definition": "Japanese term for Sukhavati, Amida’s Pure Land.", 
+		      "pronunciation":"audio/gokuraku.mp3"
+		    },
+		    {
+		      "id":"32",	
+		      "term": "Guanyin (C): ",
+		      "definition": "Chinese name for Avalokiteshvara. A shortened form of Guanshiyin, which translates as Lord Who Perceives The Sounds Of The World. Often manifests as a female bodhisattva.",
+		      "pronunciation":"audio/guanyin.mp3"
+		    },
+		    {
+		      "id":"33",	
+		      "term": "Gyalug (T): ",
+		      "definition": "Term for a Tibetan painting style inspired by Chinese art.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"34",	
+		      "term": "Hayagriva (S): ",
+		      "definition": " “Horse-neck” wrathful form of Avalokiteshvara who is thought to cure diseases. Known as Bato Kannon in Japan",
+		      "pronunciation":"audio/hayagriva.mp3"
+		    },
+		    {
+		      "id":"35",	
+		      "term": "Heart Sutra",
+		      "definition": ": “Heart” or essence of the lengthy Prajnaparamita Sutra. Fundamental Mahayana Buddhist teaching delivered by Avalokiteshvara.",
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"36",	
+		      "term": "Heike Monogatari (J): ",
+		      "definition": "One of the great epics of Japanese medieval literature.",
+		      "pronunciation":"audio/heike-monogatari.mp3"
+		    },
+		    {
+		      "id":"37",	
+		      "term": "Jizo (J): ",
+		      "definition": "Savior bodhisattva who ministers to those in hell and escorts dying devotees to Amida’s Pure Land.", 
+		      "pronunciation":"audio/jizo.mp3"
+
+		    },
+		    {
+		      "id":"38", 
+		      "term":"Jodo ():",
+		      "definition":"", 
+		      "pronunciation":"audio/jodo.mp3"
+		    }, 
+		    {
+		      "id":"39",	
+		      "term": "Jokhang Temple (T): ",
+		      "definition": "Most important Buddhist temple in Tibet, located in Lhasa.  Houses a legendary statue of the Eleven-headed Avalokiteshvara, a focus of veneration.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"40",	
+		      "term": "Juichimen Kannon (J): ",
+		      "definition": "Eleven-headed Avalokiteshvara.", 
+		      "pronunciation":"audio/avalokiteshvara.mp3"
+
+		    },
+		    {
+		      "id":"41",	
+		      "term": "Kami (J): ",
+		      "definition": "Local gods who play a part in indigenous Japanese nature worship.", 
+		      "pronunciation":"audio/kami.mp3"
+		    },
+		    {
+		      "id":"42",	
+		      "term": "Kannon (J): ",
+		      "definition": "Japanese name for Avalokiteshvara. A shortened form of Kanzeon, which translates as Lord Who Perceives The Sounds Of The World. Often manifests as a female bodhisattva.", 
+		      "pronunciation":"audio/kannon.mp3"
+
+		    },
+		    {
+		      "id":"43",	
+		      "term": "Karma (S): ",
+		      "definition": "Action. A person’s accumulated karma determines rebirth in a specific realm of samsara.", 
+		      "pronunciation":"audio/karma.mp3"
+
+		    },
+		    {
+		      "id":"44",	
+		      "term": "Karunamaya (S): ",
+		      "definition": "Nepalese name for Avalokiteshvara. Karuna is the Sanskrit word for compassion.", 
+		      "pronunciation":"audio/Karunamaya.mp3"
+		    },
+		    {
+		      "id":"45",	
+		      "term": "Khasarpana (S): ",
+		      "definition": "Sky-gliding. Khasarpana Lokeshvara is an esoteric form of Avalokiteshvara, popular during the Pala period (8th-12th century) in India.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"46",	
+		      "term": "Kukai (J): ",
+		      "definition": "Monk and a proponent of esoteric Buddhism in Japan. He lived from 774-835.", 
+		      "pronunciation":"audio/Kukai.mp3"
+		    },
+		    {
+		      "id":"47",	
+		      "term": "Kumano (J): ",
+		      "definition": "Region in the southern part of Kii Peninsula. Kumano beliefs pay homage to local gods who are enshrined at Nachi.", 
+		      "pronunciation":"audio/kumano.mp3"
+		    },
+		    {
+		      "id":"48",	
+		      "term": "Literati art: ",
+		      "definition": "Paintings by artists outside of the official Chinese court. The literati painters generally worked in ink wash painting and focused on expressive brushstrokes.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"49",	
+		      "term": "Lokeshvara (S): ",
+		      "definition": "Lord Of The World. Common epithet of Avalokiteshvara.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"50",	
+		      "term": "Longnu (C): ",
+		      "definition": "Dragon Daughter. According to a traditional Chinese folk tale, she is Dragon King’s child and has decided to become Guanyin’s disciple after the bodhisattva saved her brother.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"51",	
+		      "term": "Lotus Sutra: ",
+		      "definition": "Early and influential Mahayana Buddhist scripture. Includes a chapter entirely dedicated to Avalokiteshvara, in which he takes thirty-three different forms in order to alleviate the suffering of all beings through his endless compassion.", 
+		      "pronunciation":""
+		    },
+		    {
+		       "id":"52",	
+		      "term": "Mahayana Buddhism (S): ",
+		      "definition": "Great Vehicle. Appearing early in the first millennium, this vehicle evolved—and also departed—from the earliest Buddhist schools.  Its philosophy and practices place special emphasis on bodhisattvas and their mission. It also includes a vast number of celestial buddhas who preside over innumerable Pure Lands.",
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"53",	
+		      "term": "Mala (S): ",
+		      "definition": "Prayer beads that assist practitioners in reciting prayers or mantras.",
+		       "pronunciation":"audio/mala.mp3"
+
+		    },
+		    {
+		      "id":"54",	
+		      "term": "Mandala (S): ",
+		      "definition": "A geometric cosmological diagram used in rituals and meditation. The most common type represents a deity in his or her palace.",
+		      "pronunciation":"audio/mandala.mp3"
+
+		    },
+		    {
+		      "id":"55",	
+		      "term": "Mandorla: ",
+		      "definition": "Full body halo.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"56",	
+		      "term": "Mani mantra (S): ",
+		      "definition": "Mantra associated with Avalokiteshvara that consists of six Sanskrit syllables, om mani padme hum.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"57",	
+		      "term": "Mani stone (S): ",
+		      "definition": "Rock inscribed with the mani mantra, thought to sanctify the area where it is located.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"58",	
+		      "term": "Mantra (S): ",
+		      "definition": "Sacred utterance used in Buddhist practice", 
+		      "pronunciation":"audio/mantra.mp3"
+		    },
+		    {
+		      "id":"59",	
+		      "term": "Ming dynasty (C): ",
+		      "definition": "Ruling dynasty from 1368 to 1644.", 
+		      "pronunciation":"audio/ming-dynasty.mp3"
+		    },
+		    {
+		      "id":"60",	
+		      "term": "Mount Myoho (J): ",
+		      "definition": "Mountain at Nachi that represents Potalaka.", 
+		      "pronunciation":"audio/mount-myoho.mp3"
+		    },
+		    {
+		      "id":"61",	
+		      "term": "Mount Putuo (C): ",
+		      "definition": "Hilly island in the South China Sea near Ningbo that represents Potalaka.", 
+		      "pronunciation":"audio/mount-putuo.mp3"
+		    },
+		    {
+		      "id":"62",	
+		      "term": "Mudra (S): ",
+		      "definition": "Gesture, usually made with the hands or fingers, which symbolizes an exalted quality.", 
+		      "pronunciation":"audio/mudra.mp3"
+
+		    },
+		    {
+		      "id":"63",	
+		      "term": "Nachi (J): ",
+		      "definition": "Pilgrimage site sacred to both Kannon and indigenous deities. It is the first station on the Saigoku Pilgrimage circuit.", 
+		      "pronunciation":"audio/nachi.mp3"
+
+		    },
+		    {
+		      "id":"64",	
+		      "term": "Northern Song Dynasty (C): ",
+		      "definition": "A dynasty from 960 to 1127.", 
+		      "pronunciation":"audio/nothern-song-dynasty.mp3"
+		    },
+		    {
+		      "id":"65",	
+		      "term": "Nyoirin Kannon (J): ",
+		      "definition": "Esoteric form of Avalokiteshvara widely worshipped throughout Japan. Nyoi refers to the wish-fulfulling jewel; rin means dharma wheel.", 
+		      "pronunciation":"audio/nyoirin-kannon.mp3"
+		    },
+		    {
+		      "id":"66",	
+		      "term": "Nyoirindo (J): ",
+		      "definition": "Building that originally housed the principal icon of Nyoirin Kannon at Nachi.", 
+		      "pronunciation":"audio/nyoirindo.mp3"
+		    },
+		    {
+		      "id":"67",	
+		      "term": "Ofuda (J): ",
+		      "definition": "Amulet or stamp issued by a temple or shrine, printed with an icon from the site.", 
+		      "pronunciation":"audio/ofuda.mp3"
+
+		    },
+		    {		      
+		      "id":"68",	
+		      "term": "Om mani padme hum (S): ",
+		      "definition": "Six-syllable mantra associated with Shadakshari Lokeshvara. Mani means jewel and padme refers to lotus, both attributes of Avalokiteshvara.", 
+		      "pronunciation":"audio/om-mami-padme-hum.mp3"
+		    },
+		    {
+		      "id":"69",	
+		      "term": "Padma (S): ",
+		      "definition": "Lotus. One of Avalokiteshvara’s primary attributes.", 
+		      "pronunciation":"audio/padma.mp3"
+
+		    },
+		    {
+		      "id":"70",	
+		      "term": "Padmapani (S): ",
+		      "definition": "Bearer of the Lotus. One of Avalokiteshvara’s most common early forms.", 
+		       "pronunciation":"audio/padmapani.mp3"
+
+		    },
+		    {
+		      "id":"71",	
+		      "term": "Padmasana (S): ",
+		      "definition": "Yogic cross-legged position associated with meditative concentration.", 
+		      "pronunciation":"audio/padmasana.mp3"
+		    },
+		    {
+		      "id":"72",	
+		      "term": "Parinirvana (S): ",
+		      "definition": "Death and final liberation of one who has achieved complete awakening.", 
+		      "pronunciation":"audio/parinirvana.mp3"
+		    },
+		    {
+		      "id":"73",	
+		      "term": "Phagpa Lokeshvara (T; S): ",
+		      "definition": "Noble Lord of the World. Venerated icon in the Potala Palace. Many replicas of this statue were made.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"74",	
+		      "term": "Potala Palace (S): ",
+		      "definition": "Residence of early Tibetan king Songtsen Gampo and the Dalai Lamas. The name refers to Avalokiteshvara’s sacred island.", 
+		      "pronunciation":"audio/potala-palace.mp3"
+		    },
+		    {
+		      "id":"75",	
+		      "term": "Potalaka (S): ",
+		      "definition": "Legendary mountain island where Avalokiteshvara dwells.", 
+		      "pronunciation":"audio/potalaka.mp3"
+		    },
+		    {
+	          "id":"76",	
+		      "term": "Prajnaparamita Sutra (S): ",
+		      "definition": "Perfection of Wisdom Sutra. One of the earliest and most important compilations of scriptures in Mahayana Buddhism. Contains the Heart Sutra.", 
+		      "pronunciation":"audio/prajnaparamita-sutra.mp3"
+		    },
+		    {
+		      "id":"77",	
+		      "term": "Pure Land: ",
+		      "definition": "Realm prepared and purified by a buddha such as Amitabha, where his followers can quickly progress toward enlightenment.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"78",	
+		      "term": "Pure Land Buddhism: ",
+		      "definition": "Tradition of Amitabha worship in which devotees aim to ascend to his Pure Land.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"79",	
+		      "term": "Qing dynasty (C): ",
+		      "definition": "Ruling dynasty from 1644 to 1911.", 
+		      "pronunciation":"audio/qing-dynasty.mp3"
+		    },
+		    {
+		      "id":"80",	
+		      "term": "Raigo (J): ",
+		      "definition": "Pure Land tradition of Welcoming Descent, in which Amida and his bodhisattva entourage come down from Gokuraku to greet dying devotees.", 
+		      "pronunciation":"audio/raigo.mp3"
+		    },
+		    {
+		      "id":"81",	
+		      "term": "Rakta Yamari (S): ",
+		      "definition": "Tantric Buddhist wrathful deity, known as the Red Enemy of Death. He protects his followers from harm", 
+		      "pronunciation":"audio/rakta-yamari.mp3"
+		    },
+		    {
+		      "id":"82",	
+		      "term": "Royal Ease: ",
+		      "definition": "Seated position in which one arm is poised on a raised knee while the other leg is either horizontal or pendant. Common posture for bodhisattvas.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"83",	
+		      "term": "Saigoku Pilgrimage (J): ",
+		      "definition": "One of the most popular circuits in Japan. It is dedicated to Kannon and consists of thirty-three sites in the Western Provinces.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"84",	
+		      "term": "Sambhogakaya (S): ",
+		      "definition": "Realm occupied by celestial buddhas and advanced bodhisattvas.", 
+		      "pronunciation":"audio/sambhogakaya.mp3"
+		    },
+		    {
+		      "id":"85",	
+		      "term": "Samsara (S): ",
+		      "definition": "Continuous cycle of birth, life and death that sentient beings endure until achieving enlightenment. Buddhist texts describe six realms that constitute samsara: god, demigod, human, animal, hungry ghost, and hell.", 
+		      "pronunciation":"audio/samsara.mp3"
+
+		    },
+		    {
+		      "id":"86",	
+		      "term": "Sanskrit: ",
+		      "definition": "Scholarly language of ancient and medieval Indian scriptures.",
+		      "pronunciation":"audio/sanskrit.mp3"
+		    },
+		    {
+		      "id":"87",	
+		      "term": "Seigantoji (J): ",
+		      "definition": "Temple at Nachi where the principal icon of Nyoirin Kannon is currently housed.", 
+		      "pronunciation":"audio/seigantoji.mp3"
+		    },
+		    {
+		      "id":"88",	
+		      "term": "Seishi (J): ",
+		      "definition": "Bodhisattva who—along with Kannon—usually flanks Amida in Pure Land triads.", 
+		      "pronunciation":"audio/seishi.mp3"
+		    },
+		    {
+		      "id":"89",	
+		      "term": "Shadakshari Lokeshvara (S): ",
+		      "definition": "Lord Of The Six Syllables. This form of Avalokiteshvara is visualized when repeating the mani mantra.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"90",	
+		      "term": "Shakyamuni (S): ",
+		      "definition": "Sage of the Shakyas. Name that Siddhartha Gautama acquired once he achieved enlightenment and became a buddha.", 
+		      "pronunciation":"shakyamuni"
+		    },
+		    {
+		      "id":"91",	
+		      "term": "Shancai (C): ",
+		      "definition": "Sudhana in Sanskrit. Boy pilgrim from the Avatamsaka Sutra.", 
+		      "pronunciation":"audio/shancai.mp3"
+
+		    },
+		    {
+		      "id":"92",	
+		      "term": "Shinto (J): ",
+		      "definition": "Refers to the veneration of kami, the local gods in Japan.", 
+		      "pronunciation":"audio/shinto.mp3"
+
+		    },
+		    {
+		      "id":"93",	
+		      "term": "Songtsen Gampo (T): ",
+		      "definition": "First Tibetan king to patronize Buddhism. Believed to be an emanation of Avalokiteshvara.", 
+		      "pronunciation":"audio/songsten-gampo.mp3"
+
+		    },
+		    {
+		      "id":"94",	
+		      "term": "Songzi Guanyin (C): ",
+		      "definition": "Feminine form of Avalokiteshvara who bestows children on supplicants.", 
+		      "pronunciation":"audio/songzi-guanyin.mp3"
+
+		    },
+		    {
+		      "id":"95",	
+		      "term": "Suchimukha (S): ",
+		      "definition": "Hungry ghost who is fed nectar from Khasarpana Lokeshvara’s hand. His name means “needle-necked” or “needle-face.”", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"96",	
+		      "term": "Sudhana (S): ",
+		      "definition": "Youth seeking enlightenment in the Avatamsaka Sutra. Also called Sudhanakumara. Known as Shancai or Shancaitongzi in Chinese.", 
+		      "pronunciation":"audio/sudhana.mp3"
+		    },
+		    {
+		      "id":"97",	
+		      "term": "Sukhavati (S): ",
+		      "definition": "Realm of Bliss. Amitabha’s Pure Land.", 
+		      "pronunciation":"audio/sukhavati.mp3"
+		    },
+		    {
+		      "id":"98",	
+		      "term": "Sumidera (J): ",
+		      "definition": "Temple located in the northeast corner (J: sumi) of ancient Nara.  The temple’s location gives the Sumidera Heart Sutra its name.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"99",	
+		      "term": "Sutra (S): ",
+		      "definition": "Indian scriptures. Buddhist sutras contain Shakyamuni’s teachings.", 
+		      "pronunciation":"audio/sutra.mp3"
+
+		    },
+		    {
+		      "id":"100",	
+		      "term": "Tang dynasty (C): ",
+		      "definition": "Ruling dynasty from 618 to 907", 
+		      "pronunciation":"audio/tang-dynasty.mp3"
+
+		    },
+		    {
+		      "id":"101",	
+		      "term": "Tantra (S): ",
+		      "definition": "Teachings and practices found in esoteric texts that began to appear in India around the 7th century.", 
+		      "pronunciation":"audio/tantra.mp3"
+
+		    },
+		    {
+		      "id":"102",	
+		      "term": "Tantric Buddhism: ",
+		      "definition": "Mahayana Buddhist vehicle that employs visualizations, mandalas, mantras, yogic postures, mudras, and techniques for utilizing the body’s subtle energies.", 
+		      "pronunciation":""
+		    },
+		    {
+		      "id":"103",	
+		      "term": "Tara (S): ",
+		      "definition": "Goddess considered an emanation of Avalokiteshvara and thus a powerful embodiment of compassion. Although often depicted as the bodhisattva’s attendant, she is also worshipped as an independent deity.", 
+		      "pronunciation":"audio/tara.mp3"
+
+		    },
+		    {
+		      "id":"104",	
+		      "term": "Thangka (T): ",
+		      "definition": "Tibetan religious painting on cloth employed to help visualize a deity during meditation, memorialize a deceased loved one, or heal sickness. Creating or commissioning a thangka also helps to accumulate merit for both the artist and the patron.", 
+		      "pronunciation":"audio/thangka.mp3"
+
+		    },
+		    {
+		      "id":"105",	
+		      "term": "Thousand-armed Avalokiteshvara: ",
+		      "definition": "Sahasrabhujalokeshvara in Sanskrit. Common esoteric form of the bodhisattva.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"106",	
+		      "term": "Tridanda (S): ",
+		      "definition": "Triple rod or three-pronged stick associated with ascetics.", 
+		      "pronunciation":""
+
+		    },
+		    {
+		      "id":"107",	
+		      "term": "Vajra Vetali (S): ",
+		      "definition": "Fierce female protector, the consort of Rakta Yamari.", 
+		      "pronunciation":"audio/vajra-vetali.mp3"
+
+		    },
+		    {
+		      "id":"108",	
+		      "term": "Vajrayana (S): ",
+		      "definition": "Diamond or Adamantine vehicle. Branch of Mahayana Buddhism characterized by tantric practices.", 
+		      "pronunciation":"audio/vajrayana.mp3"
+		    },
+		    {
+		      "id":"109",	
+		      "term": "Varada mudra (S): ",
+		      "definition": "Gift-giving gesture that bestows compassion. Performed with the hand extended downward and palm facing out.", 
+		      "pronunciation":"audio/varada-mudra.mp3"
+		    },
+		    {
+		      "id":"110",	
+		      "term": "Vitarka mudra (S): ",
+		      "definition": "Gesture that indicates the teaching or discussion of the dharma.  Made with hand raised and index finger touching the thumb, forming a circle that symbolizes a dharma wheel.", 
+		      "pronunciation":"audio/vitarka-mudra.mp3"
+
+		    },
+		    {
+		      "id":"111",	
+		      "term": "Water-moon Kannon: ",
+		      "definition": "Derived from an indigenous Chinese form, this manifestation of the Japanese Avalokiteshvara sits a relaxed posture, often in a rocky setting suggesting Potalaka. A large full-moon nimbus envelops the bodhisattva.", 
+		      "pronunciation":"audio/water-moon-guanyin.mp3"
+		    },
+		    {
+		      "id":"112",	
+		      "term": "White-robed Guanyin: ",
+		      "definition": "Indigenous Chinese form of Avalokiteshvara. Derived from the Water-moon form, but this manifestation is dressed in a more austere white garment. Favorite subject of Chan/Zen artists. ", 
+		      "pronunciation":"audio/white-robed-guanyin.mp3"
+		    },
+		    {
+		      "id":"113",	
+		      "term": "Wish-fulfilling jewel: ",
+		      "definition": "Chintamani in Sanskrit. One of Avalokiteshvara’s characteristic attributes, symbolizing the ability to fulfill all wishes.", 
+		      "pronunciation":""
+		    },
+		   {
+		   	  "id":"114",	
+		      "term": "Zen Buddhism (J): ",
+		      "definition": "Japanese Buddhist school that emphasizes meditation, one-on-one encounters with teachers, and in some subsects, the study of koan (a paradoxical statement or question) and the belief in sudden, spontaneous awakening. Evolved from Chinese Chan Buddhism.", 
+		      "pronunciation":"audio/zen-buddhism.mp3"
+		    }
+		   
+		  ]

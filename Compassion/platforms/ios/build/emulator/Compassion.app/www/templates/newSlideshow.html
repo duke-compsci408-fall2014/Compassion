@@ -1,0 +1,19 @@
+<ion-view title="slideshow">
+  <ion-nav-buttons side="right">
+    <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content class="has-header theme-page">
+
+	  <div class="card" ng-repeat="artifact in artifacts">
+		<a class="artifact-header" href="#/app/artifacts/category/{{currentTheme}}/{{artifact.id}}">
+		  <div class="item">
+		    <h3>{{artifact.name}}</h3>
+		  </div>
+		  <div class="item item-image">
+		    <img src="{{artifact.imageURL}}">
+		  </div>
+		</a>
+	</div>
+
+  </ion-content>
+</ion-view>

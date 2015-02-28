@@ -92,7 +92,7 @@ ion-side-menu ion-content {
 
 .enter .wrapper {
 	position: absolute;
-	top: 300px;
+	top: 200px;
 	width: 100%;
 }
 .enter .title-header {
@@ -399,7 +399,7 @@ ion-side-menu ion-content {
 }
 
 .row.banner-image {
-	height: 100px;
+	height: 90px;
 	background: url('../img/about_background.jpg') no-repeat;
 	background-size: cover;
 	width: 100%;
@@ -442,7 +442,6 @@ ion-side-menu ion-content {
 	width: 100%;
 	height: 100%;
 	top: 10%;
-	transform: translateY(-50%) !important;
 }
 
 .artifact-page .scroll {

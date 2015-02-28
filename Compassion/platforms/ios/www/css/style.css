@@ -399,7 +399,7 @@ ion-side-menu ion-content {
 }
 
 .row.banner-image {
-	height: 100px;
+	height: 150px;
 	background: url('../img/about_background.jpg') no-repeat;
 	background-size: cover;
 	width: 100%;

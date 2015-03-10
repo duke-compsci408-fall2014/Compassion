@@ -11,7 +11,7 @@ angular.module('starter')
         }
       });
 })
-.controller('CompareCtrl', function($scope, $stateParams, $http){
+.controller('CompareCtrl', function($scope, $stateParams, $http, $sce){
 
 	$scope.captionVisible = true;
 
@@ -30,9 +30,14 @@ angular.module('starter')
       	
       	
         $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId -1].comparativeImages;
-        console.log($scope.artifacts); 
-        $scope.originalImage = $scope.artifacts[$stateParams.artifactId -1];   
+        $scope.originalImage = $scope.artifacts[$stateParams.artifactId -1]; 
+        $scope.playlist = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.compId - 1].audio2);
+  
     });
+
+    console.log($scope.artifacts[0]); 
+
+
 
 });
 

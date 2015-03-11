@@ -12,6 +12,27 @@
                <div class="overlay-caption" ng-show="captionVisible">{{image.caption}}</div>
          </div>
      </div>
+
+     <div class="caption-tabs">
+      <a class="tab-item" ng-class="{active:tab===1}" ng-click="tab = 1">
+        Text
+         
+      </a>
+      <a class="tab-item" ng-class="{active:tab===2}" ng-click="tab = 2">
+        Audio
+      </a>
+    </div>
+
+     <div class="caption">
+      <p ng-show="tab === 1"> {{image.text}}</p>
+      <p ng-show="tab === 2">
+      <iframe width="100%" height="150" scrolling="no" frameborder="no" src="{{playlist}}">  
+      </iframe>
+
+      </p>
+    </div> 
+
+    </div>
      <div class="text-caption"> {{image.text}}</div>
     </div>
   </ion-content>

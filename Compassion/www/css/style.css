@@ -399,10 +399,10 @@ ion-side-menu ion-content {
 }
 
 .row.banner-image {
-	height: 90px;
+	height: 83px;
 	background: url('../img/about_background.jpg') no-repeat;
 	background-size: cover;
-	width: 100%;
+	width: 104%;
 }
 
 

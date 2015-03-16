@@ -69,6 +69,7 @@ angular.module('starter')
 
   $scope.curArtId = $stateParams.artifactId;
   $scope.themeId = $stateParams.catId;
+  $scope.returnAddress = ""
 
   $scope.tab = 1;
   $scope.overlay = true;
@@ -77,8 +78,14 @@ angular.module('starter')
   };
 
   $scope.goBack = function() {
-    //window.history.back();
 
+    if($scope.themeId == "")
+       $scope.returnAddress += "#/app/slideshow"
+      //window.history.back();
+    $scope.returnAddress += "#/app/themes/"
+    $scope.returnAddress += $scope.themeId
+
+    console.log( $scope.returnAddress)
    };
 
   $scope.imageURLToShare = function(imageURL){

@@ -136,6 +136,7 @@ angular.module('starter')
     $scope.audioUrl = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audio);
     $scope.audioUrl2 = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audiob);
     $scope.playlist = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audio2);
+    
     $scope.location = $scope.artifacts[$stateParams.artifactId - 1].location;
   });
 

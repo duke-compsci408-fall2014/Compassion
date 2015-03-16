@@ -664,6 +664,10 @@ ion-side-menu ion-content {
 	clear: both
 }
 
+.compare-page .active {
+	background-color: #a87e01;
+}
+
 
 /* where page */
 

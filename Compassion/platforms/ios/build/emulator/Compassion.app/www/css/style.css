@@ -710,9 +710,21 @@ ion-side-menu ion-content {
 }
 
 /*popover*/
-.popover{
-	color: black
+.popover .item{
+	background-color: black; 
+	color: white;
 }
+
+.popover .scroll-content{
+	height: 100px; 
+	width: 100px;
+}
+
+.popover{ 
+	height: 100px; 
+	width: 100px;
+}
+
 
 /* Where page*/
 
@@ -732,4 +744,5 @@ background-repeat: no-repeat;
     border-top: 1px solid #ccc;
     padding-top: 10px;
 }
+
 

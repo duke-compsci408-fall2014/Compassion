@@ -30,9 +30,23 @@ angular.module('starter')
       	
       	
         $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId -1].comparativeImages;
-        console.log($scope.comparativeImages)
         $scope.originalImage = $scope.artifacts[$stateParams.artifactId -1]; 
+        
         $scope.playlist = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.compId - 1].audio2);
+        $scope.comparativeImages[0].audio = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.compId - 1].audio2);
+
+        if($scope.comparativeImages[1] !== undefined )
+          $scope.comparativeImages[1].audio = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.compId - 1].audio3);
+        
+        if($scope.comparativeImages[2] !== undefined )
+          $scope.comparativeImages[2].audio = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.compId - 1].audio4);
+        
+        if($scope.comparativeImages[3] !== undefined )
+          $scope.comparativeImages[3].audio = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.compId - 1].audio5);
+        
+
+        console.log($scope.comparativeImages)
+      
 
     });
 

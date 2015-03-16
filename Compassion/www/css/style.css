@@ -228,6 +228,7 @@ ion-side-menu ion-content {
 
 .terms-page .pronounce {
 	margin-left: 10px;
+	font-size:20px;
 }
 
 .terms-page .item {
@@ -242,6 +243,10 @@ ion-side-menu ion-content {
 	font-size: .8em;
 }
 
+.my-button,
+.my-button:before{
+  font-size:36px;
+}
 
 /* artifact search page */ 
 
@@ -255,6 +260,7 @@ ion-side-menu ion-content {
 
 .artifact-search-page .pronounce {
 	margin-left: 10px;
+
 }
 
 .artifact-search-page .item {

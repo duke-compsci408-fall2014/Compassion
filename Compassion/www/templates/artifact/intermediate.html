@@ -8,7 +8,7 @@
     	<div class="card">
     		  <div class="item item-image" ng-click="toggleOverlay()">
     		  	<img class="img" src="{{imageURL}}"/>
-            <div class="info-section" ng-show="overlay === true">
+            <div class="info-section" ng-show="overlay === false">
                 <p class="info-text">{{artifactCaption}}</p>
               <div class="info-back"></div>
             </div>
@@ -24,7 +24,7 @@
          
       </a>
       <a class="tab-item" ng-class="{active:tab===2}" ng-click="tab = 2">
-       {{audioUrl2}}
+        Audio 
       </a>
 
     </div>

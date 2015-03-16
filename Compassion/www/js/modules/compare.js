@@ -13,7 +13,7 @@ angular.module('starter')
 })
 .controller('CompareCtrl', function($scope, $stateParams, $http, $sce){
 
-	$scope.captionVisible = true;
+	$scope.captionVisible = false;
 
 	$scope.toggleCaptionVisibility = function() {
 		$scope.captionVisible = !$scope.captionVisible;

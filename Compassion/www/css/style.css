@@ -198,8 +198,9 @@ ion-side-menu ion-content {
 
 
 .about-page .about-text {
-	color: #a87e01;
+	color: white;
 	padding: 20px;
+	font-size: 15px;
 }
 
 /* credits page */
@@ -211,6 +212,7 @@ ion-side-menu ion-content {
 
 .credits-page .credits-text {
 	padding: 20px;
+	font-size: 15px;
 }
 
 
@@ -229,6 +231,7 @@ ion-side-menu ion-content {
 
 .terms-page .pronounce {
 	margin-left: 10px;
+	font-size:20px;
 }
 
 .terms-page .item {
@@ -240,9 +243,13 @@ ion-side-menu ion-content {
 	text-decoration: none;
 	font-weight: bold;
 	color: #FFFFFF !important;
-	font-size: .8em;
+	font-size: 15px;
 }
 
+.my-button,
+.my-button:before{
+  font-size:36px;
+}
 
 /* artifact search page */ 
 
@@ -256,6 +263,7 @@ ion-side-menu ion-content {
 
 .artifact-search-page .pronounce {
 	margin-left: 10px;
+
 }
 
 .artifact-search-page .item {
@@ -366,7 +374,8 @@ ion-side-menu ion-content {
 .theme-description p {
 	padding: 20px;
 	margin: 0px;
-	color: #a87e01;
+	color: white;
+	font-size: 15px;
 }
 
 .theme-description {
@@ -400,10 +409,10 @@ ion-side-menu ion-content {
 }
 
 .row.banner-image {
-	height: 90px;
+	height: 83px;
 	background: url('../img/about_background.jpg') no-repeat;
 	background-size: cover;
-	width: 100%;
+	width: 104%;
 }
 
 
@@ -530,6 +539,12 @@ ion-side-menu ion-content {
 	white-space: normal;
 }
 
+.intermediate .text {
+	color: white;
+	font-size: 15px;
+}
+
+
 /* details */
 
 .details {
@@ -538,6 +553,10 @@ ion-side-menu ion-content {
 
 .details h4 {
 	text-align: center;
+}
+
+.details .header{ 
+	font-size: 15px
 }
 
 .details .img {
@@ -621,6 +640,35 @@ ion-side-menu ion-content {
 	padding: 20px;
 }
 
+.compare-page .text{ 
+	font-size: 15px; 
+}
+
+.compare-page .caption-tabs {
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.compare-page .caption-tabs a {
+	position: relative;
+	float: left;
+	min-width: 50%;
+	height: 40px;
+	line-height: 40px;
+}
+
+.compare-page .caption {
+	position: relative;
+	margin-top: 10px;
+	padding: 20px;
+	clear: both
+}
+
+.compare-page .active {
+	background-color: #a87e01;
+}
+
 
 /* where page */
 
@@ -663,9 +711,21 @@ ion-side-menu ion-content {
 }
 
 /*popover*/
-.popover{
-	color: black
+.popover .item{
+	background-color: black; 
+	color: white;
 }
+
+.popover .scroll-content{
+	height: 100px; 
+	width: 100px;
+}
+
+.popover{ 
+	height: 100px; 
+	width: 100px;
+}
+
 
 /* Where page*/
 
@@ -685,4 +745,5 @@ background-repeat: no-repeat;
     border-top: 1px solid #ccc;
     padding-top: 10px;
 }
+
 

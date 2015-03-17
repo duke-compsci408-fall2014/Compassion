@@ -2,6 +2,7 @@
   <ion-nav-buttons side="right">
     <button menu-toggle="right" class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
+  
   <ion-content>
   	<h4>Related Media</h4>
 	<div class="padding row">
@@ -21,13 +22,10 @@
 			</div>
 		</div>
 	</div>
-	<div class="music-player" >
-	{{videoUrl}}
-		<iframe width="100%" height="150" src="{{playlist}}" frameborder="0" allowfullscreen></iframe>
-	</div>
+	
 	
 	<div class="compare-section">
-		<h5 class="header">Compare with</h5>
+		<p class="header">Compare with</p>
 		<a ng-href="#/app/artifacts/details/{{curArtId}}/compare/{{curArtId}}" ng-repeat="image in comparativeImages">
 
          <div class="compare-image" style="background-image:url('{{image.imageURL}}')"> 

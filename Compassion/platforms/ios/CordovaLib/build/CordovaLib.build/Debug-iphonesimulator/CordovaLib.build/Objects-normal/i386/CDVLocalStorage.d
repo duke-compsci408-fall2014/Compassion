@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVAvailabilityDeprecated.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDV.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVViewController.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVWhitelist.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVDebug.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVTimer.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSData+Base64.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h \
-  /Users/leonardngeno/Documents/git/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVJSON.h
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVAvailabilityDeprecated.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDV.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVViewController.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVDebug.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVTimer.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSData+Base64.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h \
+  /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/CordovaLib/Classes/CDVJSON.h

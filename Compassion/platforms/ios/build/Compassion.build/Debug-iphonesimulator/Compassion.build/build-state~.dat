@@ -1,0 +1,970 @@
+TCompassion
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh
+cCpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app/icon-76.png
+cCpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.png
+cCpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png
+cCpResource Compassion/Resources/splash/Default-736h.png build/emulator/Compassion.app/Default-736h.png
+cCpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png
+cCompileXIB /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.xib
+cCpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.png
+cCpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png
+cCpResource Compassion/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Compassion.app/Default-Landscape@2x~ipad.png
+cCpResource Compassion/Resources/splash/Default-Landscape~ipad.png build/emulator/Compassion.app/Default-Landscape~ipad.png
+cCpResource Compassion/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Compassion.app/Default-Portrait@2x~ipad.png
+cCpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png
+cCpResource Compassion/Resources/splash/Default-Portrait~ipad.png build/emulator/Compassion.app/Default-Portrait~ipad.png
+cCpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png
+cCpResource Compassion/Resources/splash/Default-667h.png build/emulator/Compassion.app/Default-667h.png
+cCpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png
+cCpResource Compassion/Resources/splash/Default@2x~iphone.png build/emulator/Compassion.app/Default@2x~iphone.png
+cCpResource Compassion/Resources/splash/Default~iphone.png build/emulator/Compassion.app/Default~iphone.png
+cCpResource Compassion/Resources/splash/Default-568h@2x~iphone.png build/emulator/Compassion.app/Default-568h@2x~iphone.png
+cCpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png
+cCpResource Compassion/Resources/splash/Default-Landscape-736h.png build/emulator/Compassion.app/Default-Landscape-736h.png
+cCpResource Compassion/Resources/icons/icon-60@3x.png build/emulator/Compassion.app/icon-60@3x.png
+cCpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png
+cCpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.png
+cCpResource Compassion/Resources/icons/icon-76@2x.png build/emulator/Compassion.app/icon-76@2x.png
+cCpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.png
+cProcessPCH /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch Compassion/Compassion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion normal i386
+cGenerateDSYMFile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
+cTouch /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053E2405200000000000003B4
+t1407336530
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053E2405A000000000000019E
+t1407336538
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c0000000053E2405C0000000000059340
+t1407336540
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053E2405D0000000000446820
+t1407336541
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c0000000053E2406000000000002E5520
+t1407336544
+s3036448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000053E2405F00000000001BE790
+t1407336543
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+c0000000053E240610000000000222210
+t1407336545
+s2236944
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m
+c0000000054FF7B5F0000000000001680
+t1426029407
+s5760
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m
+c0000000054FF7B5F0000000000001148
+t1426029407
+s4424
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.xib
+c0000000054FF7B5F0000000000001759
+t1426029407
+s5977
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist
+c000000005506849500000000000016D6
+t1426490517
+s5846
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Prefix.pch
+c0000000054FF7B5F00000000000003C3
+t1426029407
+s963
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m
+c0000000054FF7B5F0000000000006365
+t1426029407
+s25445
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m
+c0000000054FF7B5F0000000000002ADF
+t1426029407
+s10975
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m
+c0000000054FF7B5F000000000000A6DF
+t1426029407
+s42719
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m
+c0000000054FF7B5F00000000000077E7
+t1426029407
+s30695
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m
+c0000000054FF7B5F00000000000078BB
+t1426029407
+s30907
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40.png
+c0000000054FF7B5F0000000000000FF2
+t1426029407
+s4082
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40@2x.png
+c0000000054FF7B5F0000000000001CF3
+t1426029407
+s7411
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50.png
+c0000000054FF7B5F000000000000130A
+t1426029407
+s4874
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50@2x.png
+c0000000054FF7B5F000000000000258B
+t1426029407
+s9611
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60.png
+c00000000550684950000000000000FF7
+t1426490517
+s4087
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60@2x.png
+c0000000054FF7B5F0000000000002E94
+t1426029407
+s11924
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60@3x.png
+c0000000054FF7B5F0000000000007583
+t1426029407
+s30083
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72.png
+c000000005506849500000000000013FB
+t1426490517
+s5115
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72@2x.png
+c00000000550684950000000000003251
+t1426490517
+s12881
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76.png
+c0000000054FF7B5F0000000000001B71
+t1426029407
+s7025
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76@2x.png
+c0000000054FF7B5F0000000000003B9E
+t1426029407
+s15262
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small.png
+c00000000550684950000000000000CAA
+t1426490517
+s3242
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small@2x.png
+c00000000550684950000000000001E2C
+t1426490517
+s7724
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon.png
+c00000000550684950000000000000F01
+t1426490517
+s3841
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon@2x.png
+c000000005506849500000000000023F6
+t1426490517
+s9206
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-568h@2x~iphone.png
+c0000000054FF7B5F00000000000085B1
+t1426029407
+s34225
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-667h.png
+c0000000054FF7B5F000000000000E0BC
+t1426029407
+s57532
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-736h.png
+c0000000054FF7B5F0000000000013C21
+t1426029407
+s80929
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-Landscape-736h.png
+c0000000054FF7B5F0000000000013683
+t1426029407
+s79491
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000054FF7B5F0000000000033D0A
+t1426029407
+s212234
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-Landscape~ipad.png
+c0000000054FF7B5F00000000000166A2
+t1426029407
+s91810
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000054FF7B5F0000000000033F7C
+t1426029407
+s212860
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-Portrait~ipad.png
+c0000000054FF7B5F0000000000016641
+t1426029407
+s91713
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default@2x~iphone.png
+c0000000054FF7B5F0000000000007323
+t1426029407
+s29475
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default~iphone.png
+c0000000054FF7B5F000000000000289A
+t1426029407
+s10394
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m
+c0000000054FF7B5F000000000000045C
+t1426029407
+s1116
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o
+t1426490541
+s76984
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o
+t1426490541
+s48088
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o
+t1426490541
+s193040
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o
+t1426490541
+s77528
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o
+t1426490542
+s138060
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/Compassion.LinkFileList
+c00000000550684A90000000000000558
+t1426490537
+s1368
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o
+t1426490541
+s51112
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o
+t1426490541
+s147104
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o
+t1426490541
+s3036
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh
+c0000000054FF7B5F000000000000002D
+t1426029407
+s45
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app
+t1426490544
+s1088
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM
+t1426029407
+s102
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
+t1426490544
+s512908
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-568h@2x~iphone.png
+t1426029407
+s34225
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-667h.png
+t1426029407
+s57532
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-736h.png
+t1426029407
+s80929
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-Landscape-736h.png
+t1426029407
+s79491
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-Landscape@2x~ipad.png
+t1426029407
+s212234
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-Landscape~ipad.png
+t1426029407
+s91810
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-Portrait@2x~ipad.png
+t1426029407
+s212860
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default-Portrait~ipad.png
+t1426029407
+s91713
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default@2x~iphone.png
+t1426029407
+s29475
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Default~iphone.png
+t1426029407
+s10394
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist
+t1426490537
+s1934
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/MainViewController.nib
+t1426029407
+s892
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/PkgInfo
+t2
+s0
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40.png
+t1426029407
+s4082
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40@2x.png
+t1426029407
+s7411
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50.png
+t1426029407
+s4874
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50@2x.png
+t1426029407
+s9611
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60.png
+t1426490540
+s4087
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60@2x.png
+t1426029407
+s11924
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60@3x.png
+t1426029407
+s30083
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72.png
+t1426490540
+s5115
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72@2x.png
+t1426490540
+s12881
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76.png
+t1426029407
+s7025
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76@2x.png
+t1426029407
+s15262
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small.png
+t1426490540
+s3242
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small@2x.png
+t1426490540
+s7724
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon.png
+t1426490540
+s3841
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon@2x.png
+t1426490540
+s9206
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/libCordova.a
+c00000000550684A900000000000D3758
+t1426490537
+s866136
+
+N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch
+t1426490540
+s5377080
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescaa41629bcb6ba41^28432529bcb6ba41^---0#1#1#--18"Check dependencies36"E0B4127D-0D5C-4AF0-9ACB-F7826440542A-
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183340.998024
+e448183341.358391
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m205"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o Compassion/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc898ff2cbcb6ba41^a5bf5b2dbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m0000000000000000^4140"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o Compassion/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o36"485AC66B-9568-47AD-A5F6-DAEC1337DD5F-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183341.765359
+e448183341.863786
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m257"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd524c42dbcb6ba41^3621dd2dbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m0000000000000000^4272"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o36"6FC1AEB1-B400-49DB-B5D4-BA28ED64116F-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183341.358826
+e448183341.720122
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m221"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o Compassion/Plugins/org.apache.cordova.file/CDVFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler25035c2dbcb6ba41^7764b82dbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m0000000000000000^4164"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o Compassion/Plugins/org.apache.cordova.file/CDVFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o36"257446B7-B8F2-449B-B44C-36CF36807C15-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183341.720553
+e448183341.842421
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m243"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler658fb82dbcb6ba41^19a9d72dbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m0000000000000000^4230"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o36"4343EC43-6B26-4141-92AB-B22E60311624-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183341.842801
+e448183342.059965
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.file/CDVFile.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m224"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o Compassion/Plugins/org.apache.cordova.media/CDVSound.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6de3d72dbcb6ba41^f75b0f2ebcb6ba41^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m0000000000000000^4172"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o Compassion/Plugins/org.apache.cordova.media/CDVSound.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/org.apache.cordova.media/CDVSound.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o36"5FFF4A64-CBB0-4335-8D44-EBC00112E013-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183341.266165
+e448183341.343547
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m219"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o Compassion/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8143442dbcb6ba41^4ef2572dbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m0000000000000000^4182"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o Compassion/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o36"3A62F6BB-CAB5-4169-9A5C-FF00082FA39E-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183341.343913
+e448183341.764747
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+o/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m:98:43: warning: undeclared selector 'popoverPresentationController' [-Wundeclared-selector]
+o      if ([activityVC respondsToSelector:@selector(popoverPresentationController)]) {
+o                                          ^
+o/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m:108:48: warning: undeclared selector 'popoverPresentationController' [-Wundeclared-selector]
+o    } else if ([activityVC respondsToSelector:@selector(popoverPresentationController)]) {
+o                                               ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m245"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1825582dbcb6ba41^22c6c32dbcb6ba41^-765"/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m:98:43: warning: undeclared selector 'popoverPresentationController' [-Wundeclared-selector]      if ([activityVC respondsToSelector:@selector(popoverPresentationController)]) {                                          ^/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m:108:48: warning: undeclared selector 'popoverPresentationController' [-Wundeclared-selector]    } else if ([activityVC respondsToSelector:@selector(popoverPresentationController)]) {                                               ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@51"Undeclared selector 'popoverPresentationController'-448183341#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@150"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m0000000000000000^97#42#97#42#3924#0#14"Semantic Issue--2@51"Undeclared selector 'popoverPresentationController'-448183341#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@150"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m0000000000000000^107#47#107#47#4533#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@150"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m0000000000000000^4224"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Plugins/nl.x-services.plugins.socialsharing/SocialSharing.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o36"0AA2E40C-53D9-41B7-8E4C-4EB956E3348A-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183340.997586
+e448183341.265851
+r1
+xCompileC
+xbuild/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m183"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o Compassion/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d86ff2cbcb6ba41^c311442dbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m0000000000000000^4082"CompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o Compassion/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -include /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.dia -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/main.m -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o36"0C497171-AA59-46A2-A113-1B0595CC40C6-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCompileXIB /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.xib
+r0
+
+CCpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png
+s448183340.629798
+e448183340.632485
+r1
+xCpResource
+xCompassion/Resources/icons/icon-60.png
+xbuild/emulator/Compassion.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-60.png91"CpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.pngca6fa12cbcb6ba41^ffeaa12cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"D026AE8F-7331-4237-BFE7-FB77D2AC9221-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-60@3x.png build/emulator/Compassion.app/icon-60@3x.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png
+s448183340.607446
+e448183340.625513
+r1
+xCpResource
+xCompassion/Resources/icons/icon-72.png
+xbuild/emulator/Compassion.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-72.png91"CpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png20989b2cbcb6ba41^6020a02cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"A6CA8A79-0568-4EE0-9B89-569C38DDED6B-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.png
+s448183340.632188
+e448183340.634160
+r1
+xCpResource
+xCompassion/Resources/icons/icon-72@2x.png
+xbuild/emulator/Compassion.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-72@2x.png97"CpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.pnga4fba12cbcb6ba41^d658a22cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"F5344CCC-59DE-46EA-859F-4922D9F49BF8-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app/icon-76.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-76@2x.png build/emulator/Compassion.app/icon-76@2x.png
+r0
+
+CCpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png
+s448183340.626282
+e448183340.628651
+r1
+xCpResource
+xCompassion/Resources/icons/icon-small.png
+xbuild/emulator/Compassion.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-small.png97"CpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.pngae7ea02cbcb6ba41^41f0a02cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"8521B60E-C89A-47B7-BB42-2E19382B2D2F-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png
+s448183340.629109
+e448183340.631505
+r1
+xCpResource
+xCompassion/Resources/icons/icon-small@2x.png
+xbuild/emulator/Compassion.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/Compassion.app/icon-small@2x.png103"CpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png823aa12cbcb6ba41^d3a3a12cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small@2x.png0000000000000000^785"CpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"7351000B-6004-4EA3-A1E3-D8EE0E02BD22-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png
+s448183340.607910
+e448183340.625552
+r1
+xCpResource
+xCompassion/Resources/icons/icon.png
+xbuild/emulator/Compassion.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/Compassion.app/icon.png85"CpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png70b49b2cbcb6ba41^bd54a02cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon.png0000000000000000^758"CpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"F917F29D-A258-415B-AAA3-F6016BE8FD2F-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png
+s448183340.626267
+e448183340.629465
+r1
+xCpResource
+xCompassion/Resources/icons/icon@2x.png
+xbuild/emulator/Compassion.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon@2x.png91"CpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png338ba02cbcb6ba41^cc25a12cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon@2x.png0000000000000000^767"CpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"3636D77B-DDDC-49DB-AC36-55FEC112F8BA-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CCpResource Compassion/Resources/splash/Default-568h@2x~iphone.png build/emulator/Compassion.app/Default-568h@2x~iphone.png
+r0
+
+CCpResource Compassion/Resources/splash/Default-667h.png build/emulator/Compassion.app/Default-667h.png
+r0
+
+CCpResource Compassion/Resources/splash/Default-736h.png build/emulator/Compassion.app/Default-736h.png
+r0
+
+CCpResource Compassion/Resources/splash/Default-Landscape-736h.png build/emulator/Compassion.app/Default-Landscape-736h.png
+r0
+
+CCpResource Compassion/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Compassion.app/Default-Landscape@2x~ipad.png
+r0
+
+CCpResource Compassion/Resources/splash/Default-Landscape~ipad.png build/emulator/Compassion.app/Default-Landscape~ipad.png
+r0
+
+CCpResource Compassion/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Compassion.app/Default-Portrait@2x~ipad.png
+r0
+
+CCpResource Compassion/Resources/splash/Default-Portrait~ipad.png build/emulator/Compassion.app/Default-Portrait~ipad.png
+r0
+
+CCpResource Compassion/Resources/splash/Default@2x~iphone.png build/emulator/Compassion.app/Default@2x~iphone.png
+r0
+
+CCpResource Compassion/Resources/splash/Default~iphone.png build/emulator/Compassion.app/Default~iphone.png
+r0
+
+CGenerateDSYMFile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
+s448183344.106296
+e448183344.242970
+r1
+xGenerateDSYMFile
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generate /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM92"GenerateDSYMFile build/emulator/Compassion.app.dSYM build/emulator/Compassion.app/Compassion514f1b30bcb6ba41^ce333e30bcb6ba41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM/0000000000000000^766"GenerateDSYMFile build/emulator/Compassion.app.dSYM build/emulator/Compassion.app/Compassion    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM36"A2D32F80-F394-42CC-B519-78C20A1FC18D-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CLd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion normal i386
+s448183342.085305
+e448183344.104599
+r1
+xLd
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
+xnormal
+xi386
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/Compassion.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/main.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/MainViewController.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/SocialSharing.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVFile.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVLocalFilesystem.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/CDVSound.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion55"Ld build/emulator/Compassion.app/Compassion normal i3869412162ebcb6ba41^11c31a30bcb6ba41^---0#0#1#--1874"Ld build/emulator/Compassion.app/Compassion normal i386    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -filelist /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/Compassion.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -weak_framework Social -weak_framework MessageUI -Xlinker -dependency_info -Xlinker /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/Compassion_dependency_info.dat -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion36"1F47FCCD-791C-48FB-8695-D4520191EF4B-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CPhaseScriptExecution Copy\ www\ directory /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh
+s448183337.187733
+e448183340.606272
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m3.297s
+ouser	0m0.943s
+osys	0m1.505s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'138"PhaseScriptExecution Copy\ www\ directory build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh2ae63029bcb6ba41^da3b9b2cbcb6ba41^-42"real	0m3.297suser	0m0.943ssys	0m1.505s3(21%IDEActivityLogMessage2@14"real	0m3.297s-448183340#1#14#-0#-----2@14"user	0m0.943s-448183340#15#14#-0#-----2@13"sys	0m1.505s-448183340#29#13#-0#-----0#0#1#--404"PhaseScriptExecution Copy\ www\ directory build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    /bin/sh -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh36"E1384F78-67B0-4CF9-8844-A23A9A430B92-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CProcessInfoPlistFile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist
+s448183337.146740
+e448183337.185607
+r1
+xProcessInfoPlistFile
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Process /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist94"ProcessInfoPlistFile build/emulator/Compassion.app/Info.plist Compassion/Compassion-Info.plistffb02529bcb6ba41^dc842f29bcb6ba41^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist0000000000000000^880"ProcessInfoPlistFile build/emulator/Compassion.app/Info.plist Compassion/Compassion-Info.plist    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist -genpkginfo /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist36"0CC6D94F-1450-455A-8B68-95B18E9E940B-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CProcessPCH /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch Compassion/Compassion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s448183340.635116
+e448183340.996761
+r1
+xProcessPCH
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch
+xCompassion/Compassion-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Compassion/Compassion-Prefix.pch200"ProcessPCH build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch Compassion/Compassion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7db2a22cbcb6ba41^be2eff2cbcb6ba41^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Prefix.pch0000000000000000^3950"ProcessPCH build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch Compassion/Compassion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-generated-files.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-own-target-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-all-target-headers.hmap -iquote /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Compassion-project-headers.hmap -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/usr/local/lib/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/UninstalledProducts/include -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources/i386 -I/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/DerivedSources -F/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator --serialize-diagnostics /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.dia -MMD -MT dependencies -MF /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.d -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Prefix.pch -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch36"E2549C54-E6FC-4B29-9FDD-FB0325C03C8A-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+
+CTouch /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app
+s448183344.244087
+e448183344.310855
+r1
+xTouch
+x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app35"Touch build/emulator/Compassion.appf88a3e30bcb6ba41^d5954f30bcb6ba41^---0#0#1#--509"Touch build/emulator/Compassion.app    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"C55CBB5C-7BC4-43D4-BC4D-9C07D53557B6-
+bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
+

@@ -93,7 +93,7 @@
 		    {
 		      "id":"15",	
 		      "term": "Buddha (S): ",
-		      "definition": "Awakened One. Often used to refer to the “historical Buddha,” Siddhartha Gautama, an Indian prince, probably born sometime in the 5th century. He achieved enlightenment and became known as Shakyamuni. In Mahayana Buddhism, Shakyamuni is but one of many past, present and future buddhas.",
+		      "definition": "Awakened One. Often used to refer to the “historical Buddha,” Siddhartha Gautama, an Indian prince, probably born sometime in the 5th century BCE. He achieved enlightenment and became known as Shakyamuni. In Mahayana Buddhism, Shakyamuni is but one of many past, present and future buddhas.",
 		      "pronunciation":"audio/buddha.mp3"
 		    },
 		    {
@@ -185,7 +185,7 @@
 		      "id":"30",	
 		      "term": "Fudo Myoo (J): ",
 		      "definition": "Wrathful yet beneficial deity in Japanese esoteric Buddhism. ", 
-		      "pronunciation":""
+		      "pronunciation":"audio/hudo-myoo.mp3"
 
 		    },
 		    {
@@ -209,13 +209,13 @@
 		    {
 		      "id":"34",	
 		      "term": "Hayagriva (S): ",
-		      "definition": " “Horse-neck” wrathful form of Avalokiteshvara who is thought to cure diseases. Known as Bato Kannon in Japan",
+		      "definition": " “Horse-neck” wrathful form of Avalokiteshvara who is thought to cure diseases. Known as Bato Kannon in Japan.",
 		      "pronunciation":"audio/hayagriva.mp3"
 		    },
 		    {
 		      "id":"35",	
-		      "term": "Heart Sutra",
-		      "definition": ": “Heart” or essence of the lengthy Prajnaparamita Sutra. Fundamental Mahayana Buddhist teaching delivered by Avalokiteshvara.",
+		      "term": "Heart Sutra: ",
+		      "definition": " “Heart” or essence of the lengthy Prajnaparamita Sutra. Fundamental Mahayana Buddhist teaching delivered by Avalokiteshvara.",
 		      "pronunciation":""
 
 		    },
@@ -233,23 +233,17 @@
 
 		    },
 		    {
-		      "id":"38", 
-		      "term":"Jodo ():",
-		      "definition":"", 
-		      "pronunciation":"audio/jodo.mp3"
-		    }, 
-		    {
-		      "id":"39",	
+		      "id":"38",	
 		      "term": "Jokhang Temple (T): ",
 		      "definition": "Most important Buddhist temple in Tibet, located in Lhasa.  Houses a legendary statue of the Eleven-headed Avalokiteshvara, a focus of veneration.", 
 		      "pronunciation":""
 
 		    },
 		    {
-		      "id":"40",	
+		      "id":"39",	
 		      "term": "Juichimen Kannon (J): ",
 		      "definition": "Eleven-headed Avalokiteshvara.", 
-		      "pronunciation":"audio/avalokiteshvara.mp3"
+		      "pronunciation":"audio/juichimen-kannon.mp3"
 
 		    },
 		    {
@@ -276,7 +270,7 @@
 		      "id":"44",	
 		      "term": "Karunamaya (S): ",
 		      "definition": "Nepalese name for Avalokiteshvara. Karuna is the Sanskrit word for compassion.", 
-		      "pronunciation":"audio/Karunamaya.mp3"
+		      "pronunciation":"audio/karunamaya.mp3"
 		    },
 		    {
 		      "id":"45",	
@@ -289,7 +283,7 @@
 		      "id":"46",	
 		      "term": "Kukai (J): ",
 		      "definition": "Monk and a proponent of esoteric Buddhism in Japan. He lived from 774-835.", 
-		      "pronunciation":"audio/Kukai.mp3"
+		      "pronunciation":"audio/kukai.mp3"
 		    },
 		    {
 		      "id":"47",	
@@ -313,7 +307,7 @@
 		      "id":"50",	
 		      "term": "Longnu (C): ",
 		      "definition": "Dragon Daughter. According to a traditional Chinese folk tale, she is Dragon King’s child and has decided to become Guanyin’s disciple after the bodhisattva saved her brother.", 
-		      "pronunciation":""
+		      "pronunciation":"audio/longnu.mp3"
 
 		    },
 		    {
@@ -326,7 +320,7 @@
 		       "id":"52",	
 		      "term": "Mahayana Buddhism (S): ",
 		      "definition": "Great Vehicle. Appearing early in the first millennium, this vehicle evolved—and also departed—from the earliest Buddhist schools.  Its philosophy and practices place special emphasis on bodhisattvas and their mission. It also includes a vast number of celestial buddhas who preside over innumerable Pure Lands.",
-		      "pronunciation":""
+		      "pronunciation":"audio/mahayana.mp3"
 
 		    },
 		    {
@@ -405,7 +399,7 @@
 		      "id":"64",	
 		      "term": "Northern Song Dynasty (C): ",
 		      "definition": "A dynasty from 960 to 1127.", 
-		      "pronunciation":"audio/nothern-song-dynasty.mp3"
+		      "pronunciation":"audio/northern-song-dynasty.mp3"
 		    },
 		    {
 		      "id":"65",	
@@ -430,7 +424,7 @@
 		      "id":"68",	
 		      "term": "Om mani padme hum (S): ",
 		      "definition": "Six-syllable mantra associated with Shadakshari Lokeshvara. Mani means jewel and padme refers to lotus, both attributes of Avalokiteshvara.", 
-		      "pronunciation":"audio/om-mami-padme-hum.mp3"
+		      "pronunciation":"audio/om-mani-padme-hum.mp3"
 		    },
 		    {
 		      "id":"69",	
@@ -680,7 +674,7 @@
 		      "id":"107",	
 		      "term": "Vajra Vetali (S): ",
 		      "definition": "Fierce female protector, the consort of Rakta Yamari.", 
-		      "pronunciation":"audio/vajra-vetali.mp3"
+		      "pronunciation":""
 
 		    },
 		    {
@@ -706,7 +700,7 @@
 		      "id":"111",	
 		      "term": "Water-moon Kannon: ",
 		      "definition": "Derived from an indigenous Chinese form, this manifestation of the Japanese Avalokiteshvara sits a relaxed posture, often in a rocky setting suggesting Potalaka. A large full-moon nimbus envelops the bodhisattva.", 
-		      "pronunciation":"audio/water-moon-guanyin.mp3"
+		      "pronunciation":""
 		    },
 		    {
 		      "id":"112",	

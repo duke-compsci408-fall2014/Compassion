@@ -1,6 +1,6 @@
 <ion-view hide-nav-bar="true" class="artifact-page">
 	<div ng-show="overlay === true">
-		<a ng-href="#/app/themes/{{themeId}}" ng-click="goBack()"><div class="artifact-close ion-android-close"></div></a>
+		<a ng-href="{{returnAddress}}" ng-click="goBack()"><div class="artifact-close ion-android-close"></div></a>
 		<a ng-click="openPopover($event)"><div class="artifact-share ion-share"></div></a>
 
 	</div>

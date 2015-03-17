@@ -69,6 +69,7 @@ angular.module('starter')
 
   $scope.curArtId = $stateParams.artifactId;
   $scope.themeId = $stateParams.catId;
+  $scope.returnAddress = ""
 
   $scope.tab = 1;
   $scope.overlay = true;
@@ -77,8 +78,14 @@ angular.module('starter')
   };
 
   $scope.goBack = function() {
-    //window.history.back();
 
+    if($scope.themeId == "")
+       $scope.returnAddress += "#/app/slideshow"
+      //window.history.back();
+    $scope.returnAddress += "#/app/themes/"
+    $scope.returnAddress += $scope.themeId
+
+    console.log( $scope.returnAddress)
    };
 
   $scope.imageURLToShare = function(imageURL){
@@ -134,7 +141,9 @@ angular.module('starter')
     $scope.artifactCaption = $scope.artifacts[$stateParams.artifactId - 1].caption;
     $scope.comparativeImages = $scope.artifacts[$stateParams.artifactId - 1].comparativeImages;
     $scope.audioUrl = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audio);
+    $scope.audioUrl2 = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audiob);
     $scope.playlist = $sce.trustAsResourceUrl($scope.artifacts[$stateParams.artifactId - 1].audio2);
+    
     $scope.location = $scope.artifacts[$stateParams.artifactId - 1].location;
   });
 

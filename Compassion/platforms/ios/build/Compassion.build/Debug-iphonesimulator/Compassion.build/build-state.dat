@@ -8,23 +8,23 @@ cCpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app
 cCpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.png
 cCpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png
 cCpResource Compassion/Resources/splash/Default-736h.png build/emulator/Compassion.app/Default-736h.png
-cCpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png
 cCpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png
 cCompileXIB /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/MainViewController.xib
+cCpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png
 cCpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.png
 cCpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png
-cCpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png
 cCpResource Compassion/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Compassion.app/Default-Landscape@2x~ipad.png
 cCpResource Compassion/Resources/splash/Default-Landscape~ipad.png build/emulator/Compassion.app/Default-Landscape~ipad.png
 cCpResource Compassion/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Compassion.app/Default-Portrait@2x~ipad.png
+cCpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png
 cCpResource Compassion/Resources/splash/Default-Portrait~ipad.png build/emulator/Compassion.app/Default-Portrait~ipad.png
 cCpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png
 cCpResource Compassion/Resources/splash/Default-667h.png build/emulator/Compassion.app/Default-667h.png
-cCpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png
 cCpResource Compassion/Resources/splash/Default@2x~iphone.png build/emulator/Compassion.app/Default@2x~iphone.png
 cCpResource Compassion/Resources/splash/Default~iphone.png build/emulator/Compassion.app/Default~iphone.png
-cCpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png
+cCpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png
 cCpResource Compassion/Resources/splash/Default-568h@2x~iphone.png build/emulator/Compassion.app/Default-568h@2x~iphone.png
+cCpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png
 cCpResource Compassion/Resources/splash/Default-Landscape-736h.png build/emulator/Compassion.app/Default-Landscape-736h.png
 cCpResource Compassion/Resources/icons/icon-60@3x.png build/emulator/Compassion.app/icon-60@3x.png
 cCpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.png
@@ -274,8 +274,8 @@ t1426029407
 s5977
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist
-c000000005506944000000000000016D6
-t1426494528
+c00000000550DB0D700000000000016D6
+t1426960599
 s5846
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Prefix.pch
@@ -334,33 +334,33 @@ t1426029407
 s30907
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40.png
-c00000000550694400000000000000998
-t1426494528
+c00000000550DB0D80000000000000998
+t1426960600
 s2456
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40@2x.png
-c000000005506944000000000000016D9
-t1426494528
+c00000000550DB0D800000000000016D9
+t1426960600
 s5849
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50.png
-c00000000550694400000000000000939
-t1426494528
+c00000000550DB0D80000000000000939
+t1426960600
 s2361
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50@2x.png
-c0000000055069440000000000000182E
-t1426494528
+c00000000550DB0D8000000000000182E
+t1426960600
 s6190
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60.png
-c00000000550694400000000000000FF7
-t1426494528
+c00000000550DB0D70000000000000FF7
+t1426960599
 s4087
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60@2x.png
-c0000000055069440000000000000269A
-t1426494528
+c00000000550DB0D7000000000000269A
+t1426960599
 s9882
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60@3x.png
@@ -369,43 +369,43 @@ t1426029407
 s30083
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72.png
-c000000005506944000000000000013FB
-t1426494528
+c00000000550DB0D800000000000013FB
+t1426960600
 s5115
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72@2x.png
-c00000000550694400000000000003251
-t1426494528
+c00000000550DB0D80000000000003251
+t1426960600
 s12881
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76.png
-c00000000550694400000000000001586
-t1426494528
+c00000000550DB0D70000000000001586
+t1426960599
 s5510
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76@2x.png
-c00000000550694400000000000003688
-t1426494528
+c00000000550DB0D70000000000003688
+t1426960599
 s13960
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small.png
-c00000000550694400000000000000CAA
-t1426494528
+c00000000550DB0D70000000000000CAA
+t1426960599
 s3242
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small@2x.png
-c00000000550694400000000000001E2C
-t1426494528
+c00000000550DB0D70000000000001E2C
+t1426960599
 s7724
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon.png
-c00000000550694400000000000000F01
-t1426494528
+c00000000550DB0D80000000000000F01
+t1426960600
 s3841
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon@2x.png
-c000000005506944000000000000023F6
-t1426494528
+c00000000550DB0D800000000000023F6
+t1426960600
 s9206
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/splash/Default-568h@2x~iphone.png
@@ -506,11 +506,11 @@ t1426029407
 s45
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app
-t1426494554
+t1426960631
 s1088
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM
-t1426492879
+t1426494554
 s102
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
@@ -558,7 +558,7 @@ t1426029407
 s10394
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist
-t1426494546
+t1426960624
 s1934
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/MainViewController.nib
@@ -570,27 +570,27 @@ t2
 s0
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40.png
-t1426494554
+t1426960631
 s2456
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40@2x.png
-t1426494554
+t1426960631
 s5849
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50.png
-t1426494554
+t1426960631
 s2361
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50@2x.png
-t1426494554
+t1426960631
 s6190
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60.png
-t1426494554
+t1426960631
 s4087
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60@2x.png
-t1426494554
+t1426960631
 s9882
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60@3x.png
@@ -598,35 +598,35 @@ t1426029407
 s30083
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72.png
-t1426494554
+t1426960631
 s5115
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72@2x.png
-t1426494554
+t1426960631
 s12881
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76.png
-t1426494554
+t1426960631
 s5510
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76@2x.png
-t1426494554
+t1426960631
 s13960
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small.png
-t1426494554
+t1426960631
 s3242
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small@2x.png
-t1426494554
+t1426960631
 s7724
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon.png
-t1426494554
+t1426960631
 s3841
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon@2x.png
-t1426494554
+t1426960631
 s9206
 
 N/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/include/Cordova/CDV.h
@@ -880,7 +880,7 @@ s104944
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesccd395d1cbb6ba41^61ddf8d1cbb6ba41^---0#1#1#--18"Check dependencies36"6AE30D23-A8BF-442B-A137-BCB0DB5F13E1-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescc99a56fe8bdba41^92060770e8bdba41^---0#1#1#--18"Check dependencies36"9517240F-C1E1-440F-B799-31C475775736-
 
 CCompileC build/Compassion.build/Debug-iphonesimulator/Compassion.build/Objects-normal/i386/AppDelegate.o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s448183340.998024
@@ -1142,147 +1142,147 @@ CCompileXIB /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms
 r0
 
 CCpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png
-s448187354.008401
-e448187354.010976
+s448653431.452136
+e448653431.456883
 r1
 xCpResource
 xCompassion/Resources/icons/icon-40.png
 xbuild/emulator/Compassion.app/icon-40.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-40.png91"CpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.pngcb4b02dacbb6ba41^24d202dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"56F1DB00-93D7-4051-BDDE-C12DFDCA52E8-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-40.png91"CpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png0ef57377e8bdba41^bef67477e8bdba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-40.png build/emulator/Compassion.app/icon-40.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"F3063200-1145-4E19-AEAD-F5D512885F4E-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.png
-s448187354.000646
-e448187354.003231
+s448653431.175799
+e448653431.444754
 r1
 xCpResource
 xCompassion/Resources/icons/icon-40@2x.png
 xbuild/emulator/Compassion.app/icon-40@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-40@2x.png97"CpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.pngdd4500dacbb6ba41^3be200dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"EF2249F4-AA1F-4DCC-B785-2F2A858348A5-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-40@2x.png97"CpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.png8f182d77e8bdba41^87df7177e8bdba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-40@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-40@2x.png build/emulator/Compassion.app/icon-40@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-40@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"884EEDA1-156B-4AD3-A86C-7DCAAF16D75A-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.png
-s448187354.004309
-e448187354.006298
+s448653431.445746
+e448653431.448567
 r1
 xCpResource
 xCompassion/Resources/icons/icon-50.png
 xbuild/emulator/Compassion.app/icon-50.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-50.png91"CpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.png0d3601dacbb6ba41^fe9901dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"D3B60D40-E138-425D-A9DB-9A8C1E359699-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-50.png91"CpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.pngeb387277e8bdba41^56d67277e8bdba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-50.png build/emulator/Compassion.app/icon-50.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"6CE88DAA-A48E-444B-8F00-02AF53603990-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.png
-s448187354.011183
-e448187354.013110
+s448653431.454450
+e448653431.456980
 r1
 xCpResource
 xCompassion/Resources/icons/icon-50@2x.png
 xbuild/emulator/Compassion.app/icon-50@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-50@2x.png97"CpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.png320503dacbb6ba41^a65e03dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"3B96524F-7C0D-44D0-B152-166577168A6E-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-50@2x.png97"CpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.pnge6757477e8bdba41^1afd7477e8bdba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-50@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-50@2x.png build/emulator/Compassion.app/icon-50@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-50@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"F38975A3-52C9-4303-8547-85F05F1A92C5-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png
-s448187354.009350
-e448187354.010992
+s448653431.452746
+e448653431.476450
 r1
 xCpResource
 xCompassion/Resources/icons/icon-60.png
 xbuild/emulator/Compassion.app/icon-60.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-60.png91"CpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png9a7902dacbb6ba41^3def02dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"9B812D57-B069-4642-9ACA-6DD00D9A05D8-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-60.png91"CpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png6afb7377e8bdba41^05f97977e8bdba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-60.png build/emulator/Compassion.app/icon-60.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"341AE59F-25D4-43E1-800F-23B5B1E90AB3-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png
-s448187354.005729
-e448187354.007964
+s448653431.448742
+e448653431.451737
 r1
 xCpResource
 xCompassion/Resources/icons/icon-60@2x.png
 xbuild/emulator/Compassion.app/icon-60@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-60@2x.png97"CpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png29b301dacbb6ba41^bd1c02dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"878D8C02-681B-4C7F-A0D2-EE207D2C3AD5-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-60@2x.png97"CpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png24f17277e8bdba41^c2a57377e8bdba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-60@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-60@2x.png build/emulator/Compassion.app/icon-60@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-60@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"2F1EBA35-7987-4499-A911-E0595804A227-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-60@3x.png build/emulator/Compassion.app/icon-60@3x.png
 r0
 
 CCpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png
-s448187354.000811
-e448187354.003225
+s448653431.176093
+e448653431.445406
 r1
 xCpResource
 xCompassion/Resources/icons/icon-72.png
 xbuild/emulator/Compassion.app/icon-72.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-72.png91"CpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png045400dacbb6ba41^1ade00dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"D3B84196-8640-4125-8DA1-D07A1DF20411-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-72.png91"CpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png0a2f2d77e8bdba41^e2047277e8bdba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-72.png build/emulator/Compassion.app/icon-72.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"BC1246E3-2A59-496C-94C9-77AA33DF68F4-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.png
-s448187354.011946
-e448187354.013440
+s448653431.457177
+e448653431.459806
 r1
 xCpResource
 xCompassion/Resources/icons/icon-72@2x.png
 xbuild/emulator/Compassion.app/icon-72@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-72@2x.png97"CpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.png8e2203dacbb6ba41^128403dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"9CB95A4F-86D7-43E6-A474-99CD41A39206-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-72@2x.png97"CpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.pngac197577e8bdba41^e5b67577e8bdba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-72@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-72@2x.png build/emulator/Compassion.app/icon-72@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-72@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"FF5B5D79-DCDB-4F83-90E8-AD6491198135-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app/icon-76.png
-s448187354.000386
-e448187354.003241
+s448653431.175583
+e448653431.443831
 r1
 xCpResource
 xCompassion/Resources/icons/icon-76.png
 xbuild/emulator/Compassion.app/icon-76.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-76.png91"CpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app/icon-76.pnge14400dacbb6ba41^37fe00dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app/icon-76.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"2429A009-105A-4412-B48B-DA4EE1B0D08D-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon-76.png91"CpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app/icon-76.png020e2d77e8bdba41^27a07177e8bdba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76.png0000000000000000^767"CpResource Compassion/Resources/icons/icon-76.png build/emulator/Compassion.app/icon-76.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"5FC17E4C-8B0E-40CB-B71E-B0021F6D7990-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-76@2x.png build/emulator/Compassion.app/icon-76@2x.png
-s448187354.011666
-e448187354.013287
+s448653431.457069
+e448653431.459967
 r1
 xCpResource
 xCompassion/Resources/icons/icon-76@2x.png
 xbuild/emulator/Compassion.app/icon-76@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-76@2x.png97"CpResource Compassion/Resources/icons/icon-76@2x.png build/emulator/Compassion.app/icon-76@2x.pnge31603dacbb6ba41^6e6b03dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-76@2x.png build/emulator/Compassion.app/icon-76@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"E91A2787-790F-41B6-AC0A-5691341D506E-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-76@2x.png97"CpResource Compassion/Resources/icons/icon-76@2x.png build/emulator/Compassion.app/icon-76@2x.png651a7577e8bdba41^ecc07577e8bdba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-76@2x.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-76@2x.png build/emulator/Compassion.app/icon-76@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-76@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"45C26240-A03F-472F-A96C-F840C35D30F9-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png
-s448187354.005843
-e448187354.007482
+s448653431.449669
+e448653431.452313
 r1
 xCpResource
 xCompassion/Resources/icons/icon-small.png
 xbuild/emulator/Compassion.app/icon-small.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-small.png97"CpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.pngf59f01dacbb6ba41^52ef01dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"C8217D3E-6531-4E29-8CEF-809B88F0018D-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/Compassion.app/icon-small.png97"CpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.pngac3a7377e8bdba41^4fe67377e8bdba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small.png0000000000000000^776"CpResource Compassion/Resources/icons/icon-small.png build/emulator/Compassion.app/icon-small.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"8C807423-7E64-42C6-BBBB-C75D74B58DDD-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png
-s448187354.007651
-e448187354.010854
+s448653431.450107
+e448653431.452343
 r1
 xCpResource
 xCompassion/Resources/icons/icon-small@2x.png
 xbuild/emulator/Compassion.app/icon-small@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/Compassion.app/icon-small@2x.png103"CpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.pngbe1402dacbb6ba41^0c7702dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small@2x.png0000000000000000^785"CpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"4B9D9D70-ABE9-456D-AC43-19E069F813DF-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/Compassion.app/icon-small@2x.png103"CpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.pnge55f7377e8bdba41^18067477e8bdba41^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon-small@2x.png0000000000000000^785"CpResource Compassion/Resources/icons/icon-small@2x.png build/emulator/Compassion.app/icon-small@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon-small@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"7BA4F78F-9B8C-4389-9B11-0C727EF3A156-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png
-s448187354.003716
-e448187354.005607
+s448653431.444138
+e448653431.449398
 r1
 xCpResource
 xCompassion/Resources/icons/icon.png
 xbuild/emulator/Compassion.app/icon.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/Compassion.app/icon.png85"CpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png630b01dacbb6ba41^c07501dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon.png0000000000000000^758"CpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"34B884C6-F89D-41C0-8959-ABAAABF0F118-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/Compassion.app/icon.png85"CpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png1ccd7177e8bdba41^780c7377e8bdba41^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon.png0000000000000000^758"CpResource Compassion/Resources/icons/icon.png build/emulator/Compassion.app/icon.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"0FBDB995-DDB0-4A6E-8DB7-65423E6D48E6-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png
-s448187354.003632
-e448187354.005556
+s448653431.444948
+e448653431.449914
 r1
 xCpResource
 xCompassion/Resources/icons/icon@2x.png
 xbuild/emulator/Compassion.app/icon@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon@2x.png91"CpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.pngd40c01dacbb6ba41^3b6d01dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon@2x.png0000000000000000^767"CpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"CD938D30-923E-419D-87DC-BCC9F3B7D7C0-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/Compassion.app/icon@2x.png91"CpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png300e7277e8bdba41^5d317377e8bdba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/icon@2x.png0000000000000000^767"CpResource Compassion/Resources/icons/icon@2x.png build/emulator/Compassion.app/icon@2x.png    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Resources/icons/icon@2x.png /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"51F74233-241B-4462-8E4C-B5B284A13976-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CCpResource Compassion/Resources/splash/Default-568h@2x~iphone.png build/emulator/Compassion.app/Default-568h@2x~iphone.png
 r0
@@ -1315,14 +1315,14 @@ CCpResource Compassion/Resources/splash/Default~iphone.png build/emulator/Compas
 r0
 
 CGenerateDSYMFile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
-s448187354.018494
-e448187354.379566
+s448653431.927418
+e448653432.235301
 r1
 xGenerateDSYMFile
 x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM
 x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generate /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM92"GenerateDSYMFile build/emulator/Compassion.app.dSYM build/emulator/Compassion.app/Compassion6ccb04dacbb6ba41^732a61dacbb6ba41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM/0000000000000000^766"GenerateDSYMFile build/emulator/Compassion.app.dSYM build/emulator/Compassion.app/Compassion    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM36"FF36B665-647F-46DD-9C25-E10D2F309F1A-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generate /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM92"GenerateDSYMFile build/emulator/Compassion.app.dSYM build/emulator/Compassion.app/Compassionc87bed77e8bdba41^fa423c78e8bdba41^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM/0000000000000000^766"GenerateDSYMFile build/emulator/Compassion.app.dSYM build/emulator/Compassion.app/Compassion    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app.dSYM36"4CD90C8F-4C0E-4E4F-8A50-B430613AC919-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CLd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Compassion normal i386
 s448183342.085305
@@ -1410,28 +1410,28 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /
 bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
 
 CPhaseScriptExecution Copy\ www\ directory /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh
-s448187346.014910
-e448187353.999455
+s448653424.088198
+e448653431.174785
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m7.720s
-ouser	0m1.111s
-osys	0m1.975s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'138"PhaseScriptExecution Copy\ www\ directory build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh6e3004d2cbb6ba41^95f1ffd9cbb6ba41^-42"real	0m7.720suser	0m1.111ssys	0m1.975s3(21%IDEActivityLogMessage2@14"real	0m7.720s-448187353#1#14#-0#-----2@14"user	0m1.111s-448187353#15#14#-0#-----2@13"sys	0m1.975s-448187353#29#13#-0#-----0#0#1#--404"PhaseScriptExecution Copy\ www\ directory build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    /bin/sh -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh36"054850AC-1E16-44BB-808B-321A9F724B6A-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+oreal	0m6.674s
+ouser	0m1.006s
+osys	0m1.728s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'138"PhaseScriptExecution Copy\ www\ directory build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh09ff1670e8bdba41^decc2c77e8bdba41^-42"real	0m6.674suser	0m1.006ssys	0m1.728s3(21%IDEActivityLogMessage2@14"real	0m6.674s-448653431#1#14#-0#-----2@14"user	0m1.006s-448653431#15#14#-0#-----2@13"sys	0m1.728s-448653431#29#13#-0#-----0#0#1#--404"PhaseScriptExecution Copy\ www\ directory build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    /bin/sh -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/Compassion.build/Debug-iphonesimulator/Compassion.build/Script-304B58A110DAC018002A0835.sh36"46AA5B6E-E7C6-4754-B68F-B5D7D87E7741-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CProcessInfoPlistFile /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist
-s448187345.974482
-e448187346.013641
+s448653424.034371
+e448653424.086465
 r1
 xProcessInfoPlistFile
 x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist
 x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Process /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist94"ProcessInfoPlistFile build/emulator/Compassion.app/Info.plist Compassion/Compassion-Info.plistbb64fcd1cbb6ba41^d87d03d2cbb6ba41^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist0000000000000000^880"ProcessInfoPlistFile build/emulator/Compassion.app/Info.plist Compassion/Compassion-Info.plist    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist -genpkginfo /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist36"F14028A4-AEFD-4119-9325-FEC15AA215B3-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Process /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist94"ProcessInfoPlistFile build/emulator/Compassion.app/Info.plist Compassion/Compassion-Info.plist191d1070e8bdba41^4f221670e8bdba41^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist0000000000000000^880"ProcessInfoPlistFile build/emulator/Compassion.app/Info.plist Compassion/Compassion-Info.plist    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/Compassion/Compassion-Info.plist -genpkginfo /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app/Info.plist36"A21D7016-1BB1-498D-8957-FBCE86AB75F2-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 
 CProcessPCH /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/sharedpch/Compassion-Prefix-bjajpeojbgamppckvgrldbhtlhpu/Compassion-Prefix.pch.pch Compassion/Compassion-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s448183340.635116
@@ -1449,11 +1449,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precomp
 bA15CE0AB-8762-43D1-8BA0-D0B0484C24BE
 
 CTouch /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app
-s448187354.381038
-e448187354.504858
+s448653432.236833
+e448653432.307610
 r1
 xTouch
 x/Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app35"Touch build/emulator/Compassion.appcc9961dacbb6ba41^894081dacbb6ba41^---0#0#1#--509"Touch build/emulator/Compassion.app    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"3A13C011-35DE-4E94-B9D5-9CA3DCA56CDD-
-bC652CE40-6ECD-46CE-9ACC-ADFA63FCA416
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app35"Touch build/emulator/Compassion.app10b23c78e8bdba41^fdbf4e78e8bdba41^---0#0#1#--509"Touch build/emulator/Compassion.app    cd /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/guestuser/Documents/workspace/Compassion/Compassion/platforms/ios/build/emulator/Compassion.app36"270F28D2-EFA6-41BD-BAB3-BA990E83AD37-
+bA01C4767-40FC-4BCD-9EA2-E722A520FD62
 

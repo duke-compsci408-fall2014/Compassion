@@ -18,7 +18,8 @@
           </pre>
       <li class="item item-dark" ng-repeat="term in terms | filter:search">
         {{term.term}} 
-        <a href="" ng-click="playSound(term.pronunciation)" class="pronounce ion-volume-low"></a>      
+          <a href="" ng-show="term.hasPronunciation" ng-click="play(term.pronunciation)" class="pronounce ion-volume-low"></a>    
+      
         <pre class="term-definition">{{term.definition}}</pre>
       </li>
     </ul>

@@ -736,9 +736,9 @@ ion-side-menu ion-content {
 
 .map {
     width: 100%;
-height: 100%;
-background-size: contain;
-background-repeat: no-repeat;
+	height: 100%;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 .infoWindowContent {
     font-size:  14px !important;

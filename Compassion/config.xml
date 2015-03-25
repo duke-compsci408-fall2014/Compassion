@@ -20,11 +20,6 @@
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
 
-<gap:plugin name="org.apache.cordova.splashscreen" />
-<feature name="SplashScreen">
-    <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
-    <param name="ios-package" value="CDVSplashScreen" />
-</feature>
 
   <platform name="android">
 

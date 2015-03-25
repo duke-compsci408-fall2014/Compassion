@@ -7,13 +7,11 @@
 //angular.module('starter', ['google-maps'.ns()]);
 angular.module('starter', ['ionic', 'starter.directives', 'ngCordova'])
 
-.run(function($ionicPlatform, $cordovaSplashscreen) {
+.run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
     // for form inputs)
-    $cordovaSplashScreen.hide()
-    navigator.splashscreen.hide();
-
+  
 
     if(window.cordova && window.cordova.plugins.Keyboard) {
       cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);

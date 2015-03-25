@@ -59,5 +59,4 @@
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackupWebStorage" value="none" />
-    <gap:plugin name="org.apache.cordova.splashscreen" />
 </widget>

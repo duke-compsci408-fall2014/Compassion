@@ -177,7 +177,7 @@ ion-side-menu ion-content {
 .concierge .wrapper {
 	position: absolute;
 	top: 220px;
-	left: 70px;
+	left: 15px;
 }
 
 .concierge .more {
@@ -312,7 +312,7 @@ ion-side-menu ion-content {
 
 .explore-content .exhibit-header {
 	margin-top:43px;
-	margin-left: 10px;
+	margin-left: 30px;
 	margin-right: 10px;
 	height: 80px;
 	line-height: 35px;
